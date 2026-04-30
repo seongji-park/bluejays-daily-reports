@@ -25,7 +25,14 @@ output_file = data_dir / f"{DATE}-bluejays-statcast.csv"
 
 print(f"Downloading Statcast data for {TEAM} on {DATE}...")
 
-df = statcast(start_dt=DATE, end_dt=DATE, team=TEAM)
+# Download all Statcast data for the date, then keep only the Blue Jays game.
+# This is important because team="TOR" can return only one side of the game.
+all_df = statcast(start_dt=DATE, end_dt=DATE)
+
+df = all_df[
+    (all_df["home_team"] == TEAM) |
+    (all_df["away_team"] == TEAM)
+].copy()
 
 # =========================
 # 저장

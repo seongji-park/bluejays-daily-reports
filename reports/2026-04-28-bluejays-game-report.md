@@ -52,6 +52,42 @@ The best whiff-generating pitch was the **cutter**, which produced a **33.3% whi
 
 ---
 
+### Payton Tolle
+
+Payton Tolle threw **68 tracked pitches** in this game.
+
+| Pitch | Count | Avg Velo | H-Mov | V-Mov | Swings | Whiffs | BIP | Whiff% |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| four-seam fastball | 37 | 94.9 | -8.5 | 16.4 | 20 | 4 | 6 | 20.0% |
+| sinker | 18 | 93.7 | -17.1 | 9.9 | 4 | 0 | 3 | 0.0% |
+| cutter | 9 | 88.2 | 2.9 | 8.1 | 5 | 2 | 0 | 40.0% |
+| curveball | 3 | 81.1 | 7.4 | -5.9 | 2 | 0 | 2 | 0.0% |
+| changeup | 1 | 88.5 | -9.4 | 0.1 | 1 | 0 | 1 | 0.0% |
+
+**Primary pitch:** Payton Tolle relied most heavily on the **four-seam fastball**, throwing it 37 times.
+It averaged **94.9 mph**, with **-8.5 inches of horizontal movement** and **16.4 inches of vertical movement**.
+The best whiff-generating pitch was the **cutter**, which produced a **40.0% whiff rate** on 5 swings.
+
+---
+
+### Ryan Watson
+
+Ryan Watson threw **18 tracked pitches** in this game.
+
+| Pitch | Count | Avg Velo | H-Mov | V-Mov | Swings | Whiffs | BIP | Whiff% |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| sweeper | 6 | 84.4 | -13.1 | 6.3 | 3 | 0 | 1 | 0.0% |
+| cutter | 5 | 89.3 | -1.9 | 7.6 | 4 | 1 | 1 | 25.0% |
+| four-seam fastball | 4 | 92.7 | 6.2 | 16.4 | 2 | 0 | 1 | 0.0% |
+| sinker | 2 | 92.4 | 16.3 | 8.8 | 1 | 0 | 0 | 0.0% |
+| curveball | 1 | 82.3 | -9.2 | -11.3 | 1 | 0 | 1 | 0.0% |
+
+**Primary pitch:** Ryan Watson relied most heavily on the **sweeper**, throwing it 6 times.
+It averaged **84.4 mph**, with **-13.1 inches of horizontal movement** and **6.3 inches of vertical movement**.
+The best whiff-generating pitch was the **cutter**, which produced a **25.0% whiff rate** on 4 swings.
+
+---
+
 ### Trey Yesavage
 
 Trey Yesavage threw **74 tracked pitches** in this game.
@@ -80,6 +116,40 @@ Tyler Rogers threw **14 tracked pitches** in this game.
 **Primary pitch:** Tyler Rogers relied most heavily on the **sinker**, throwing it 9 times.
 It averaged **84.5 mph**, with **1.6 inches of horizontal movement** and **-12.7 inches of vertical movement**.
 The best whiff-generating pitch was the **slider**, which produced a **50.0% whiff rate** on 2 swings.
+
+---
+
+### Tyler Samaniego
+
+Tyler Samaniego threw **8 tracked pitches** in this game.
+
+| Pitch | Count | Avg Velo | H-Mov | V-Mov | Swings | Whiffs | BIP | Whiff% |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| sinker | 3 | 93.4 | -16.9 | 7.6 | 1 | 0 | 1 | 0.0% |
+| cutter | 2 | 89.0 | 1.5 | 8.1 | 2 | 1 | 1 | 50.0% |
+| four-seam fastball | 2 | 93.8 | -3.2 | 16.6 | 1 | 0 | 0 | 0.0% |
+| sweeper | 1 | 81.3 | 11.0 | 3.0 | 1 | 0 | 1 | 0.0% |
+
+**Primary pitch:** Tyler Samaniego relied most heavily on the **sinker**, throwing it 3 times.
+It averaged **93.4 mph**, with **-16.9 inches of horizontal movement** and **7.6 inches of vertical movement**.
+The best whiff-generating pitch was the **cutter**, which produced a **50.0% whiff rate** on 2 swings.
+
+---
+
+### Zack Kelly
+
+Zack Kelly threw **20 tracked pitches** in this game.
+
+| Pitch | Count | Avg Velo | H-Mov | V-Mov | Swings | Whiffs | BIP | Whiff% |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| cutter | 6 | 90.4 | -3.8 | 6.6 | 2 | 1 | 0 | 50.0% |
+| sinker | 6 | 96.0 | 16.0 | 10.3 | 3 | 1 | 1 | 33.3% |
+| sweeper | 6 | 81.1 | -18.2 | 3.3 | 2 | 0 | 1 | 0.0% |
+| four-seam fastball | 2 | 96.8 | 6.7 | 14.9 | 1 | 1 | 0 | 100.0% |
+
+**Primary pitch:** Zack Kelly relied most heavily on the **cutter**, throwing it 6 times.
+It averaged **90.4 mph**, with **-3.8 inches of horizontal movement** and **6.6 inches of vertical movement**.
+The best whiff-generating pitch was the **cutter**, which produced a **50.0% whiff rate** on 2 swings.
 
 ---
 

@@ -1,1 +1,22 @@
 batter_name,stand,pitch_type,p_throws,events,description,bb_type,launch_speed,launch_angle,hc_x,hc_y
+davis schneider,R,ST,R,grounded_into_double_play,hit_into_play,ground_ball,52.4,-36.0,134.05,173.38
+jesús sánchez,L,FF,R,field_out,hit_into_play,popup,81.1,63.0,109.51,137.12
+daulton varsho,L,CU,R,single,hit_into_play,line_drive,92.1,14.0,151.95,70.69
+ernie clement,R,FC,R,field_out,hit_into_play,line_drive,99.4,16.0,121.59,73.37
+myles straw,R,SI,L,single,hit_into_play,ground_ball,96.3,0.0,117.98,104.44
+andrés giménez,L,FC,L,field_out,hit_into_play,popup,72.9,58.0,151.98,137.67
+tyler heineman,R,ST,L,force_out,hit_into_play,ground_ball,91.9,4.0,101.04,163.75
+Batter 672960,R,ST,R,field_out,hit_into_play,ground_ball,85.7,-16.0,91.36,169.8
+vladimir guerrero,R,SI,R,single,hit_into_play,line_drive,82.4,16.0,122.4,90.76
+andrés giménez,L,FF,L,field_out,hit_into_play,ground_ball,70.2,-14.0,127.67,183.72
+tyler heineman,R,FF,L,field_out,hit_into_play,popup,72.5,68.0,86.52,175.24
+davis schneider,R,SI,L,field_out,hit_into_play,fly_ball,96.9,40.0,156.71,71.77
+eloy jiménez,R,CH,L,field_out,hit_into_play,ground_ball,102.0,-16.0,108.3,149.22
+Batter 672960,R,FF,L,single,hit_into_play,line_drive,105.1,19.0,54.31,82.36
+vladimir guerrero,R,SI,L,double,hit_into_play,line_drive,104.3,7.0,44.76,114.13
+ernie clement,R,CU,L,field_out,hit_into_play,popup,72.6,70.0,147.64,163.75
+andrés giménez,L,SI,L,single,hit_into_play,ground_ball,99.4,7.0,116.77,77.47
+eloy jiménez,R,CU,L,field_out,hit_into_play,line_drive,99.9,20.0,169.79,59.13
+Batter 672960,R,FF,L,field_out,hit_into_play,popup,100.3,69.0,96.8,158.3
+vladimir guerrero,R,FF,L,field_out,hit_into_play,fly_ball,84.2,52.0,145.4,103.76
+myles straw,R,FF,L,field_out,hit_into_play,line_drive,41.5,33.0,143.79,163.76

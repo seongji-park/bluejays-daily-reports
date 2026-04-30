@@ -15,14 +15,14 @@ This report uses Statcast pitch-level data for the Toronto Blue Jays game on 202
 
 ## Game Review Summary
 
-This report reviews the Toronto Blue Jays' 2026-04-28 game through Statcast pitch-level data. The dataset includes **126 Blue Jays pitching events** and **0 Blue Jays hitting events**, with a focus on pitch movement, swing decisions, batted-ball quality, and situational hitting.
+This report reviews the Toronto Blue Jays' 2026-04-28 game through Statcast pitch-level data. The dataset includes **126 Blue Jays pitching events** and **114 Blue Jays hitting events**, with a focus on pitch movement, swing decisions, batted-ball quality, and situational hitting.
 
 ## Key Takeaways
 
 1. **Pitching swing-and-miss note:** Jeff Hoffman's **FF** generated the strongest whiff profile in this sample, producing a **50.0% whiff-per-swing rate** on 2 swings.
-2. **Best contact-quality note:** There were no tracked batted balls available for contact-quality analysis.
-3. **Team contact-quality note:** Blue Jays hitters produced **0 tracked batted balls**, with a **0.0% hard-hit rate** and a **0.0% barrel rate**.
-4. **Plate-discipline note:** There was not enough out-of-zone pitch data to identify a clear chase-rate leader.
+2. **Best contact-quality note:** Batter 672960 produced the top tracked contact quality in this sample, with a max exit velocity of **105.1 mph** against **FF**.
+3. **Team contact-quality note:** Blue Jays hitters produced **40 tracked batted balls**, with a **25.0% hard-hit rate** and a **2.5% barrel rate**.
+4. **Plate-discipline note:** ernie clement showed the lowest chase rate among hitters with multiple out-of-zone pitches in this sample, chasing **0.0%** of pitches outside the zone.
 
 _Note: This is a single-game sample, so the takeaways should be treated as descriptive rather than predictive._
 
@@ -179,11 +179,245 @@ Tyler Rogers threw **14 tracked pitches**.
 
 ## Blue Jays Hitting
 
+### Batter 672960
+
+Batter 672960 saw **15 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| FF | L | 4 | 3 | 1 | 1 | 0 | 2 | 75.0 | 33.3 | 0.0 |
+| ST | R | 4 | 2 | 2 | 0 | 1 | 1 | 50.0 | 0.0 | 33.3 |
+| SI | R | 3 | 2 | 1 | 0 | 2 | 0 | 66.7 | 0.0 | 50.0 |
+| FC | L | 2 | 1 | 1 | 0 | 1 | 0 | 50.0 | 0.0 | 0.0 |
+| FC | R | 2 | 1 | 1 | 0 | 1 | 0 | 50.0 | 0.0 | 0.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| FF | L | 2 | 102.7 | 105.1 | 44.0 | 100.0 | 50.0 | 50.0 |
+| FC | L | 1 | 67.1 | 67.1 | 50.0 | 0.0 | 0.0 | 0.0 |
+| FC | R | 1 | 58.1 | 58.1 | 34.0 | 0.0 | 0.0 | 0.0 |
+| SI | R | 1 | 80.4 | 80.4 | 46.0 | 0.0 | 0.0 | 0.0 |
+| ST | R | 1 | 85.7 | 85.7 | -16.0 | 0.0 | 0.0 | 0.0 |
+
+---
+
+### andrés giménez
+
+andrés giménez saw **6 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| SI | L | 3 | 1 | 2 | 0 | 0 | 1 | 33.3 | 0.0 | 0.0 |
+| FC | L | 2 | 2 | 0 | 1 | 0 | 1 | 100.0 | 50.0 | 100.0 |
+| FF | L | 1 | 1 | 0 | 0 | 0 | 1 | 100.0 | 0.0 | 100.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| FC | L | 1 | 72.9 | 72.9 | 58.0 | 0.0 | 0.0 | 0.0 |
+| FF | L | 1 | 70.2 | 70.2 | -14.0 | 0.0 | 0.0 | 0.0 |
+| SI | L | 1 | 99.4 | 99.4 | 7.0 | 100.0 | 0.0 | 0.0 |
+
+---
+
+### daulton varsho
+
+daulton varsho saw **19 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| FF | L | 5 | 2 | 3 | 1 | 1 | 0 | 40.0 | 50.0 | 25.0 |
+| FF | R | 3 | 1 | 2 | 1 | 0 | 0 | 33.3 | 100.0 | 33.3 |
+| ST | R | 3 | 2 | 1 | 0 | 2 | 0 | 66.7 | 0.0 | 0.0 |
+| FC | L | 2 | 2 | 0 | 1 | 1 | 0 | 100.0 | 50.0 | 100.0 |
+| FC | R | 2 | 1 | 1 | 1 | 0 | 0 | 50.0 | 100.0 | 0.0 |
+| SI | L | 2 | 1 | 1 | 1 | 0 | 0 | 50.0 | 100.0 | 0.0 |
+| CU | R | 1 | 1 | 0 | 0 | 0 | 1 | 100.0 | 0.0 | 100.0 |
+| SI | R | 1 | 0 | 1 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| ST | R | 2 | 66.8 | 67.9 | 49.5 | 0.0 | 0.0 | 50.0 |
+| CU | R | 1 | 92.1 | 92.1 | 14.0 | 0.0 | 0.0 | 100.0 |
+| FC | L | 1 | 74.8 | 74.8 | 75.0 | 0.0 | 0.0 | 0.0 |
+
+---
+
+### davis schneider
+
+davis schneider saw **20 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| FF | L | 5 | 3 | 2 | 0 | 3 | 0 | 60.0 | 0.0 | 33.3 |
+| FC | R | 4 | 1 | 3 | 0 | 1 | 0 | 25.0 | 0.0 | 0.0 |
+| ST | R | 4 | 1 | 3 | 0 | 0 | 1 | 25.0 | 0.0 | 33.3 |
+| FF | R | 2 | 1 | 1 | 0 | 1 | 0 | 50.0 | 0.0 | 0.0 |
+| SI | L | 2 | 1 | 1 | 0 | 0 | 1 | 50.0 | 0.0 | 0.0 |
+| CU | L | 1 | 0 | 1 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 |
+| FC | L | 1 | 0 | 1 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 |
+| SI | R | 1 | 0 | 1 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| FC | R | 1 | 75.3 | 75.3 | 16.0 | 0.0 | 0.0 | 100.0 |
+| FF | L | 1 | 73.5 | 73.5 | 50.0 | 0.0 | 0.0 | 0.0 |
+| FF | R | 1 | 84.4 | 84.4 | 70.0 | 0.0 | 0.0 | 0.0 |
+| SI | L | 1 | 96.9 | 96.9 | 40.0 | 100.0 | 0.0 | 0.0 |
+| ST | R | 1 | 52.4 | 52.4 | -36.0 | 0.0 | 0.0 | 0.0 |
+
+---
+
+### eloy jiménez
+
+eloy jiménez saw **11 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| FF | L | 4 | 2 | 2 | 0 | 2 | 0 | 50.0 | 0.0 | 0.0 |
+| FC | L | 2 | 1 | 1 | 1 | 0 | 0 | 50.0 | 100.0 | 50.0 |
+| CH | L | 1 | 1 | 0 | 0 | 0 | 1 | 100.0 | 0.0 | 0.0 |
+| CU | L | 1 | 1 | 0 | 0 | 0 | 1 | 100.0 | 0.0 | 0.0 |
+| FC | R | 1 | 1 | 0 | 1 | 0 | 0 | 100.0 | 100.0 | 100.0 |
+| SI | R | 1 | 1 | 0 | 1 | 0 | 0 | 100.0 | 100.0 | 100.0 |
+| ST | R | 1 | 0 | 1 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| FF | L | 2 | 81.5 | 85.2 | 26.0 | 0.0 | 0.0 | 50.0 |
+| CH | L | 1 | 102.0 | 102.0 | -16.0 | 100.0 | 0.0 | 0.0 |
+| CU | L | 1 | 99.9 | 99.9 | 20.0 | 100.0 | 0.0 | 100.0 |
+
+---
+
+### ernie clement
+
+ernie clement saw **12 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| SI | L | 7 | 0 | 7 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 |
+| FF | L | 2 | 0 | 2 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 |
+| CU | L | 1 | 1 | 0 | 0 | 0 | 1 | 100.0 | 0.0 | 0.0 |
+| FC | L | 1 | 0 | 1 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 |
+| FC | R | 1 | 1 | 0 | 0 | 0 | 1 | 100.0 | 0.0 | 0.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| CU | L | 1 | 72.6 | 72.6 | 70.0 | 0.0 | 0.0 | 0.0 |
+| FC | R | 1 | 99.4 | 99.4 | 16.0 | 100.0 | 0.0 | 100.0 |
+
+---
+
+### myles straw
+
+myles straw saw **16 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| FF | L | 12 | 5 | 7 | 1 | 3 | 1 | 41.7 | 20.0 | 14.3 |
+| SI | L | 3 | 2 | 1 | 0 | 1 | 1 | 66.7 | 0.0 | 50.0 |
+| FC | L | 1 | 1 | 0 | 0 | 1 | 0 | 100.0 | 0.0 | 0.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| FF | L | 3 | 60.1 | 69.6 | 34.3 | 0.0 | 0.0 | 33.3 |
+| FC | L | 1 | 70.3 | 70.3 | -43.0 | 0.0 | 0.0 | 0.0 |
+| SI | L | 1 | 96.3 | 96.3 | 0.0 | 100.0 | 0.0 | 0.0 |
+
+---
+
+### tyler heineman
+
+tyler heineman saw **7 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| FF | L | 4 | 4 | 0 | 1 | 2 | 1 | 100.0 | 25.0 | 100.0 |
+| SI | L | 2 | 1 | 1 | 0 | 1 | 0 | 50.0 | 0.0 | 0.0 |
+| ST | L | 1 | 1 | 0 | 0 | 0 | 1 | 100.0 | 0.0 | 0.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| FF | L | 3 | 74.2 | 75.4 | 55.7 | 0.0 | 0.0 | 33.3 |
+| SI | L | 1 | 73.2 | 73.2 | 56.0 | 0.0 | 0.0 | 0.0 |
+| ST | L | 1 | 91.9 | 91.9 | 4.0 | 0.0 | 0.0 | 0.0 |
+
+---
+
+### vladimir guerrero
+
+vladimir guerrero saw **6 tracked pitches**.
+
+#### Pitch-Type Decisions
+
+| pitch_type | p_throws | pitches | swings | takes | whiffs | fouls | balls_in_play | swing_rate | whiff_per_swing | chase_rate |
+|---|---|---|---|---|---|---|---|---|---|---|
+| FF | L | 2 | 2 | 0 | 0 | 1 | 1 | 100.0 | 0.0 | 0.0 |
+| SI | L | 2 | 1 | 1 | 0 | 0 | 1 | 50.0 | 0.0 | 0.0 |
+| SI | R | 2 | 1 | 1 | 0 | 0 | 1 | 50.0 | 0.0 | 0.0 |
+
+#### Contact Quality
+
+| pitch_type | p_throws | bbe | avg_ev | max_ev | avg_la | hard_hit_rate | barrel_rate | sweet_spot_rate |
+|---|---|---|---|---|---|---|---|---|
+| FF | L | 2 | 89.6 | 95.1 | 31.5 | 50.0 | 0.0 | 50.0 |
+| SI | L | 1 | 104.3 | 104.3 | 7.0 | 100.0 | 0.0 | 0.0 |
+| SI | R | 1 | 82.4 | 82.4 | 16.0 | 0.0 | 0.0 | 100.0 |
+
+---
+
 ## Situational Hitting
 
 This section compares Blue Jays hitters with runners on base versus no runners on base.
 
-_No data available._
+| batter_name | base_situation | pitches | swings | whiffs | fouls | balls_in_play | chase_rate | avg_ev | avg_la | hard_hit_rate | barrel_rate |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Batter 672960 | Runners On | 15 | 9 | 1 | 5 | 3 | 28.6 | 82.8 | 33.7 | 33.3 | 16.7 |
+| andrés giménez | No Runners | 6 | 4 | 1 | 0 | 3 | 66.7 | 80.8 | 17.0 | 33.3 | 0.0 |
+| daulton varsho | No Runners | 19 | 10 | 5 | 4 | 1 | 33.3 | 75.1 | 47.0 | 0.0 | 0.0 |
+| davis schneider | No Runners | 15 | 5 | 0 | 4 | 1 | 10.0 | 81.9 | 35.3 | 33.3 | 0.0 |
+| davis schneider | Runners On | 5 | 2 | 0 | 1 | 1 | 50.0 | 68.4 | 17.0 | 0.0 | 0.0 |
+| eloy jiménez | No Runners | 11 | 7 | 3 | 2 | 2 | 60.0 | 91.2 | 14.0 | 50.0 | 0.0 |
+| ernie clement | No Runners | 5 | 0 | 0 | 0 | 0 | 0.0 | nan | nan | 0.0 | 0.0 |
+| ernie clement | Runners On | 7 | 2 | 0 | 0 | 2 | 0.0 | 86.0 | 43.0 | 50.0 | 0.0 |
+| jesús sánchez | Runners On | 2 | 2 | 0 | 1 | 1 | 100.0 | 74.6 | 23.0 | 0.0 | 0.0 |
+| myles straw | No Runners | 8 | 2 | 0 | 0 | 2 | 16.7 | 68.9 | 16.5 | 50.0 | 0.0 |
+| myles straw | Runners On | 8 | 6 | 1 | 5 | 0 | 33.3 | 69.7 | 9.0 | 0.0 | 0.0 |
+| tyler heineman | No Runners | 1 | 1 | 0 | 0 | 1 | 0.0 | 72.5 | 68.0 | 0.0 | 0.0 |
+| tyler heineman | Runners On | 6 | 5 | 1 | 3 | 1 | 100.0 | 78.8 | 39.8 | 0.0 | 0.0 |
+| vladimir guerrero | Runners On | 6 | 4 | 0 | 1 | 3 | 0.0 | 91.5 | 21.5 | 50.0 | 0.0 |
 
 ## Spray Chart Data
 

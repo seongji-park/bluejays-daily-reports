@@ -34,3 +34,4 @@ bluejays-daily-reports/
 ├─ charts/
 ├─ scripts/
 └─ README.md
+
