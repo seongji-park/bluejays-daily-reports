@@ -1,0 +1,15 @@
+player_name,pitch_type,pitches,avg_velocity,avg_h_mov,avg_v_mov,swings,whiffs,balls_in_play,whiff_rate
+Jeff Hoffman,FF,4,97.1,13.6,16.6,4,1,0,25.0
+Jeff Hoffman,FS,3,89.7,14.1,0.6,1,0,1,0.0
+Jeff Hoffman,SL,2,87.8,-1.1,5.0,0,0,0,0.0
+Jeff Hoffman,SI,1,96.8,16.7,12.8,0,0,0,0.0
+Louis Varland,FF,7,99.2,7.2,17.0,4,0,0,0.0
+Louis Varland,CH,4,92.9,10.3,0.3,4,2,0,50.0
+Louis Varland,KC,4,86.7,-6.9,-9.9,1,1,0,100.0
+Mason Fluharty,FC,9,90.7,4.3,9.9,3,1,1,33.3
+Mason Fluharty,ST,4,82.2,13.2,-0.6,2,0,1,0.0
+Trey Yesavage,FF,39,94.3,4.6,20.3,21,0,10,0.0
+Trey Yesavage,FS,29,82.1,12.2,6.2,12,3,5,25.0
+Trey Yesavage,SL,6,87.2,2.3,6.6,5,1,2,20.0
+Tyler Rogers,SI,9,84.5,1.6,-12.7,6,0,1,0.0
+Tyler Rogers,SL,5,75.0,-14.3,11.2,2,1,1,50.0

@@ -1,0 +1,18 @@
+player_name,pitch_type,stand,bbe,avg_ev,max_ev,avg_la,hard_hits,barrels,sweet_spots,hard_hit_rate,barrel_rate,sweet_spot_rate
+Jeff Hoffman,FF,L,1,61.0,61.0,33.0,0,0,0,0.0,0.0,0.0
+Jeff Hoffman,FF,R,1,84.6,84.6,37.0,0,0,0,0.0,0.0,0.0
+Jeff Hoffman,FS,L,1,82.1,82.1,-41.0,0,0,0,0.0,0.0,0.0
+Louis Varland,FF,L,2,74.6,81.1,38.5,0,0,0,0.0,0.0,0.0
+Louis Varland,FF,R,2,76.4,78.4,35.0,0,0,1,0.0,0.0,50.0
+Louis Varland,CH,L,1,65.7,65.7,-43.0,0,0,0,0.0,0.0,0.0
+Mason Fluharty,FC,R,2,78.2,84.3,-3.0,0,0,1,0.0,0.0,50.0
+Mason Fluharty,ST,L,2,85.4,91.6,-29.0,0,0,0,0.0,0.0,0.0
+Trey Yesavage,FF,L,10,80.6,100.7,33.7,1,0,2,10.0,0.0,20.0
+Trey Yesavage,FF,R,8,83.3,104.3,46.5,1,1,1,12.5,12.5,12.5
+Trey Yesavage,FS,L,6,78.8,97.1,37.2,1,0,1,16.7,0.0,16.7
+Trey Yesavage,SL,R,3,62.0,92.5,-3.0,0,0,0,0.0,0.0,0.0
+Trey Yesavage,FS,R,2,67.9,74.0,61.0,0,0,0,0.0,0.0,0.0
+Trey Yesavage,SL,L,1,79.1,79.1,26.0,0,0,1,0.0,0.0,100.0
+Tyler Rogers,SI,R,3,87.9,93.7,20.3,0,0,1,0.0,0.0,33.3
+Tyler Rogers,SI,L,1,71.8,71.8,-34.0,0,0,0,0.0,0.0,0.0
+Tyler Rogers,SL,R,1,86.6,86.6,6.0,0,0,0,0.0,0.0,0.0
