@@ -1,0 +1,156 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-05-21
+Opponent: NYY
+Result: W 2-0
+Starter: Fisher, Braydon
+Spotlight: Miles, Spencer
+Season Record: 23-26
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 2024
+Blue Jays pitching data: 126 pitches
+Blue Jays batting data: 151 pitches
+Fisher, Braydon: 23 pitches
+
+=== All Blue Jays pitchers ===
+  Hoffman, Jeff: 12 pitches
+  Rogers, Tyler: 8 pitches
+  Miles, Spencer: 63 pitches
+  Macko, Adam: 20 pitches
+  Fisher, Braydon: 23 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider         11   47.8%   88.4   80.0%   45.5%    33.3%       A
+Curveball       9   39.1%   81.9    0.0%   44.4%     0.0%       D
+4-Seam          3   13.0%   95.0    0.0%   33.3%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=0.6 V=5.1 (11 pitches)
+  Curveball: H=0.3 V=-10.5 (9 pitches)
+  4-Seam: H=-5.8 V=19.5 (3 pitches)
+
+=== vs LHB/RHB ===
+  L: 15 pitches, avg velo 86.2, 3 swinging strikes, whiff/pitch 20.0%
+  R: 8 pitches, avg velo 87.7, 1 swinging strikes, whiff/pitch 12.5%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (5 pitches):
+    Curveball: 60.0%
+    Slider: 40.0%
+  Ahead (11 pitches):
+    Slider: 45.5%
+    Curveball: 36.4%
+    4-Seam: 18.2%
+  Behind (3 pitches):
+    Slider: 66.7%
+    Curveball: 33.3%
+  Even (4 pitches):
+    Slider: 50.0%
+    4-Seam: 25.0%
+    Curveball: 25.0%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  Curveball: 2
+  4-Seam: 1
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  rice, ben: 6 pitches, 0 hits, 1 K, 0 BB, avg EV 63.2
+  judge, aaron: 5 pitches, 0 hits, 1 K, 0 BB, avg EV 83.4
+  bellinger, cody: 5 pitches, 0 hits, 0 K, 1 BB, avg EV <NA>
+  chisholm, jazz: 4 pitches, 0 hits, 1 K, 0 BB, avg EV <NA>
+  goldschmidt, paul: 3 pitches, 0 hits, 1 K, 0 BB, avg EV <NA>
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 4
+Avg EV: 73.3 mph
+Avg LA: -1.5
+Hard hit (95+): 1/4 (25%)
+
+=== VELOCITY TREND ===
+  Slider: 88.4 -> 88.1 mph (-0.3)
+  Curveball: 82.1 -> 80.9 mph (-1.2)
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=1.3in V=0.4in Total=1.4in Tight
+  Curveball: H=1.6in V=0.6in Total=1.7in Tight
+  4-Seam: H=1.6in V=0.8in Total=1.8in Tight
+
+=== TUNNELING ANALYSIS ===
+  Slider/Curveball: RelSim=0.5in PlateSep=15.6in Tunnel=31.9 (GREEN) VeloGap=6.5mph
+  Curveball/4-Seam: RelSim=3.1in PlateSep=30.6in Tunnel=9.9 (GREEN) VeloGap=13.1mph
+  Slider/4-Seam: RelSim=2.9in PlateSep=15.8in Tunnel=5.4 (GREEN) VeloGap=6.6mph
+Best Tunnel: Slider/Curveball (score: 31.9)
+
+=== GAME SCORE ===
+Game Score: 52
+K: 2 H: 1 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Mejia, Juan — single (WP 59.7%)
+  UP Inn 9: Williams, Devin — double (WP 223.3%)
+  UP Inn 10: Leiter Jr., Mark — single (WP 145.5%)
+  DOWN Inn 10: Leiter Jr., Mark — grounded_into_double_play (WP 142.6%)
+  DOWN Inn 9: Williams, Devin — strikeout (WP 247.2%)
+  DOWN Inn 8: Morillo, Juan — hit_by_pitch (WP 51.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 15
+Hits: 3 (20%)
+Pull: 0 Center: 12 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  Slider: -0.077 total (-0.007 per pitch, 11 pitches)
+  Curveball: -0.476 total (-0.0529 per pitch, 9 pitches)
+  4-Seam: -0.163 total (-0.0543 per pitch, 3 pitches)
+Most Effective: Curveball
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Hoffman, Jeff — 12 pitches
+  Slider: 10 (83.3%) velo=86.5 whiff=75.0% csw=70.0% grade=A
+  Splitter: 2 (16.7%) velo=89.3 whiff=0% csw=0.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 8 pitches
+  Sinker: 8 (100.0%) velo=82.6 whiff=0.0% csw=12.5% grade=D
+  Line: 0K / 1BB / 0H / 0HR
+
+Miles, Spencer — 63 pitches
+  Curveball: 21 (33.3%) velo=80.8 whiff=45.5% csw=42.9% grade=A
+  Sinker: 20 (31.7%) velo=96.4 whiff=15.4% csw=30.0% grade=C
+  Slider: 11 (17.5%) velo=86.9 whiff=20.0% csw=36.4% grade=B
+  4-Seam: 11 (17.5%) velo=95.6 whiff=0.0% csw=9.1% grade=D
+  Line: 6K / 1BB / 2H / 0HR
+
+Macko, Adam — 20 pitches
+  Slider: 8 (40.0%) velo=85.9 whiff=0.0% csw=25.0% grade=D
+  4-Seam: 7 (35.0%) velo=94.7 whiff=0.0% csw=28.6% grade=D
+  K-Curve: 3 (15.0%) velo=78.9 whiff=50.0% csw=33.3% grade=A
+  Changeup: 2 (10.0%) velo=84.1 whiff=0% csw=0.0% grade=D
+  Line: 2K / 0BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Miles, Spencer — 63 pitches
+  Curveball: 21 (33.3%) velo=80.8 whiff=45.5% csw=42.9% grade=A
+  Sinker: 20 (31.7%) velo=96.4 whiff=15.4% csw=30.0% grade=C
+  Slider: 11 (17.5%) velo=86.9 whiff=20.0% csw=36.4% grade=B
+  4-Seam: 11 (17.5%) velo=95.6 whiff=0.0% csw=9.1% grade=D
+  Line: 6K / 1BB / 2H / 0HR
+  Overall Whiff: 22.9%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-05-21.png
+  zone_2026-05-21.png
+  batted_balls_2026-05-21.png
+  velocity_2026-05-21.png
+  release_2026-05-21.png
+  gamescore_2026-05-21.png
+  wpa_2026-05-21.png
+  spray_2026-05-21.png
+  runvalue_2026-05-21.png
+  spotlight_2026-05-21.png
