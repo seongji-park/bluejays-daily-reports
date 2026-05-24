@@ -1,0 +1,148 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-05-22
+Opponent: PIT
+Result: W 6-2
+Starter: Gausman, Kevin
+Spotlight: Varland, Louis
+Season Record: 24-26
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4044
+Blue Jays pitching data: 133 pitches
+Blue Jays batting data: 170 pitches
+Gausman, Kevin: 94 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 31 pitches
+  Fluharty, Mason: 8 pitches
+  Gausman, Kevin: 94 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         40   42.6%   94.3   15.0%   37.5%    18.2%       C
+Splitter       36   38.3%   83.9   38.1%   30.6%    52.0%       A
+Slider         18   19.1%   83.9   75.0%   38.9%    35.7%       A
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-10.7 V=17.0 (40 pitches)
+  Splitter: H=-14.1 V=6.6 (36 pitches)
+  Slider: H=0.3 V=2.6 (18 pitches)
+
+=== vs LHB/RHB ===
+  L: 53 pitches, avg velo 88.2, 5 swinging strikes, whiff/pitch 9.4%
+  R: 41 pitches, avg velo 88.4, 12 swinging strikes, whiff/pitch 29.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (27 pitches):
+    4-Seam: 48.1%
+    Slider: 29.6%
+    Splitter: 22.2%
+  Ahead (29 pitches):
+    Splitter: 48.3%
+    4-Seam: 31.0%
+    Slider: 20.7%
+  Behind (21 pitches):
+    4-Seam: 52.4%
+    Splitter: 38.1%
+    Slider: 9.5%
+  Even (12 pitches):
+    Splitter: 50.0%
+    4-Seam: 33.3%
+    Slider: 16.7%
+  Full count (3-2) (5 pitches):
+    4-Seam: 60.0%
+    Splitter: 40.0%
+
+=== STRIKEOUT PITCHES (8 K's) ===
+  4-Seam: 4
+  Splitter: 2
+  Slider: 2
+
+=== TOP OPPOSING BATTERS ===
+  horwitz, spencer: 16 pitches, 0 hits, 1 K, 0 BB, avg EV 95.6
+  699013: 14 pitches, 0 hits, 1 K, 1 BB, avg EV 87.1
+  lowe, brandon: 13 pitches, 2 hits, 0 K, 0 BB, avg EV 85.5
+  griffin, konnor: 13 pitches, 0 hits, 2 K, 0 BB, avg EV 54.3
+  cruz, oneil: 10 pitches, 0 hits, 2 K, 0 BB, avg EV 89.7
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 27
+Avg EV: 82.8 mph
+Avg LA: 22.0
+Hard hit (95+): 7/27 (26%)
+
+=== VELOCITY TREND ===
+  4-Seam: 93.8 -> 94.2 mph (+0.4)
+  Splitter: 83.7 -> 84.1 mph (+0.4)
+  Slider: 84.1 -> 84.9 mph (+0.8)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.6in V=1.0in Total=1.2in Tight
+  Splitter: H=0.8in V=1.0in Total=1.3in Tight
+  Slider: H=1.1in V=1.0in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  Splitter/Slider: RelSim=0.9in PlateSep=14.9in Tunnel=17.0 (GREEN) VeloGap=0.0mph
+  4-Seam/Slider: RelSim=2.7in PlateSep=18.1in Tunnel=6.6 (GREEN) VeloGap=10.4mph
+  4-Seam/Splitter: RelSim=3.6in PlateSep=10.9in Tunnel=3.0 (GREEN) VeloGap=10.4mph
+Best Tunnel: Splitter/Slider (score: 17.0)
+
+=== GAME SCORE ===
+Game Score: 68
+K: 0 H: 1 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 11: Schultz, Paxton — single (WP -9.3%)
+  UP Inn 3: Flaherty, Jack — home_run (WP 176.6%)
+  UP Inn 10: Ribalta, Orlando — single (WP 49.8%)
+  DOWN Inn 9: Duran, Jhoan — home_run (WP 40.3%)
+  DOWN Inn 7: Slaten, Justin — home_run (WP 89.7%)
+  DOWN Inn 10: Lee, Dylan — triple (WP 76.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 23
+Hits: 7 (30%)
+Pull: 3 Center: 16 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  4-Seam: -0.824 total (-0.0206 per pitch, 40 pitches)
+  Splitter: -0.161 total (-0.0045 per pitch, 36 pitches)
+  Slider: -0.563 total (-0.0313 per pitch, 18 pitches)
+Most Effective: 4-Seam
+Least Effective: Splitter
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 31 pitches
+  4-Seam: 15 (48.4%) velo=98.6 whiff=0.0% csw=20.0% grade=D
+  K-Curve: 9 (29.0%) velo=87.7 whiff=66.7% csw=33.3% grade=A
+  Changeup: 7 (22.6%) velo=92.5 whiff=14.3% csw=14.3% grade=C
+  Line: 3K / 0BB / 0H / 0HR
+
+Fluharty, Mason — 8 pitches
+  Cutter: 3 (37.5%) velo=91.5 whiff=0.0% csw=0.0% grade=D
+  Sweeper: 3 (37.5%) velo=82.2 whiff=0.0% csw=0.0% grade=D
+  Changeup: 2 (25.0%) velo=87.2 whiff=100.0% csw=50.0% grade=A
+  Line: 0K / 1BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Varland, Louis — 31 pitches
+  4-Seam: 15 (48.4%) velo=98.6 whiff=0.0% csw=20.0% grade=D
+  K-Curve: 9 (29.0%) velo=87.7 whiff=66.7% csw=33.3% grade=A
+  Changeup: 7 (22.6%) velo=92.5 whiff=14.3% csw=14.3% grade=C
+  Line: 3K / 0BB / 0H / 0HR
+  Overall Whiff: 16.7%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-05-22.png
+  zone_2026-05-22.png
+  batted_balls_2026-05-22.png
+  velocity_2026-05-22.png
+  release_2026-05-22.png
+  gamescore_2026-05-22.png
+  wpa_2026-05-22.png
+  spray_2026-05-22.png
+  runvalue_2026-05-22.png
+  spotlight_2026-05-22.png
