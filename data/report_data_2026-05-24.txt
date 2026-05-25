@@ -1,0 +1,192 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-05-24
+Opponent: PIT
+Result: L 1-4
+Starter: Cease, Dylan
+Spotlight: Lee, Chase
+Season Record: 25-27
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4304
+Blue Jays pitching data: 141 pitches
+Blue Jays batting data: 157 pitches
+Cease, Dylan: 77 pitches
+
+=== All Blue Jays pitchers ===
+  Rodríguez, Yariel: 15 pitches
+  Fisher, Braydon: 8 pitches
+  Lee, Chase: 22 pitches
+  Fluharty, Mason: 19 pitches
+  Cease, Dylan: 77 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         23   29.9%   97.3   31.2%   34.8%    57.1%       A
+Slider         18   23.4%   88.4   30.0%   33.3%    50.0%       A
+K-Curve        11   14.3%   82.5   50.0%   36.4%    42.9%       A
+Sinker         11   14.3%   96.0    0.0%   18.2%     0.0%       D
+Changeup       10   13.0%   85.5   33.3%   20.0%     0.0%       A
+Sweeper         2    2.6%   84.3    0.0%   50.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-3.5 V=19.3 (23 pitches)
+  Slider: H=2.0 V=3.6 (18 pitches)
+  K-Curve: H=1.9 V=-14.0 (11 pitches)
+  Sinker: H=-11.0 V=13.0 (11 pitches)
+  Changeup: H=-8.1 V=16.0 (10 pitches)
+  Sweeper: H=12.1 V=-10.9 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 50 pitches, avg velo 90.5, 5 swinging strikes, whiff/pitch 10.0%
+  R: 27 pitches, avg velo 91.6, 6 swinging strikes, whiff/pitch 22.2%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (20 pitches):
+    Slider: 25.0%
+    4-Seam: 25.0%
+    K-Curve: 25.0%
+    Changeup: 10.0%
+    Sinker: 10.0%
+  Ahead (21 pitches):
+    Slider: 28.6%
+    4-Seam: 23.8%
+    K-Curve: 19.0%
+    Sinker: 14.3%
+    Changeup: 9.5%
+    Sweeper: 4.8%
+  Behind (14 pitches):
+    4-Seam: 35.7%
+    Changeup: 21.4%
+    K-Curve: 14.3%
+    Sinker: 14.3%
+    Slider: 14.3%
+  Even (18 pitches):
+    4-Seam: 27.8%
+    Slider: 27.8%
+    Changeup: 16.7%
+    Sinker: 16.7%
+    Sweeper: 5.6%
+  Full count (3-2) (4 pitches):
+    4-Seam: 75.0%
+    Sinker: 25.0%
+
+=== STRIKEOUT PITCHES (8 K's) ===
+  4-Seam: 4
+  Slider: 1
+  Sinker: 1
+  Sweeper: 1
+  K-Curve: 1
+
+=== TOP OPPOSING BATTERS ===
+  lowe, brandon: 12 pitches, 0 hits, 1 K, 0 BB, avg EV 90.4
+  gonzales, nick: 11 pitches, 0 hits, 2 K, 0 BB, avg EV 74.5
+  horwitz, spencer: 9 pitches, 1 hits, 0 K, 0 BB, avg EV 76.2
+  triolo, jared: 8 pitches, 0 hits, 1 K, 0 BB, avg EV 78.3
+  rodríguez, endy: 8 pitches, 0 hits, 0 K, 1 BB, avg EV 78.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 23
+Avg EV: 82.0 mph
+Avg LA: 17.9
+Hard hit (95+): 5/23 (22%)
+
+=== VELOCITY TREND ===
+  4-Seam: 96.8 -> 96.5 mph (-0.3)
+  Slider: 88.0 -> 88.0 mph (-0.1)
+  K-Curve: 83.3 -> 82.9 mph (-0.4)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=2.1in V=0.6in Total=2.2in Tight
+  Slider: H=2.4in V=0.7in Total=2.5in Tight
+  K-Curve: H=1.2in V=0.7in Total=1.4in Tight
+  Sinker: H=1.5in V=0.6in Total=1.6in Tight
+  Changeup: H=1.5in V=0.6in Total=1.7in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=1.0in PlateSep=33.7in Tunnel=32.7 (GREEN) VeloGap=14.8mph
+  Slider/K-Curve: RelSim=0.6in PlateSep=17.5in Tunnel=31.3 (GREEN) VeloGap=5.8mph
+  K-Curve/Changeup: RelSim=1.3in PlateSep=31.6in Tunnel=25.1 (GREEN) VeloGap=3.0mph
+  K-Curve/Sinker: RelSim=1.8in PlateSep=29.9in Tunnel=17.0 (GREEN) VeloGap=13.5mph
+  4-Seam/Slider: RelSim=1.5in PlateSep=16.6in Tunnel=10.9 (GREEN) VeloGap=9.0mph
+  Slider/Changeup: RelSim=1.8in PlateSep=16.0in Tunnel=8.9 (GREEN) VeloGap=2.9mph
+  4-Seam/Sinker: RelSim=1.1in PlateSep=9.8in Tunnel=8.8 (GREEN) VeloGap=1.3mph
+  Slider/Sinker: RelSim=2.3in PlateSep=16.1in Tunnel=6.9 (GREEN) VeloGap=7.6mph
+  Sinker/Changeup: RelSim=0.7in PlateSep=4.1in Tunnel=6.0 (GREEN) VeloGap=10.5mph
+  4-Seam/Changeup: RelSim=1.1in PlateSep=5.7in Tunnel=5.3 (GREEN) VeloGap=11.8mph
+Best Tunnel: 4-Seam/K-Curve (score: 32.7)
+
+=== GAME SCORE ===
+Game Score: 58
+K: 2 H: 1 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Jansen, Kenley — home_run (WP 29.3%)
+  UP Inn 9: Kelly, Kevin — home_run (WP 24.5%)
+  UP Inn 9: Collyer, Gavin — force_out (WP -27.4%)
+  DOWN Inn 9: Ribalta, Orlando — field_out (WP 24.0%)
+  DOWN Inn 6: Whitlock, Garrett — single (WP -51.0%)
+  DOWN Inn 5: Imanaga, Shota — home_run (WP -87.2%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 20
+Hits: 6 (30%)
+Pull: 4 Center: 15 Oppo: 1
+
+=== PITCH RUN VALUE ===
+  4-Seam: -1.471 total (-0.064 per pitch, 23 pitches)
+  Slider: 0.029 total (0.0016 per pitch, 18 pitches)
+  K-Curve: 0.275 total (0.025 per pitch, 11 pitches)
+  Sinker: 0.079 total (0.0072 per pitch, 11 pitches)
+  Changeup: -0.005 total (-0.0005 per pitch, 10 pitches)
+  Sweeper: -0.206 total (-0.103 per pitch, 2 pitches)
+Most Effective: 4-Seam
+Least Effective: K-Curve
+
+=== BULLPEN DETAILED ===
+Rodríguez, Yariel — 15 pitches
+  Splitter: 6 (40.0%) velo=87.4 whiff=33.3% csw=33.3% grade=A
+  Slider: 5 (33.3%) velo=85.2 whiff=50.0% csw=40.0% grade=A
+  4-Seam: 4 (26.7%) velo=94.8 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 1BB / 0H / 0HR
+
+Fisher, Braydon — 8 pitches
+  Curveball: 5 (62.5%) velo=80.2 whiff=50.0% csw=60.0% grade=A
+  Slider: 3 (37.5%) velo=87.7 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Lee, Chase — 22 pitches
+  Sinker: 11 (50.0%) velo=89.4 whiff=0.0% csw=36.4% grade=D
+  Sweeper: 6 (27.3%) velo=79.2 whiff=0.0% csw=33.3% grade=D
+  4-Seam: 3 (13.6%) velo=89.3 whiff=0% csw=33.3% grade=D
+  Changeup: 2 (9.1%) velo=84.6 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 2BB / 1H / 1HR
+
+Fluharty, Mason — 19 pitches
+  Cutter: 11 (57.9%) velo=89.6 whiff=0.0% csw=27.3% grade=D
+  Sweeper: 7 (36.8%) velo=80.7 whiff=50.0% csw=28.6% grade=A
+  Changeup: 1 (5.3%) velo=86.2 whiff=0% csw=0.0% grade=D
+  Line: 2K / 1BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Lee, Chase — 22 pitches
+  Sinker: 11 (50.0%) velo=89.4 whiff=0.0% csw=36.4% grade=D
+  Sweeper: 6 (27.3%) velo=79.2 whiff=0.0% csw=33.3% grade=D
+  4-Seam: 3 (13.6%) velo=89.3 whiff=0% csw=33.3% grade=D
+  Changeup: 2 (9.1%) velo=84.6 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 2BB / 1H / 1HR
+  Overall Whiff: 0.0%
+  Role: CONTACT MANAGER
+
+=== CHARTS SAVED ===
+  movement_2026-05-24.png
+  zone_2026-05-24.png
+  batted_balls_2026-05-24.png
+  velocity_2026-05-24.png
+  release_2026-05-24.png
+  gamescore_2026-05-24.png
+  wpa_2026-05-24.png
+  spray_2026-05-24.png
+  runvalue_2026-05-24.png
+  spotlight_2026-05-24.png
