@@ -1,0 +1,173 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-05-29
+Opponent: BAL
+Result: W 6-5
+Starter: Macko, Adam
+Spotlight: Voth, Austin
+Season Record: 29-28
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4390
+Blue Jays pitching data: 153 pitches
+Blue Jays batting data: 125 pitches
+Macko, Adam: 30 pitches
+
+=== All Blue Jays pitchers ===
+  Fisher, Braydon: 15 pitches
+  Fluharty, Mason: 20 pitches
+  Seabold, Connor: 18 pitches
+  Voth, Austin: 70 pitches
+  Macko, Adam: 30 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider         13   43.3%   85.5   25.0%   30.8%    42.9%       B
+4-Seam         10   33.3%   94.7    0.0%   10.0%    25.0%       D
+Changeup        4   13.3%   84.4  100.0%   50.0%    33.3%       A
+K-Curve         3   10.0%   78.4    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=-4.6 V=4.1 (13 pitches)
+  4-Seam: H=4.9 V=15.0 (10 pitches)
+  Changeup: H=14.0 V=2.4 (4 pitches)
+  K-Curve: H=-9.2 V=-15.2 (3 pitches)
+
+=== vs LHB/RHB ===
+  L: 10 pitches, avg velo 86.6, 1 swinging strikes, whiff/pitch 10.0%
+  R: 20 pitches, avg velo 88.3, 2 swinging strikes, whiff/pitch 10.0%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (7 pitches):
+    Slider: 57.1%
+    Changeup: 14.3%
+    K-Curve: 14.3%
+    4-Seam: 14.3%
+  Ahead (12 pitches):
+    4-Seam: 33.3%
+    Slider: 25.0%
+    Changeup: 25.0%
+    K-Curve: 16.7%
+  Behind (5 pitches):
+    4-Seam: 60.0%
+    Slider: 40.0%
+  Even (3 pitches):
+    4-Seam: 66.7%
+    Slider: 33.3%
+  Full count (3-2) (3 pitches):
+    Slider: 100.0%
+
+=== STRIKEOUT PITCHES (1 K's) ===
+  Changeup: 1
+
+=== TOP OPPOSING BATTERS ===
+  rutschman, adley: 7 pitches, 0 hits, 0 K, 0 BB, avg EV 75.8
+  taveras, leody: 6 pitches, 1 hits, 0 K, 0 BB, avg EV 80.5
+  henderson, gunnar: 6 pitches, 0 hits, 0 K, 0 BB, avg EV 65.2
+  alonso, pete: 5 pitches, 0 hits, 1 K, 0 BB, avg EV 88.7
+  cowser, colton: 3 pitches, 0 hits, 0 K, 0 BB, avg EV 73.1
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 12
+Avg EV: 83.0 mph
+Avg LA: 24.5
+Hard hit (95+): 2/12 (17%)
+
+=== VELOCITY TREND ===
+  Slider: 85.6 -> 85.4 mph (-0.3)
+  4-Seam: 94.4 -> 95.1 mph (+0.7)
+  Changeup: 83.8 -> 84.6 mph (+0.8)
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=1.3in V=0.5in Total=1.4in Tight
+  4-Seam: H=0.9in V=0.4in Total=1.0in Tight
+  Changeup: H=0.9in V=0.6in Total=1.1in Tight
+  K-Curve: H=0.9in V=0.6in Total=1.1in Tight
+
+=== TUNNELING ANALYSIS ===
+  Changeup/K-Curve: RelSim=0.3in PlateSep=29.1in Tunnel=100.8 (GREEN) VeloGap=6.0mph
+  Slider/Changeup: RelSim=1.0in PlateSep=18.7in Tunnel=19.5 (GREEN) VeloGap=1.1mph
+  Slider/K-Curve: RelSim=1.2in PlateSep=19.8in Tunnel=16.5 (GREEN) VeloGap=7.1mph
+  4-Seam/K-Curve: RelSim=3.1in PlateSep=33.3in Tunnel=10.8 (GREEN) VeloGap=16.4mph
+  4-Seam/Changeup: RelSim=3.0in PlateSep=15.5in Tunnel=5.1 (GREEN) VeloGap=10.3mph
+  Slider/4-Seam: RelSim=3.6in PlateSep=14.5in Tunnel=4.0 (GREEN) VeloGap=9.2mph
+Best Tunnel: Changeup/K-Curve (score: 100.8)
+
+=== GAME SCORE ===
+Game Score: 51
+K: 0 H: 5 HR: 3 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 10: Anderson, Drew — home_run (WP 113.1%)
+  UP Inn 9: Rogers, Taylor — home_run (WP -194.4%)
+  UP Inn 9: Kilian, Caleb — home_run (WP -0.0%)
+  DOWN Inn 8: Cano, Yennier — double (WP 201.6%)
+  DOWN Inn 7: Parker, Mitchell — home_run (WP -362.9%)
+  DOWN Inn 8: Myers, Tobias — home_run (WP -79.3%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 32
+Hits: 8 (25%)
+Pull: 5 Center: 23 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  Slider: -0.534 total (-0.0411 per pitch, 13 pitches)
+  4-Seam: 0.909 total (0.0909 per pitch, 10 pitches)
+  Changeup: -0.202 total (-0.0505 per pitch, 4 pitches)
+  K-Curve: 0.036 total (0.012 per pitch, 3 pitches)
+Most Effective: Slider
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Fisher, Braydon — 15 pitches
+  Slider: 8 (53.3%) velo=88.1 whiff=0.0% csw=50.0% grade=D
+  Curveball: 6 (40.0%) velo=80.0 whiff=33.3% csw=16.7% grade=A
+  4-Seam: 1 (6.7%) velo=93.8 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Fluharty, Mason — 20 pitches
+  Cutter: 9 (45.0%) velo=90.6 whiff=0.0% csw=22.2% grade=D
+  Sweeper: 7 (35.0%) velo=81.2 whiff=100.0% csw=42.9% grade=A
+  Changeup: 4 (20.0%) velo=87.2 whiff=50.0% csw=25.0% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+Seabold, Connor — 18 pitches
+  Slider: 6 (33.3%) velo=84.0 whiff=0.0% csw=50.0% grade=D
+  4-Seam: 6 (33.3%) velo=93.5 whiff=100.0% csw=33.3% grade=A
+  Changeup: 4 (22.2%) velo=82.8 whiff=0.0% csw=25.0% grade=D
+  Cutter: 2 (11.1%) velo=86.8 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Voth, Austin — 70 pitches
+  Curveball: 18 (25.7%) velo=73.9 whiff=42.9% csw=22.2% grade=A
+  4-Seam: 15 (21.4%) velo=91.9 whiff=0.0% csw=6.7% grade=D
+  Cutter: 12 (17.1%) velo=87.2 whiff=33.3% csw=25.0% grade=A
+  Sweeper: 12 (17.1%) velo=78.9 whiff=16.7% csw=25.0% grade=C
+  Sinker: 11 (15.7%) velo=91.1 whiff=25.0% csw=36.4% grade=B
+  Splitter: 2 (2.9%) velo=83.9 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 4BB / 5H / 3HR
+
+=== SPOTLIGHT PITCHER ===
+Voth, Austin — 70 pitches
+  Curveball: 18 (25.7%) velo=73.9 whiff=42.9% csw=22.2% grade=A
+  4-Seam: 15 (21.4%) velo=91.9 whiff=0.0% csw=6.7% grade=D
+  Cutter: 12 (17.1%) velo=87.2 whiff=33.3% csw=25.0% grade=A
+  Sweeper: 12 (17.1%) velo=78.9 whiff=16.7% csw=25.0% grade=C
+  Sinker: 11 (15.7%) velo=91.1 whiff=25.0% csw=36.4% grade=B
+  Splitter: 2 (2.9%) velo=83.9 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 4BB / 5H / 3HR
+  Overall Whiff: 23.1%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-05-29.png
+  zone_2026-05-29.png
+  batted_balls_2026-05-29.png
+  velocity_2026-05-29.png
+  release_2026-05-29.png
+  gamescore_2026-05-29.png
+  wpa_2026-05-29.png
+  spray_2026-05-29.png
+  runvalue_2026-05-29.png
+  spotlight_2026-05-29.png
