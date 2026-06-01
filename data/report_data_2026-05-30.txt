@@ -1,0 +1,171 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-05-30
+Opponent: BAL
+Result: L 5-6
+Starter: Yesavage, Trey
+Spotlight: Hoffman, Jeff
+Season Record: 29-29
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4473
+Blue Jays pitching data: 162 pitches
+Blue Jays batting data: 145 pitches
+Yesavage, Trey: 92 pitches
+
+=== All Blue Jays pitchers ===
+  Seabold, Connor: 10 pitches
+  Hoffman, Jeff: 24 pitches
+  Varland, Louis: 12 pitches
+  Rogers, Tyler: 9 pitches
+  Rodríguez, Yariel: 15 pitches
+  Yesavage, Trey: 92 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         48   52.2%   94.6   15.0%   18.8%     4.5%       C
+Slider         23   25.0%   88.9   18.2%   13.0%    14.3%       C
+Splitter       21   22.8%   83.4   12.5%   14.3%    33.3%       C
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-2.8 V=20.1 (48 pitches)
+  Slider: H=-3.6 V=6.7 (23 pitches)
+  Splitter: H=-11.2 V=6.6 (21 pitches)
+
+=== vs LHB/RHB ===
+  L: 45 pitches, avg velo 89.8, 2 swinging strikes, whiff/pitch 4.4%
+  R: 47 pitches, avg velo 91.4, 4 swinging strikes, whiff/pitch 8.5%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (21 pitches):
+    4-Seam: 52.4%
+    Slider: 28.6%
+    Splitter: 19.0%
+  Ahead (17 pitches):
+    Splitter: 58.8%
+    4-Seam: 29.4%
+    Slider: 11.8%
+  Behind (29 pitches):
+    4-Seam: 65.5%
+    Slider: 27.6%
+    Splitter: 6.9%
+  Even (19 pitches):
+    4-Seam: 42.1%
+    Slider: 31.6%
+    Splitter: 26.3%
+  Full count (3-2) (6 pitches):
+    4-Seam: 83.3%
+    Slider: 16.7%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  4-Seam: 3
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  ward, taylor: 16 pitches, 0 hits, 1 K, 2 BB, avg EV 76.0
+  rutschman, adley: 13 pitches, 0 hits, 0 K, 1 BB, avg EV 81.7
+  mayo, coby: 13 pitches, 1 hits, 1 K, 0 BB, avg EV 84.9
+  jackson, jeremiah: 12 pitches, 0 hits, 0 K, 1 BB, avg EV 82.3
+  henderson, gunnar: 11 pitches, 1 hits, 0 K, 0 BB, avg EV 79.1
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 30
+Avg EV: 80.3 mph
+Avg LA: 17.5
+Hard hit (95+): 7/30 (23%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.9 -> 94.6 mph (-0.2)
+  Slider: 89.5 -> 88.7 mph (-0.8)
+  Splitter: 83.9 -> 83.3 mph (-0.7)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.4in V=0.8in Total=1.6in Tight
+  Slider: H=1.6in V=0.8in Total=1.8in Tight
+  Splitter: H=1.3in V=0.9in Total=1.6in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/Splitter: RelSim=1.2in PlateSep=15.9in Tunnel=13.0 (GREEN) VeloGap=11.3mph
+  4-Seam/Slider: RelSim=1.9in PlateSep=13.4in Tunnel=7.1 (GREEN) VeloGap=5.8mph
+  Slider/Splitter: RelSim=1.5in PlateSep=7.6in Tunnel=5.1 (GREEN) VeloGap=5.5mph
+Best Tunnel: 4-Seam/Splitter (score: 13.0)
+
+=== GAME SCORE ===
+Game Score: 45
+K: 1 H: 1 HR: 0 BB/HBP: 7
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Erceg, Lucas — single (WP -100.9%)
+  UP Inn 9: Seabold, Connor — walk (WP 8.9%)
+  UP Inn 9: Hoffman, Jeff — double (WP -41.4%)
+  DOWN Inn 8: Scott, Tanner — home_run (WP 31.5%)
+  DOWN Inn 7: Junis, Jakob — single (WP -96.2%)
+  DOWN Inn 1: Rasmussen, Drew — home_run (WP -66.6%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 21
+Hits: 7 (33%)
+Pull: 4 Center: 14 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.273 total (0.0057 per pitch, 48 pitches)
+  Slider: 0.02 total (0.0009 per pitch, 23 pitches)
+  Splitter: 0.113 total (0.0054 per pitch, 21 pitches)
+Most Effective: Slider
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Seabold, Connor — 10 pitches
+  4-Seam: 5 (50.0%) velo=93.9 whiff=0.0% csw=40.0% grade=D
+  Slider: 2 (20.0%) velo=80.8 whiff=0% csw=0.0% grade=D
+  Changeup: 2 (20.0%) velo=81.0 whiff=0% csw=0.0% grade=D
+  Cutter: 1 (10.0%) velo=86.7 whiff=0% csw=0.0% grade=D
+  Line: 0K / 1BB / 1H / 0HR
+
+Hoffman, Jeff — 24 pitches
+  Slider: 13 (54.2%) velo=86.5 whiff=0.0% csw=23.1% grade=D
+  4-Seam: 5 (20.8%) velo=96.3 whiff=0% csw=40.0% grade=D
+  Splitter: 5 (20.8%) velo=89.4 whiff=33.3% csw=40.0% grade=A
+  Sinker: 1 (4.2%) velo=95.3 whiff=0% csw=0.0% grade=D
+  Line: 1K / 3BB / 3H / 0HR
+
+Varland, Louis — 12 pitches
+  K-Curve: 5 (41.7%) velo=86.5 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 3 (25.0%) velo=99.3 whiff=0.0% csw=66.7% grade=D
+  Slider: 2 (16.7%) velo=92.0 whiff=0.0% csw=0.0% grade=D
+  Changeup: 2 (16.7%) velo=93.0 whiff=50.0% csw=50.0% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 9 pitches
+  Sinker: 9 (100.0%) velo=83.7 whiff=40.0% csw=44.4% grade=A
+  Line: 0K / 0BB / 0H / 0HR
+
+Rodríguez, Yariel — 15 pitches
+  Slider: 8 (53.3%) velo=86.1 whiff=50.0% csw=50.0% grade=A
+  Splitter: 3 (20.0%) velo=88.0 whiff=50.0% csw=33.3% grade=A
+  4-Seam: 2 (13.3%) velo=94.9 whiff=0.0% csw=0.0% grade=D
+  Sinker: 2 (13.3%) velo=95.2 whiff=0% csw=0.0% grade=D
+  Line: 1K / 1BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Hoffman, Jeff — 24 pitches
+  Slider: 13 (54.2%) velo=86.5 whiff=0.0% csw=23.1% grade=D
+  4-Seam: 5 (20.8%) velo=96.3 whiff=0% csw=40.0% grade=D
+  Splitter: 5 (20.8%) velo=89.4 whiff=33.3% csw=40.0% grade=A
+  Sinker: 1 (4.2%) velo=95.3 whiff=0% csw=0.0% grade=D
+  Line: 1K / 3BB / 3H / 0HR
+  Overall Whiff: 16.7%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-05-30.png
+  zone_2026-05-30.png
+  batted_balls_2026-05-30.png
+  velocity_2026-05-30.png
+  release_2026-05-30.png
+  gamescore_2026-05-30.png
+  wpa_2026-05-30.png
+  spray_2026-05-30.png
+  runvalue_2026-05-30.png
+  spotlight_2026-05-30.png
