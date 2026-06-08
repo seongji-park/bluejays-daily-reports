@@ -1,0 +1,175 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-03
+Opponent: ATL
+Result: L 3-7
+Starter: Corbin, Patrick
+Spotlight: None
+Season Record: 29-32
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4469
+Blue Jays pitching data: 135 pitches
+Blue Jays batting data: 139 pitches
+Corbin, Patrick: 85 pitches
+
+=== All Blue Jays pitchers ===
+  Juenger, Hayden: 11 pitches
+  Macko, Adam: 17 pitches
+  Rodríguez, Yariel: 22 pitches
+  Corbin, Patrick: 85 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider         19   22.4%   78.2   16.7%   21.1%    21.4%       C
+Sinker         18   21.2%   91.2    7.7%   22.2%    57.1%       D
+Cutter         17   20.0%   86.1   18.2%   23.5%    33.3%       C
+Changeup       16   18.8%   78.6    0.0%    0.0%    25.0%       D
+4-Seam         13   15.3%   90.8    0.0%   15.4%    14.3%       D
+Curveball       2    2.4%   67.9    0.0%  100.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=-3.3 V=-2.9 (19 pitches)
+  Sinker: H=13.1 V=10.8 (18 pitches)
+  Cutter: H=-2.9 V=5.5 (17 pitches)
+  Changeup: H=9.9 V=6.1 (16 pitches)
+  4-Seam: H=7.0 V=13.6 (13 pitches)
+  Curveball: H=-3.2 V=-1.0 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 18 pitches, avg velo 87.2, 1 swinging strikes, whiff/pitch 5.6%
+  R: 67 pitches, avg velo 83.5, 3 swinging strikes, whiff/pitch 4.5%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (23 pitches):
+    Slider: 26.1%
+    Sinker: 26.1%
+    Cutter: 21.7%
+    4-Seam: 17.4%
+    Curveball: 8.7%
+  Ahead (22 pitches):
+    Changeup: 31.8%
+    Cutter: 22.7%
+    4-Seam: 22.7%
+    Slider: 22.7%
+  Behind (14 pitches):
+    Sinker: 35.7%
+    Cutter: 28.6%
+    Slider: 21.4%
+    Changeup: 7.1%
+    4-Seam: 7.1%
+  Even (19 pitches):
+    Changeup: 36.8%
+    Sinker: 21.1%
+    4-Seam: 15.8%
+    Slider: 15.8%
+    Cutter: 10.5%
+  Full count (3-2) (7 pitches):
+    Sinker: 42.9%
+    Slider: 28.6%
+    Changeup: 14.3%
+    Cutter: 14.3%
+
+=== STRIKEOUT PITCHES (1 K's) ===
+  Changeup: 1
+
+=== TOP OPPOSING BATTERS ===
+  acuña, ronald: 17 pitches, 1 hits, 1 K, 0 BB, avg EV 79.9
+  kim, ha-seong: 12 pitches, 1 hits, 0 K, 0 BB, avg EV 83.1
+  olson, matt: 11 pitches, 2 hits, 0 K, 0 BB, avg EV 92.6
+  riley, austin: 11 pitches, 0 hits, 0 K, 1 BB, avg EV 98.4
+  white, eli: 10 pitches, 0 hits, 0 K, 1 BB, avg EV 71.1
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 35
+Avg EV: 83.6 mph
+Avg LA: 12.7
+Hard hit (95+): 10/35 (29%)
+
+=== VELOCITY TREND ===
+  Slider: 80.6 -> 80.0 mph (-0.6)
+  Sinker: 91.4 -> 90.9 mph (-0.5)
+  Cutter: 86.4 -> 86.1 mph (-0.3)
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=1.1in V=1.2in Total=1.7in Tight
+  Sinker: H=1.1in V=0.9in Total=1.4in Tight
+  Cutter: H=0.8in V=0.6in Total=1.0in Tight
+  Changeup: H=1.0in V=0.7in Total=1.2in Tight
+  4-Seam: H=1.2in V=0.7in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  Changeup/4-Seam: RelSim=0.2in PlateSep=8.0in Tunnel=45.8 (GREEN) VeloGap=12.3mph
+  Sinker/4-Seam: RelSim=0.6in PlateSep=6.7in Tunnel=12.0 (GREEN) VeloGap=0.4mph
+  Slider/Sinker: RelSim=2.3in PlateSep=21.3in Tunnel=9.4 (GREEN) VeloGap=13.1mph
+  Slider/4-Seam: RelSim=2.3in PlateSep=19.4in Tunnel=8.3 (GREEN) VeloGap=12.7mph
+  Sinker/Changeup: RelSim=0.7in PlateSep=5.7in Tunnel=7.7 (GREEN) VeloGap=12.7mph
+  Slider/Changeup: RelSim=2.4in PlateSep=16.0in Tunnel=6.7 (GREEN) VeloGap=0.4mph
+  Sinker/Cutter: RelSim=3.2in PlateSep=16.9in Tunnel=5.3 (GREEN) VeloGap=5.2mph
+  Slider/Cutter: RelSim=1.9in PlateSep=8.4in Tunnel=4.4 (GREEN) VeloGap=7.9mph
+  Cutter/4-Seam: RelSim=3.5in PlateSep=12.8in Tunnel=3.6 (GREEN) VeloGap=4.8mph
+  Cutter/Changeup: RelSim=3.7in PlateSep=12.8in Tunnel=3.5 (GREEN) VeloGap=7.5mph
+Best Tunnel: Changeup/4-Seam (score: 45.8)
+
+=== GAME SCORE ===
+Game Score: 51
+K: 0 H: 1 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Soto, Gregory — triple (WP 29.4%)
+  UP Inn 3: Corbin, Patrick — home_run (WP 95.7%)
+  UP Inn 8: Soto, Gregory — walk (WP 6.2%)
+  DOWN Inn 4: Arrighetti, Spencer — home_run (WP 35.7%)
+  DOWN Inn 8: Beeter, Clayton — single (WP 166.6%)
+  DOWN Inn 9: Santillan, Tony — single (WP 66.5%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 31
+Hits: 9 (29%)
+Pull: 5 Center: 19 Oppo: 7
+
+=== PITCH RUN VALUE ===
+  Slider: 0.857 total (0.0451 per pitch, 19 pitches)
+  Sinker: -0.058 total (-0.0032 per pitch, 18 pitches)
+  Cutter: 0.037 total (0.0022 per pitch, 17 pitches)
+  Changeup: -0.198 total (-0.0124 per pitch, 16 pitches)
+  4-Seam: 0.249 total (0.0192 per pitch, 13 pitches)
+  Curveball: -0.086 total (-0.043 per pitch, 2 pitches)
+Most Effective: Changeup
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Juenger, Hayden — 11 pitches
+  Slider: 6 (54.5%) velo=88.1 whiff=0.0% csw=66.7% grade=D
+  4-Seam: 3 (27.3%) velo=95.0 whiff=0.0% csw=33.3% grade=D
+  Changeup: 2 (18.2%) velo=88.6 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Macko, Adam — 17 pitches
+  Slider: 10 (58.8%) velo=85.6 whiff=20.0% csw=30.0% grade=B
+  4-Seam: 4 (23.5%) velo=94.1 whiff=0.0% csw=0.0% grade=D
+  Changeup: 2 (11.8%) velo=85.9 whiff=0% csw=0.0% grade=D
+  K-Curve: 1 (5.9%) velo=79.6 whiff=0% csw=100.0% grade=D
+  Line: 0K / 0BB / 2H / 1HR
+
+Rodríguez, Yariel — 22 pitches
+  Slider: 10 (45.5%) velo=85.7 whiff=0.0% csw=30.0% grade=D
+  Sinker: 4 (18.2%) velo=95.3 whiff=0.0% csw=0.0% grade=D
+  Splitter: 4 (18.2%) velo=87.4 whiff=0% csw=0.0% grade=D
+  4-Seam: 4 (18.2%) velo=95.4 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 1BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-06-03.png
+  zone_2026-06-03.png
+  batted_balls_2026-06-03.png
+  velocity_2026-06-03.png
+  release_2026-06-03.png
+  gamescore_2026-06-03.png
+  wpa_2026-06-03.png
+  spray_2026-06-03.png
+  runvalue_2026-06-03.png
