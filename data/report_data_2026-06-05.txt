@@ -1,0 +1,157 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-05
+Opponent: BAL
+Result: L 3-13
+Starter: Yesavage, Trey
+Spotlight: Yesavage, Trey
+Season Record: 30-33
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4337
+Blue Jays pitching data: 175 pitches
+Blue Jays batting data: 127 pitches
+Yesavage, Trey: 91 pitches
+
+=== All Blue Jays pitchers ===
+  Heineman, Tyler: 1 pitches
+  Rodríguez, Yariel: 27 pitches
+  Seabold, Connor: 26 pitches
+  Macko, Adam: 30 pitches
+  Yesavage, Trey: 91 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         35   38.5%   94.6    5.6%   17.1%    14.3%       D
+Splitter       31   34.1%   84.0   46.2%   29.0%    28.6%       A
+Slider         25   27.5%   88.5   38.5%   44.0%    41.7%       A
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-3.4 V=19.6 (35 pitches)
+  Splitter: H=-11.3 V=7.2 (31 pitches)
+  Slider: H=-2.9 V=4.8 (25 pitches)
+
+=== vs LHB/RHB ===
+  L: 56 pitches, avg velo 89.1, 7 swinging strikes, whiff/pitch 12.5%
+  R: 35 pitches, avg velo 89.7, 5 swinging strikes, whiff/pitch 14.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (24 pitches):
+    4-Seam: 50.0%
+    Slider: 29.2%
+    Splitter: 20.8%
+  Ahead (28 pitches):
+    Splitter: 50.0%
+    4-Seam: 28.6%
+    Slider: 21.4%
+  Behind (13 pitches):
+    Slider: 46.2%
+    4-Seam: 46.2%
+    Splitter: 7.7%
+  Even (22 pitches):
+    Splitter: 36.4%
+    4-Seam: 36.4%
+    Slider: 27.3%
+  Full count (3-2) (4 pitches):
+    Splitter: 75.0%
+    4-Seam: 25.0%
+
+=== STRIKEOUT PITCHES (5 K's) ===
+  Splitter: 3
+  Slider: 2
+
+=== TOP OPPOSING BATTERS ===
+  alonso, pete: 15 pitches, 0 hits, 1 K, 0 BB, avg EV 88.0
+  rutschman, adley: 15 pitches, 2 hits, 0 K, 1 BB, avg EV 88.7
+  henderson, gunnar: 12 pitches, 0 hits, 1 K, 1 BB, avg EV 81.8
+  ward, taylor: 11 pitches, 0 hits, 2 K, 0 BB, avg EV 81.9
+  cowser, colton: 9 pitches, 0 hits, 0 K, 0 BB, avg EV 86.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 29
+Avg EV: 86.2 mph
+Avg LA: 24.2
+Hard hit (95+): 9/29 (31%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.8 -> 94.5 mph (-0.3)
+  Splitter: 84.8 -> 83.4 mph (-1.4)
+  Slider: 88.4 -> 88.3 mph (-0.2)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.3in V=0.8in Total=1.6in Tight
+  Splitter: H=1.6in V=0.6in Total=1.7in Tight
+  Slider: H=1.4in V=0.6in Total=1.5in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/Splitter: RelSim=0.8in PlateSep=14.6in Tunnel=17.4 (GREEN) VeloGap=10.6mph
+  4-Seam/Slider: RelSim=2.1in PlateSep=14.8in Tunnel=6.9 (GREEN) VeloGap=6.1mph
+  Splitter/Slider: RelSim=1.7in PlateSep=8.8in Tunnel=5.2 (GREEN) VeloGap=4.5mph
+Best Tunnel: 4-Seam/Splitter (score: 17.4)
+
+=== GAME SCORE ===
+Game Score: 52
+K: 3 H: 0 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Yates, Kirby — home_run (WP 113.0%)
+  UP Inn 6: Messick, Parker — home_run (WP 183.3%)
+  UP Inn 5: Young, Brandon — home_run (WP 120.2%)
+  DOWN Inn 9: Senzatela, Antonio — double (WP -41.4%)
+  DOWN Inn 10: Mejia, Juan — double (WP -80.9%)
+  DOWN Inn 10: Ashby, Aaron — grounded_into_double_play (WP -83.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 32
+Hits: 13 (41%)
+Pull: 3 Center: 23 Oppo: 6
+
+=== PITCH RUN VALUE ===
+  4-Seam: 1.806 total (0.0516 per pitch, 35 pitches)
+  Splitter: -0.477 total (-0.0154 per pitch, 31 pitches)
+  Slider: 1.896 total (0.0758 per pitch, 25 pitches)
+Most Effective: Splitter
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Rodríguez, Yariel — 27 pitches
+  Slider: 10 (37.0%) velo=86.2 whiff=0.0% csw=30.0% grade=D
+  Sinker: 7 (25.9%) velo=95.6 whiff=0.0% csw=0.0% grade=D
+  Splitter: 5 (18.5%) velo=88.2 whiff=0.0% csw=20.0% grade=D
+  4-Seam: 5 (18.5%) velo=95.7 whiff=50.0% csw=20.0% grade=A
+  Line: 1K / 1BB / 4H / 0HR
+
+Seabold, Connor — 26 pitches
+  4-Seam: 10 (38.5%) velo=93.3 whiff=25.0% csw=40.0% grade=B
+  Slider: 9 (34.6%) velo=82.6 whiff=0.0% csw=11.1% grade=D
+  Changeup: 7 (26.9%) velo=83.3 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 4H / 0HR
+
+Macko, Adam — 30 pitches
+  Slider: 15 (50.0%) velo=85.3 whiff=62.5% csw=40.0% grade=A
+  4-Seam: 9 (30.0%) velo=95.5 whiff=0.0% csw=33.3% grade=D
+  K-Curve: 3 (10.0%) velo=79.7 whiff=0% csw=33.3% grade=D
+  Changeup: 3 (10.0%) velo=87.0 whiff=0.0% csw=0.0% grade=D
+  Line: 3K / 1BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Yesavage, Trey — 91 pitches
+  4-Seam: 35 (38.5%) velo=94.6 whiff=5.6% csw=17.1% grade=D
+  Splitter: 31 (34.1%) velo=84.0 whiff=46.2% csw=29.0% grade=A
+  Slider: 25 (27.5%) velo=88.5 whiff=38.5% csw=44.0% grade=A
+  Line: 5K / 2BB / 5H / 2HR
+  Overall Whiff: 27.3%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-06-05.png
+  zone_2026-06-05.png
+  batted_balls_2026-06-05.png
+  velocity_2026-06-05.png
+  release_2026-06-05.png
+  gamescore_2026-06-05.png
+  wpa_2026-06-05.png
+  spray_2026-06-05.png
+  runvalue_2026-06-05.png
+  spotlight_2026-06-05.png
