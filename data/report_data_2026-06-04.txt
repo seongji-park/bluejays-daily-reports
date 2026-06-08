@@ -1,0 +1,161 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-04
+Opponent: ATL
+Result: W 7-2
+Starter: Fluharty, Mason
+Spotlight: Dallas, Chad
+Season Record: 30-32
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 2685
+Blue Jays pitching data: 140 pitches
+Blue Jays batting data: 177 pitches
+Fluharty, Mason: 25 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 17 pitches
+  Fisher, Braydon: 9 pitches
+  Hoffman, Jeff: 9 pitches
+  Rogers, Tyler: 12 pitches
+  Dallas, Chad: 68 pitches
+  Fluharty, Mason: 25 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Cutter         16   64.0%   90.1   16.7%   25.0%    22.2%       C
+Sweeper         8   32.0%   80.8   33.3%   37.5%    40.0%       A
+Changeup        1    4.0%   86.0    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Cutter: H=-2.9 V=9.5 (16 pitches)
+  Sweeper: H=-14.3 V=0.2 (8 pitches)
+
+=== vs LHB/RHB ===
+  L: 10 pitches, avg velo 86.6, 1 swinging strikes, whiff/pitch 10.0%
+  R: 15 pitches, avg velo 87.2, 1 swinging strikes, whiff/pitch 6.7%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (6 pitches):
+    Cutter: 50.0%
+    Sweeper: 33.3%
+    Changeup: 16.7%
+  Ahead (6 pitches):
+    Cutter: 66.7%
+    Sweeper: 33.3%
+  Behind (8 pitches):
+    Cutter: 62.5%
+    Sweeper: 37.5%
+  Even (2 pitches):
+    Cutter: 100.0%
+  Full count (3-2) (3 pitches):
+    Cutter: 66.7%
+    Sweeper: 33.3%
+
+=== STRIKEOUT PITCHES (1 K's) ===
+  Cutter: 1
+
+=== TOP OPPOSING BATTERS ===
+  dubón, mauricio: 8 pitches, 0 hits, 0 K, 1 BB, avg EV 74.9
+  acuña, ronald: 5 pitches, 0 hits, 1 K, 0 BB, avg EV 70.8
+  olson, matt: 4 pitches, 0 hits, 0 K, 0 BB, avg EV 95.9
+  smith, dominic: 4 pitches, 0 hits, 0 K, 0 BB, avg EV 66.9
+  albies, ozzie: 2 pitches, 0 hits, 0 K, 0 BB, avg EV 100.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 7
+Avg EV: 85.1 mph
+Avg LA: 5.9
+Hard hit (95+): 3/7 (43%)
+
+=== VELOCITY TREND ===
+  Cutter: 90.2 -> 89.9 mph (-0.2)
+  Sweeper: 80.5 -> 81.3 mph (+0.8)
+
+=== RELEASE POINT SPREAD ===
+  Cutter: H=1.7in V=0.7in Total=1.9in Tight
+  Sweeper: H=1.5in V=0.5in Total=1.6in Tight
+
+=== TUNNELING ANALYSIS ===
+  Cutter/Sweeper: RelSim=2.4in PlateSep=14.7in Tunnel=6.1 (GREEN) VeloGap=9.3mph
+Best Tunnel: Cutter/Sweeper (score: 6.1)
+
+=== GAME SCORE ===
+Game Score: 51
+K: 2 H: 2 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Medina, Luis — single (WP 67.4%)
+  UP Inn 9: Scott, Tanner — home_run (WP 58.2%)
+  UP Inn 9: Medina, Luis — single (WP 112.7%)
+  DOWN Inn 6: Banda, Anthony — double (WP 280.1%)
+  DOWN Inn 1: Bello, Brayan — double (WP 131.8%)
+  DOWN Inn 7: Wheeler, Zack — home_run (WP 188.5%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 25
+Hits: 4 (16%)
+Pull: 3 Center: 17 Oppo: 5
+
+=== PITCH RUN VALUE ===
+  Cutter: 0.335 total (0.0209 per pitch, 16 pitches)
+  Sweeper: -0.226 total (-0.0282 per pitch, 8 pitches)
+  Changeup: 0.042 total (0.042 per pitch, 1 pitches)
+Most Effective: Sweeper
+Least Effective: Cutter
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 17 pitches
+  4-Seam: 6 (35.3%) velo=98.5 whiff=0.0% csw=0.0% grade=D
+  K-Curve: 5 (29.4%) velo=86.2 whiff=50.0% csw=40.0% grade=A
+  Changeup: 5 (29.4%) velo=92.7 whiff=33.3% csw=20.0% grade=A
+  Slider: 1 (5.9%) velo=90.2 whiff=0% csw=100.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Fisher, Braydon — 9 pitches
+  Slider: 5 (55.6%) velo=89.2 whiff=66.7% csw=60.0% grade=A
+  Curveball: 2 (22.2%) velo=81.9 whiff=100.0% csw=100.0% grade=A
+  Cutter: 1 (11.1%) velo=90.1 whiff=0% csw=0.0% grade=D
+  4-Seam: 1 (11.1%) velo=95.5 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 1HR
+
+Hoffman, Jeff — 9 pitches
+  Slider: 7 (77.8%) velo=86.7 whiff=50.0% csw=71.4% grade=A
+  Splitter: 1 (11.1%) velo=89.2 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 1 (11.1%) velo=96.6 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 12 pitches
+  Sinker: 10 (83.3%) velo=83.3 whiff=0.0% csw=10.0% grade=D
+  Slider: 2 (16.7%) velo=73.1 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Dallas, Chad — 68 pitches
+  Cutter: 24 (35.3%) velo=92.4 whiff=20.0% csw=16.7% grade=B
+  Curveball: 20 (29.4%) velo=84.4 whiff=14.3% csw=25.0% grade=C
+  Sweeper: 19 (27.9%) velo=83.8 whiff=33.3% csw=36.8% grade=A
+  4-Seam: 5 (7.4%) velo=93.2 whiff=0% csw=40.0% grade=D
+  Line: 2K / 2BB / 2H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Dallas, Chad — 68 pitches
+  Cutter: 24 (35.3%) velo=92.4 whiff=20.0% csw=16.7% grade=B
+  Curveball: 20 (29.4%) velo=84.4 whiff=14.3% csw=25.0% grade=C
+  Sweeper: 19 (27.9%) velo=83.8 whiff=33.3% csw=36.8% grade=A
+  4-Seam: 5 (7.4%) velo=93.2 whiff=0% csw=40.0% grade=D
+  Line: 2K / 2BB / 2H / 0HR
+  Overall Whiff: 23.1%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-06-04.png
+  zone_2026-06-04.png
+  batted_balls_2026-06-04.png
+  velocity_2026-06-04.png
+  release_2026-06-04.png
+  gamescore_2026-06-04.png
+  wpa_2026-06-04.png
+  spray_2026-06-04.png
+  runvalue_2026-06-04.png
+  spotlight_2026-06-04.png
