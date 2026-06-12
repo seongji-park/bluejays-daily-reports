@@ -1,0 +1,161 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-06
+Opponent: BAL
+Result: W 6-4
+Starter: Fisher, Braydon
+Spotlight: Miles, Spencer
+Season Record: 31-33
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4091
+Blue Jays pitching data: 143 pitches
+Blue Jays batting data: 134 pitches
+Fisher, Braydon: 18 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 8 pitches
+  Rogers, Tyler: 10 pitches
+  Fluharty, Mason: 21 pitches
+  Hoffman, Jeff: 13 pitches
+  Miles, Spencer: 73 pitches
+  Fisher, Braydon: 18 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider         10   55.6%   88.6   60.0%   50.0%     0.0%       A
+Curveball       5   27.8%   81.4    0.0%    0.0%     0.0%       D
+4-Seam          3   16.7%   94.2  100.0%   33.3%    33.3%       A
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=-2.6 V=7.2 (10 pitches)
+  Curveball: H=2.0 V=-11.4 (5 pitches)
+  4-Seam: H=-4.4 V=20.0 (3 pitches)
+
+=== vs LHB/RHB ===
+  L: 5 pitches, avg velo 85.9, 0 swinging strikes, whiff/pitch 0.0%
+  R: 13 pitches, avg velo 88.2, 4 swinging strikes, whiff/pitch 30.8%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (5 pitches):
+    Curveball: 60.0%
+    Slider: 40.0%
+  Ahead (5 pitches):
+    Slider: 60.0%
+    4-Seam: 20.0%
+    Curveball: 20.0%
+  Behind (5 pitches):
+    Slider: 60.0%
+    4-Seam: 20.0%
+    Curveball: 20.0%
+  Even (3 pitches):
+    Slider: 66.7%
+    4-Seam: 33.3%
+
+=== STRIKEOUT PITCHES (2 K's) ===
+  Slider: 1
+  4-Seam: 1
+
+=== TOP OPPOSING BATTERS ===
+  alonso, pete: 5 pitches, 0 hits, 1 K, 0 BB, avg EV <NA>
+  ward, taylor: 4 pitches, 0 hits, 0 K, 1 BB, avg EV <NA>
+  mayo, coby: 4 pitches, 0 hits, 1 K, 0 BB, avg EV 72.2
+  henderson, gunnar: 3 pitches, 1 hits, 0 K, 0 BB, avg EV 104.7
+  rutschman, adley: 2 pitches, 0 hits, 0 K, 0 BB, avg EV 78.3
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 4
+Avg EV: 90.0 mph
+Avg LA: -8.2
+Hard hit (95+): 2/4 (50%)
+
+=== VELOCITY TREND ===
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=1.9in V=0.6in Total=1.9in Tight
+  Curveball: H=1.2in V=0.4in Total=1.3in Tight
+  4-Seam: H=0.5in V=0.4in Total=0.6in Tight
+
+=== TUNNELING ANALYSIS ===
+  Slider/Curveball: RelSim=0.4in PlateSep=19.1in Tunnel=42.8 (GREEN) VeloGap=7.1mph
+  Curveball/4-Seam: RelSim=2.5in PlateSep=32.0in Tunnel=13.0 (GREEN) VeloGap=12.8mph
+  Slider/4-Seam: RelSim=2.8in PlateSep=12.9in Tunnel=4.6 (GREEN) VeloGap=5.7mph
+Best Tunnel: Slider/Curveball (score: 42.8)
+
+=== GAME SCORE ===
+Game Score: 50
+K: 5 H: 2 HR: 1 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Moll, Sam — home_run (WP 176.7%)
+  UP Inn 9: Winn, Keaton — home_run (WP 160.7%)
+  UP Inn 7: Warren, Austin — home_run (WP 129.8%)
+  DOWN Inn 9: Orze, Eric — single (WP 106.7%)
+  DOWN Inn 6: Antone, Tejay — grounded_into_double_play (WP 145.3%)
+  DOWN Inn 4: Liberatore, Matthew — home_run (WP 158.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 21
+Hits: 6 (29%)
+Pull: 6 Center: 14 Oppo: 1
+
+=== PITCH RUN VALUE ===
+  Slider: -0.777 total (-0.0777 per pitch, 10 pitches)
+  Curveball: 0.769 total (0.1538 per pitch, 5 pitches)
+  4-Seam: -0.169 total (-0.0563 per pitch, 3 pitches)
+Most Effective: Slider
+Least Effective: Curveball
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 8 pitches
+  4-Seam: 4 (50.0%) velo=98.8 whiff=33.3% csw=25.0% grade=A
+  K-Curve: 2 (25.0%) velo=86.4 whiff=0.0% csw=0.0% grade=D
+  Changeup: 2 (25.0%) velo=92.5 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 10 pitches
+  Sinker: 7 (70.0%) velo=83.1 whiff=20.0% csw=28.6% grade=B
+  Slider: 3 (30.0%) velo=74.1 whiff=100.0% csw=66.7% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+Fluharty, Mason — 21 pitches
+  Cutter: 14 (66.7%) velo=90.6 whiff=50.0% csw=28.6% grade=A
+  Sweeper: 5 (23.8%) velo=80.6 whiff=0.0% csw=20.0% grade=D
+  Changeup: 2 (9.5%) velo=87.8 whiff=100.0% csw=50.0% grade=A
+  Line: 3K / 0BB / 2H / 1HR
+
+Hoffman, Jeff — 13 pitches
+  Slider: 10 (76.9%) velo=85.8 whiff=60.0% csw=60.0% grade=A
+  4-Seam: 2 (15.4%) velo=96.0 whiff=0.0% csw=50.0% grade=D
+  Splitter: 1 (7.7%) velo=89.0 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 1HR
+
+Miles, Spencer — 73 pitches
+  Sinker: 28 (38.4%) velo=95.7 whiff=0.0% csw=35.7% grade=D
+  Curveball: 24 (32.9%) velo=80.5 whiff=25.0% csw=20.8% grade=B
+  4-Seam: 11 (15.1%) velo=95.3 whiff=16.7% csw=9.1% grade=C
+  Slider: 10 (13.7%) velo=86.5 whiff=20.0% csw=30.0% grade=B
+  Line: 5K / 1BB / 2H / 1HR
+
+=== SPOTLIGHT PITCHER ===
+Miles, Spencer — 73 pitches
+  Sinker: 28 (38.4%) velo=95.7 whiff=0.0% csw=35.7% grade=D
+  Curveball: 24 (32.9%) velo=80.5 whiff=25.0% csw=20.8% grade=B
+  4-Seam: 11 (15.1%) velo=95.3 whiff=16.7% csw=9.1% grade=C
+  Slider: 10 (13.7%) velo=86.5 whiff=20.0% csw=30.0% grade=B
+  Line: 5K / 1BB / 2H / 1HR
+  Overall Whiff: 14.7%
+  Role: CONTACT MANAGER
+
+=== CHARTS SAVED ===
+  movement_2026-06-06.png
+  zone_2026-06-06.png
+  batted_balls_2026-06-06.png
+  velocity_2026-06-06.png
+  release_2026-06-06.png
+  gamescore_2026-06-06.png
+  wpa_2026-06-06.png
+  spray_2026-06-06.png
+  runvalue_2026-06-06.png
+  spotlight_2026-06-06.png
