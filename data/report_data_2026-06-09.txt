@@ -1,0 +1,193 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-09
+Opponent: PHI
+Result: W 3-2
+Starter: Cease, Dylan
+Spotlight: Varland, Louis
+Season Record: 33-34
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4686
+Blue Jays pitching data: 132 pitches
+Blue Jays batting data: 138 pitches
+Cease, Dylan: 93 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 16 pitches
+  Fluharty, Mason: 8 pitches
+  Hoffman, Jeff: 15 pitches
+  Cease, Dylan: 93 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         28   30.1%   97.5   37.5%   32.1%    43.8%       A
+Slider         25   26.9%   89.3   40.0%   36.0%    50.0%       A
+Changeup       15   16.1%   83.6   77.8%   53.3%    50.0%       A
+Sinker         12   12.9%   96.5   42.9%   25.0%     0.0%       A
+K-Curve        10   10.8%   83.1   50.0%   50.0%    20.0%       A
+Sweeper         3    3.2%   85.3    0.0%    0.0%    33.3%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-2.7 V=18.8 (28 pitches)
+  Slider: H=1.4 V=3.2 (25 pitches)
+  Changeup: H=-8.2 V=17.0 (15 pitches)
+  Sinker: H=-11.4 V=14.0 (12 pitches)
+  K-Curve: H=2.4 V=-11.5 (10 pitches)
+  Sweeper: H=11.9 V=-7.6 (3 pitches)
+
+=== vs LHB/RHB ===
+  L: 55 pitches, avg velo 89.8, 12 swinging strikes, whiff/pitch 21.8%
+  R: 38 pitches, avg velo 92.7, 11 swinging strikes, whiff/pitch 28.9%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (22 pitches):
+    4-Seam: 31.8%
+    Slider: 22.7%
+    K-Curve: 18.2%
+    Sinker: 13.6%
+    Changeup: 9.1%
+    Sweeper: 4.5%
+  Ahead (33 pitches):
+    4-Seam: 30.3%
+    Slider: 24.2%
+    Changeup: 18.2%
+    K-Curve: 12.1%
+    Sinker: 9.1%
+    Sweeper: 6.1%
+  Behind (15 pitches):
+    Slider: 26.7%
+    Sinker: 20.0%
+    Changeup: 20.0%
+    4-Seam: 20.0%
+    K-Curve: 13.3%
+  Even (17 pitches):
+    Slider: 35.3%
+    4-Seam: 29.4%
+    Changeup: 23.5%
+    Sinker: 11.8%
+  Full count (3-2) (6 pitches):
+    4-Seam: 50.0%
+    Slider: 33.3%
+    Sinker: 16.7%
+
+=== STRIKEOUT PITCHES (11 K's) ===
+  4-Seam: 5
+  Slider: 3
+  Changeup: 2
+  Sinker: 1
+
+=== TOP OPPOSING BATTERS ===
+  harper, bryce: 18 pitches, 1 hits, 1 K, 1 BB, avg EV 94.2
+  schwarber, kyle: 14 pitches, 0 hits, 2 K, 0 BB, avg EV 90.9
+  bohm, alec: 12 pitches, 0 hits, 2 K, 0 BB, avg EV 81.1
+  marsh, brandon: 12 pitches, 1 hits, 2 K, 0 BB, avg EV 86.0
+  garcía, adolis: 11 pitches, 0 hits, 2 K, 0 BB, avg EV <NA>
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 18
+Avg EV: 82.0 mph
+Avg LA: 17.6
+Hard hit (95+): 4/18 (22%)
+
+=== VELOCITY TREND ===
+  4-Seam: 97.8 -> 97.6 mph (-0.2)
+  Slider: 88.8 -> 90.7 mph (+1.8)
+  Changeup: 85.7 -> 82.4 mph (-3.3)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=2.5in V=0.5in Total=2.5in Tight
+  Slider: H=2.0in V=1.0in Total=2.2in Tight
+  Changeup: H=1.7in V=0.4in Total=1.8in Tight
+  Sinker: H=1.5in V=1.0in Total=1.8in Tight
+  K-Curve: H=1.3in V=0.6in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=1.7in PlateSep=30.7in Tunnel=18.6 (GREEN) VeloGap=14.4mph
+  Changeup/K-Curve: RelSim=1.9in PlateSep=30.5in Tunnel=15.7 (GREEN) VeloGap=0.5mph
+  Slider/K-Curve: RelSim=1.0in PlateSep=14.7in Tunnel=15.3 (GREEN) VeloGap=6.2mph
+  4-Seam/Slider: RelSim=1.1in PlateSep=16.2in Tunnel=14.2 (GREEN) VeloGap=8.3mph
+  Sinker/K-Curve: RelSim=2.7in PlateSep=29.0in Tunnel=10.7 (GREEN) VeloGap=13.4mph
+  Slider/Changeup: RelSim=2.0in PlateSep=16.9in Tunnel=8.4 (GREEN) VeloGap=5.7mph
+  4-Seam/Sweeper: RelSim=5.0in PlateSep=30.1in Tunnel=6.1 (GREEN) VeloGap=12.2mph
+  Slider/Sinker: RelSim=2.8in PlateSep=16.7in Tunnel=5.9 (GREEN) VeloGap=7.3mph
+  Changeup/Sweeper: RelSim=5.6in PlateSep=31.8in Tunnel=5.7 (GREEN) VeloGap=1.7mph
+  Changeup/Sinker: RelSim=0.8in PlateSep=4.4in Tunnel=5.3 (GREEN) VeloGap=12.9mph
+  4-Seam/Sinker: RelSim=2.0in PlateSep=10.0in Tunnel=5.1 (GREEN) VeloGap=1.0mph
+  Sinker/Sweeper: RelSim=6.3in PlateSep=31.7in Tunnel=5.0 (GREEN) VeloGap=11.3mph
+  4-Seam/Changeup: RelSim=1.2in PlateSep=5.8in Tunnel=4.8 (GREEN) VeloGap=13.9mph
+  Slider/Sweeper: RelSim=3.8in PlateSep=15.0in Tunnel=3.9 (GREEN) VeloGap=4.0mph
+  K-Curve/Sweeper: RelSim=3.6in PlateSep=10.3in Tunnel=2.8 (YELLOW) VeloGap=2.2mph
+Best Tunnel: 4-Seam/K-Curve (score: 18.6)
+
+=== GAME SCORE ===
+Game Score: 77
+K: 2 H: 1 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 10: Iglesias, Raisel — home_run (WP 130.0%)
+  UP Inn 9: Ferrer, José A. — fielders_choice (WP 55.4%)
+  UP Inn 10: Davila, Nick — single (WP 21.5%)
+  DOWN Inn 9: Varland, Louis — double (WP 390.7%)
+  DOWN Inn 10: Garcia, Rico — home_run (WP 29.7%)
+  DOWN Inn 4: Rogers, Trevor — home_run (WP 34.5%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 17
+Hits: 5 (29%)
+Pull: 3 Center: 12 Oppo: 2
+
+=== PITCH RUN VALUE ===
+  4-Seam: -1.701 total (-0.0607 per pitch, 28 pitches)
+  Slider: 0.114 total (0.0046 per pitch, 25 pitches)
+  Changeup: -0.713 total (-0.0475 per pitch, 15 pitches)
+  Sinker: -0.142 total (-0.0118 per pitch, 12 pitches)
+  K-Curve: -0.323 total (-0.0323 per pitch, 10 pitches)
+  Sweeper: 0.069 total (0.023 per pitch, 3 pitches)
+Most Effective: 4-Seam
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 16 pitches
+  4-Seam: 6 (37.5%) velo=99.2 whiff=0.0% csw=33.3% grade=D
+  K-Curve: 4 (25.0%) velo=86.6 whiff=0.0% csw=0.0% grade=D
+  Changeup: 4 (25.0%) velo=93.4 whiff=0.0% csw=0.0% grade=D
+  Slider: 1 (6.2%) velo=92.4 whiff=0.0% csw=0.0% grade=D
+  Sinker: 1 (6.2%) velo=97.2 whiff=0% csw=0.0% grade=D
+  Line: 1K / 1BB / 1H / 0HR
+
+Fluharty, Mason — 8 pitches
+  Changeup: 4 (50.0%) velo=88.2 whiff=66.7% csw=75.0% grade=A
+  Sweeper: 2 (25.0%) velo=81.2 whiff=0.0% csw=50.0% grade=D
+  Cutter: 2 (25.0%) velo=90.4 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Hoffman, Jeff — 15 pitches
+  Slider: 8 (53.3%) velo=86.3 whiff=66.7% csw=75.0% grade=A
+  4-Seam: 6 (40.0%) velo=97.2 whiff=25.0% csw=16.7% grade=B
+  Splitter: 1 (6.7%) velo=90.3 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Varland, Louis — 16 pitches
+  4-Seam: 6 (37.5%) velo=99.2 whiff=0.0% csw=33.3% grade=D
+  K-Curve: 4 (25.0%) velo=86.6 whiff=0.0% csw=0.0% grade=D
+  Changeup: 4 (25.0%) velo=93.4 whiff=0.0% csw=0.0% grade=D
+  Slider: 1 (6.2%) velo=92.4 whiff=0.0% csw=0.0% grade=D
+  Sinker: 1 (6.2%) velo=97.2 whiff=0% csw=0.0% grade=D
+  Line: 1K / 1BB / 1H / 0HR
+  Overall Whiff: 0.0%
+  Role: CONTACT MANAGER
+
+=== CHARTS SAVED ===
+  movement_2026-06-09.png
+  zone_2026-06-09.png
+  batted_balls_2026-06-09.png
+  velocity_2026-06-09.png
+  release_2026-06-09.png
+  gamescore_2026-06-09.png
+  wpa_2026-06-09.png
+  spray_2026-06-09.png
+  runvalue_2026-06-09.png
+  spotlight_2026-06-09.png
