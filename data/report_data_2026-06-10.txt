@@ -1,0 +1,189 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-10
+Opponent: PHI
+Result: L 4-7
+Starter: Scherzer, Max
+Spotlight: Scherzer, Max
+Season Record: 33-35
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4573
+Blue Jays pitching data: 194 pitches
+Blue Jays batting data: 153 pitches
+Scherzer, Max: 82 pitches
+
+=== All Blue Jays pitchers ===
+  Rogers, Tyler: 14 pitches
+  Miles, Spencer: 17 pitches
+  Fisher, Braydon: 27 pitches
+  Hoffman, Jeff: 21 pitches
+  Nance, Tommy: 16 pitches
+  Fluharty, Mason: 17 pitches
+  Scherzer, Max: 82 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         38   46.3%   93.6   23.8%   21.1%    29.4%       B
+Slider         19   23.2%   85.3   22.2%   21.1%    38.5%       B
+Changeup       15   18.3%   84.8   22.2%   20.0%    37.5%       B
+Curveball      10   12.2%   76.1   40.0%   30.0%    20.0%       A
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-7.4 V=17.3 (38 pitches)
+  Slider: H=4.8 V=2.7 (19 pitches)
+  Changeup: H=-15.8 V=4.1 (15 pitches)
+  Curveball: H=12.9 V=-5.0 (10 pitches)
+
+=== vs LHB/RHB ===
+  L: 46 pitches, avg velo 88.8, 5 swinging strikes, whiff/pitch 10.9%
+  R: 36 pitches, avg velo 86.9, 6 swinging strikes, whiff/pitch 16.7%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (18 pitches):
+    4-Seam: 61.1%
+    Slider: 22.2%
+    Changeup: 11.1%
+    Curveball: 5.6%
+  Ahead (26 pitches):
+    4-Seam: 30.8%
+    Slider: 30.8%
+    Changeup: 19.2%
+    Curveball: 19.2%
+  Behind (19 pitches):
+    4-Seam: 57.9%
+    Slider: 15.8%
+    Changeup: 15.8%
+    Curveball: 10.5%
+  Even (12 pitches):
+    4-Seam: 41.7%
+    Slider: 25.0%
+    Curveball: 16.7%
+    Changeup: 16.7%
+  Full count (3-2) (7 pitches):
+    Changeup: 42.9%
+    4-Seam: 42.9%
+    Slider: 14.3%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  Changeup: 2
+  Slider: 1
+  4-Seam: 1
+
+=== TOP OPPOSING BATTERS ===
+  marsh, brandon: 13 pitches, 0 hits, 0 K, 1 BB, avg EV 63.5
+  stott, bryson: 11 pitches, 0 hits, 0 K, 1 BB, avg EV 83.0
+  realmuto, j. t.: 9 pitches, 0 hits, 1 K, 0 BB, avg EV 87.3
+  turner, trea: 9 pitches, 1 hits, 1 K, 0 BB, avg EV 81.0
+  bohm, alec: 9 pitches, 1 hits, 0 K, 0 BB, avg EV 92.1
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 30
+Avg EV: 80.8 mph
+Avg LA: 25.2
+Hard hit (95+): 7/30 (23%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.2 -> 91.9 mph (-2.3)
+  Slider: 85.9 -> 84.2 mph (-1.7)
+  Changeup: 85.1 -> 84.0 mph (-1.1)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.0in V=1.2in Total=1.5in Tight
+  Slider: H=1.0in V=1.2in Total=1.6in Tight
+  Changeup: H=0.9in V=1.0in Total=1.3in Tight
+  Curveball: H=0.6in V=1.0in Total=1.2in Tight
+
+=== TUNNELING ANALYSIS ===
+  Slider/Changeup: RelSim=0.5in PlateSep=20.6in Tunnel=38.1 (GREEN) VeloGap=0.5mph
+  4-Seam/Curveball: RelSim=1.4in PlateSep=30.2in Tunnel=21.5 (GREEN) VeloGap=17.5mph
+  Changeup/Curveball: RelSim=4.7in PlateSep=30.1in Tunnel=6.4 (GREEN) VeloGap=8.7mph
+  4-Seam/Slider: RelSim=3.0in PlateSep=19.0in Tunnel=6.2 (GREEN) VeloGap=8.2mph
+  4-Seam/Changeup: RelSim=3.4in PlateSep=15.7in Tunnel=4.7 (GREEN) VeloGap=8.8mph
+  Slider/Curveball: RelSim=4.4in PlateSep=11.2in Tunnel=2.5 (YELLOW) VeloGap=9.3mph
+Best Tunnel: Slider/Changeup (score: 38.1)
+
+=== GAME SCORE ===
+Game Score: 41
+K: 1 H: 1 HR: 1 BB/HBP: 3
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Parker, Mitchell — home_run (WP 436.1%)
+  UP Inn 8: Webb, Jacob — home_run (WP 168.4%)
+  UP Inn 8: Hurt, Kyle — home_run (WP 337.4%)
+  DOWN Inn 10: Latz, Jacob — grounded_into_double_play (WP 65.3%)
+  DOWN Inn 9: Senzatela, Antonio — home_run (WP 117.7%)
+  DOWN Inn 10: Lange, Alex — double (WP 112.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 28
+Hits: 10 (36%)
+Pull: 6 Center: 18 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  4-Seam: 2.963 total (0.078 per pitch, 38 pitches)
+  Slider: 1.905 total (0.1003 per pitch, 19 pitches)
+  Changeup: -0.606 total (-0.0404 per pitch, 15 pitches)
+  Curveball: -0.337 total (-0.0337 per pitch, 10 pitches)
+Most Effective: Changeup
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Rogers, Tyler — 14 pitches
+  Sinker: 12 (85.7%) velo=84.4 whiff=14.3% csw=33.3% grade=C
+  Slider: 2 (14.3%) velo=74.2 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 0HR
+
+Miles, Spencer — 17 pitches
+  Sinker: 10 (58.8%) velo=96.8 whiff=25.0% csw=30.0% grade=B
+  Slider: 5 (29.4%) velo=87.8 whiff=60.0% csw=60.0% grade=A
+  Curveball: 2 (11.8%) velo=82.5 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Fisher, Braydon — 27 pitches
+  Curveball: 11 (40.7%) velo=80.4 whiff=0.0% csw=18.2% grade=D
+  Slider: 11 (40.7%) velo=88.3 whiff=33.3% csw=18.2% grade=A
+  4-Seam: 5 (18.5%) velo=94.0 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 1BB / 2H / 0HR
+
+Hoffman, Jeff — 21 pitches
+  Slider: 10 (47.6%) velo=86.5 whiff=20.0% csw=20.0% grade=B
+  4-Seam: 7 (33.3%) velo=96.3 whiff=25.0% csw=28.6% grade=B
+  Splitter: 3 (14.3%) velo=90.3 whiff=0.0% csw=0.0% grade=D
+  Sinker: 1 (4.8%) velo=96.3 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 1BB / 0H / 0HR
+
+Nance, Tommy — 16 pitches
+  Slider: 6 (37.5%) velo=88.8 whiff=0.0% csw=0.0% grade=D
+  Curveball: 5 (31.2%) velo=84.4 whiff=0.0% csw=40.0% grade=D
+  Sinker: 5 (31.2%) velo=93.8 whiff=0.0% csw=20.0% grade=D
+  Line: 0K / 0BB / 1H / 0HR
+
+Fluharty, Mason — 17 pitches
+  Sweeper: 9 (52.9%) velo=82.0 whiff=0.0% csw=22.2% grade=D
+  Cutter: 7 (41.2%) velo=90.8 whiff=0.0% csw=14.3% grade=D
+  Changeup: 1 (5.9%) velo=88.9 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 1HR
+
+=== SPOTLIGHT PITCHER ===
+Scherzer, Max — 82 pitches
+  4-Seam: 38 (46.3%) velo=93.6 whiff=23.8% csw=21.1% grade=B
+  Slider: 19 (23.2%) velo=85.3 whiff=22.2% csw=21.1% grade=B
+  Changeup: 15 (18.3%) velo=84.8 whiff=22.2% csw=20.0% grade=B
+  Curveball: 10 (12.2%) velo=76.1 whiff=40.0% csw=30.0% grade=A
+  Line: 4K / 3BB / 5H / 2HR
+  Overall Whiff: 25.0%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-06-10.png
+  zone_2026-06-10.png
+  batted_balls_2026-06-10.png
+  velocity_2026-06-10.png
+  release_2026-06-10.png
+  gamescore_2026-06-10.png
+  wpa_2026-06-10.png
+  spray_2026-06-10.png
+  runvalue_2026-06-10.png
+  spotlight_2026-06-10.png
