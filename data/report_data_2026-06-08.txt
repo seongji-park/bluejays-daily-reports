@@ -1,0 +1,185 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-08
+Opponent: PHI
+Result: L 2-5
+Starter: Corbin, Patrick
+Spotlight: Woods Richardson, Simeon
+Season Record: 32-34
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 2600
+Blue Jays pitching data: 158 pitches
+Blue Jays batting data: 136 pitches
+Corbin, Patrick: 80 pitches
+
+=== All Blue Jays pitchers ===
+  Nance, Tommy: 11 pitches
+  Woods Richardson, Simeon: 48 pitches
+  Macko, Adam: 19 pitches
+  Corbin, Patrick: 80 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider         25   31.2%   80.0   40.0%   24.0%    47.4%       A
+Sinker         24   30.0%   91.2   14.3%   20.8%     7.1%       C
+Changeup       13   16.2%   79.3   12.5%   23.1%    50.0%       C
+4-Seam         11   13.8%   90.7   25.0%    9.1%    12.5%       B
+Cutter          5    6.2%   85.8    0.0%   40.0%    50.0%       D
+CS              1    1.2%   57.7    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=-2.3 V=0.1 (25 pitches)
+  Sinker: H=14.9 V=12.5 (24 pitches)
+  Changeup: H=10.1 V=9.4 (13 pitches)
+  4-Seam: H=6.4 V=15.4 (11 pitches)
+  Cutter: H=-2.9 V=4.9 (5 pitches)
+
+=== vs LHB/RHB ===
+  L: 39 pitches, avg velo 86.5, 6 swinging strikes, whiff/pitch 15.4%
+  R: 41 pitches, avg velo 83.3, 3 swinging strikes, whiff/pitch 7.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (18 pitches):
+    Sinker: 38.9%
+    Slider: 22.2%
+    Changeup: 11.1%
+    Cutter: 11.1%
+    4-Seam: 5.6%
+    CS: 5.6%
+  Ahead (18 pitches):
+    Slider: 27.8%
+    4-Seam: 22.2%
+    Changeup: 22.2%
+    Sinker: 22.2%
+    Cutter: 5.6%
+  Behind (21 pitches):
+    Slider: 42.9%
+    Sinker: 33.3%
+    Changeup: 14.3%
+    4-Seam: 4.8%
+    Cutter: 4.8%
+  Even (19 pitches):
+    Sinker: 26.3%
+    4-Seam: 26.3%
+    Slider: 21.1%
+    Changeup: 21.1%
+    Cutter: 5.3%
+  Full count (3-2) (4 pitches):
+    Slider: 75.0%
+    Sinker: 25.0%
+
+=== STRIKEOUT PITCHES (3 K's) ===
+  Slider: 2
+  Changeup: 1
+
+=== TOP OPPOSING BATTERS ===
+  stott, bryson: 14 pitches, 1 hits, 0 K, 1 BB, avg EV 76.9
+  harper, bryce: 11 pitches, 0 hits, 0 K, 1 BB, avg EV 83.2
+  turner, trea: 10 pitches, 0 hits, 0 K, 1 BB, avg EV 77.7
+  sosa, edmundo: 9 pitches, 0 hits, 1 K, 0 BB, avg EV 64.5
+  schwarber, kyle: 9 pitches, 0 hits, 1 K, 0 BB, avg EV <NA>
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 22
+Avg EV: 76.4 mph
+Avg LA: 11.1
+Hard hit (95+): 5/22 (23%)
+
+=== VELOCITY TREND ===
+  Slider: 80.6 -> 80.7 mph (+0.2)
+  Sinker: 92.2 -> 90.8 mph (-1.4)
+  Changeup: 80.1 -> 79.0 mph (-1.1)
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=1.0in V=1.1in Total=1.5in Tight
+  Sinker: H=1.4in V=0.8in Total=1.6in Tight
+  Changeup: H=1.2in V=0.7in Total=1.3in Tight
+  4-Seam: H=1.6in V=0.7in Total=1.7in Tight
+  Cutter: H=1.0in V=0.5in Total=1.1in Tight
+
+=== TUNNELING ANALYSIS ===
+  Changeup/4-Seam: RelSim=0.5in PlateSep=7.1in Tunnel=14.9 (GREEN) VeloGap=11.4mph
+  Sinker/4-Seam: RelSim=0.7in PlateSep=9.0in Tunnel=12.9 (GREEN) VeloGap=0.5mph
+  Slider/Changeup: RelSim=1.2in PlateSep=15.5in Tunnel=12.8 (GREEN) VeloGap=0.7mph
+  Slider/Sinker: RelSim=1.9in PlateSep=21.2in Tunnel=11.3 (GREEN) VeloGap=11.2mph
+  Slider/4-Seam: RelSim=1.7in PlateSep=17.6in Tunnel=10.5 (GREEN) VeloGap=10.7mph
+  Sinker/Cutter: RelSim=2.7in PlateSep=19.3in Tunnel=7.2 (GREEN) VeloGap=5.3mph
+  Sinker/Changeup: RelSim=0.8in PlateSep=5.7in Tunnel=7.1 (GREEN) VeloGap=11.9mph
+  Changeup/Cutter: RelSim=2.3in PlateSep=13.8in Tunnel=6.1 (GREEN) VeloGap=6.5mph
+  4-Seam/Cutter: RelSim=2.7in PlateSep=14.0in Tunnel=5.1 (GREEN) VeloGap=4.9mph
+  Slider/Cutter: RelSim=1.2in PlateSep=4.9in Tunnel=4.0 (GREEN) VeloGap=5.8mph
+Best Tunnel: Changeup/4-Seam (score: 14.9)
+
+=== GAME SCORE ===
+Game Score: 41
+K: 1 H: 0 HR: 0 BB/HBP: 5
+
+=== KEY WPA MOMENTS ===
+  UP Inn 10: Ashby, Aaron — home_run (WP 121.9%)
+  UP Inn 6: Blackburn, Paul — home_run (WP 130.2%)
+  UP Inn 8: Smith, Cade — grounded_into_double_play (WP 140.0%)
+  DOWN Inn 9: Winn, Keaton — single (WP 141.7%)
+  DOWN Inn 9: Harris, Hogan — double (WP 132.1%)
+  DOWN Inn 5: Nunez, Anthony — home_run (WP 104.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 24
+Hits: 7 (29%)
+Pull: 3 Center: 17 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  Slider: 1.42 total (0.0568 per pitch, 25 pitches)
+  Sinker: 1.019 total (0.0425 per pitch, 24 pitches)
+  Changeup: -0.534 total (-0.0411 per pitch, 13 pitches)
+  4-Seam: 0.314 total (0.0285 per pitch, 11 pitches)
+  Cutter: 0.832 total (0.1664 per pitch, 5 pitches)
+  CS: 0.042 total (0.042 per pitch, 1 pitches)
+Most Effective: Changeup
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Nance, Tommy — 11 pitches
+  Slider: 5 (45.5%) velo=89.6 whiff=50.0% csw=60.0% grade=A
+  Curveball: 4 (36.4%) velo=83.6 whiff=0.0% csw=25.0% grade=D
+  Sinker: 2 (18.2%) velo=93.4 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 2H / 0HR
+
+Woods Richardson, Simeon — 48 pitches
+  4-Seam: 19 (39.6%) velo=93.9 whiff=25.0% csw=42.1% grade=B
+  Splitter: 13 (27.1%) velo=86.1 whiff=16.7% csw=7.7% grade=C
+  Slider: 12 (25.0%) velo=87.0 whiff=33.3% csw=25.0% grade=A
+  Curveball: 3 (6.2%) velo=77.8 whiff=0% csw=100.0% grade=D
+  Sinker: 1 (2.1%) velo=91.7 whiff=0% csw=0.0% grade=D
+  Line: 3K / 0BB / 1H / 0HR
+
+Macko, Adam — 19 pitches
+  4-Seam: 9 (47.4%) velo=94.5 whiff=0.0% csw=22.2% grade=D
+  Slider: 8 (42.1%) velo=84.5 whiff=20.0% csw=12.5% grade=B
+  Changeup: 1 (5.3%) velo=85.8 whiff=0% csw=0.0% grade=D
+  K-Curve: 1 (5.3%) velo=78.6 whiff=0% csw=0.0% grade=D
+  Line: 1K / 1BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Woods Richardson, Simeon — 48 pitches
+  4-Seam: 19 (39.6%) velo=93.9 whiff=25.0% csw=42.1% grade=B
+  Splitter: 13 (27.1%) velo=86.1 whiff=16.7% csw=7.7% grade=C
+  Slider: 12 (25.0%) velo=87.0 whiff=33.3% csw=25.0% grade=A
+  Curveball: 3 (6.2%) velo=77.8 whiff=0% csw=100.0% grade=D
+  Sinker: 1 (2.1%) velo=91.7 whiff=0% csw=0.0% grade=D
+  Line: 3K / 0BB / 1H / 0HR
+  Overall Whiff: 25.0%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-06-08.png
+  zone_2026-06-08.png
+  batted_balls_2026-06-08.png
+  velocity_2026-06-08.png
+  release_2026-06-08.png
+  gamescore_2026-06-08.png
+  wpa_2026-06-08.png
+  spray_2026-06-08.png
+  runvalue_2026-06-08.png
+  spotlight_2026-06-08.png
