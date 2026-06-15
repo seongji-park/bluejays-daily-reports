@@ -1,0 +1,200 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-14
+Opponent: NYY
+Result: L 3-8
+Starter: Corbin, Patrick
+Spotlight: Corbin, Patrick
+Season Record: 34-37
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4108
+Blue Jays pitching data: 168 pitches
+Blue Jays batting data: 165 pitches
+Corbin, Patrick: 76 pitches
+
+=== All Blue Jays pitchers ===
+  Nance, Tommy: 9 pitches
+  Fisher, Braydon: 24 pitches
+  Hoffman, Jeff: 12 pitches
+  Fluharty, Mason: 9 pitches
+  Miles, Spencer: 38 pitches
+  Corbin, Patrick: 76 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider         23   30.3%   78.2   16.7%   26.1%    14.3%       C
+4-Seam         16   21.1%   91.0    9.1%   25.0%    60.0%       D
+Changeup       16   21.1%   78.3   33.3%   18.8%    41.7%       A
+Sinker         14   18.4%   91.6   10.0%   21.4%    50.0%       C
+Cutter          5    6.6%   85.6    0.0%    0.0%     0.0%       D
+Curveball       2    2.6%   66.2  100.0%  100.0%   100.0%       A
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=-2.8 V=-1.6 (23 pitches)
+  4-Seam: H=7.1 V=15.9 (16 pitches)
+  Changeup: H=9.9 V=8.4 (16 pitches)
+  Sinker: H=14.6 V=10.8 (14 pitches)
+  Cutter: H=-3.5 V=5.5 (5 pitches)
+  Curveball: H=-4.2 V=-2.7 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 18 pitches, avg velo 86.7, 2 swinging strikes, whiff/pitch 11.1%
+  R: 58 pitches, avg velo 82.6, 5 swinging strikes, whiff/pitch 8.6%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (18 pitches):
+    Slider: 44.4%
+    Changeup: 16.7%
+    Curveball: 11.1%
+    4-Seam: 11.1%
+    Sinker: 11.1%
+    Cutter: 5.6%
+  Ahead (23 pitches):
+    Slider: 34.8%
+    Changeup: 30.4%
+    4-Seam: 21.7%
+    Sinker: 8.7%
+    Cutter: 4.3%
+  Behind (16 pitches):
+    Sinker: 25.0%
+    4-Seam: 25.0%
+    Cutter: 18.8%
+    Changeup: 18.8%
+    Slider: 12.5%
+  Even (9 pitches):
+    4-Seam: 33.3%
+    Sinker: 33.3%
+    Slider: 22.2%
+    Changeup: 11.1%
+  Full count (3-2) (10 pitches):
+    Sinker: 30.0%
+    Slider: 30.0%
+    4-Seam: 20.0%
+    Changeup: 20.0%
+
+=== STRIKEOUT PITCHES (3 K's) ===
+  4-Seam: 1
+  Sinker: 1
+  Changeup: 1
+
+=== TOP OPPOSING BATTERS ===
+  caballero, josé: 16 pitches, 0 hits, 1 K, 0 BB, avg EV 80.6
+  goldschmidt, paul: 12 pitches, 2 hits, 0 K, 0 BB, avg EV 82.8
+  rice, ben: 11 pitches, 1 hits, 1 K, 0 BB, avg EV 80.6
+  domínguez, jasson: 9 pitches, 0 hits, 1 K, 0 BB, avg EV 72.0
+  bellinger, cody: 7 pitches, 0 hits, 0 K, 0 BB, avg EV 82.8
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 32
+Avg EV: 81.6 mph
+Avg LA: 18.9
+Hard hit (95+): 5/32 (16%)
+
+=== VELOCITY TREND ===
+  Slider: 79.4 -> 75.1 mph (-4.3)
+  4-Seam: 91.1 -> 90.8 mph (-0.3)
+  Changeup: 79.8 -> 76.7 mph (-3.1)
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=1.3in V=1.6in Total=2.0in Tight
+  4-Seam: H=1.4in V=0.6in Total=1.5in Tight
+  Changeup: H=1.1in V=1.1in Total=1.5in Tight
+  Sinker: H=1.1in V=0.7in Total=1.4in Tight
+  Cutter: H=0.8in V=0.9in Total=1.2in Tight
+
+=== TUNNELING ANALYSIS ===
+  Changeup/Sinker: RelSim=0.4in PlateSep=5.2in Tunnel=12.9 (GREEN) VeloGap=13.3mph
+  Slider/Sinker: RelSim=2.0in PlateSep=21.3in Tunnel=10.6 (GREEN) VeloGap=13.4mph
+  4-Seam/Changeup: RelSim=0.8in PlateSep=8.1in Tunnel=10.0 (GREEN) VeloGap=12.7mph
+  Slider/4-Seam: RelSim=2.3in PlateSep=20.1in Tunnel=8.9 (GREEN) VeloGap=12.9mph
+  Slider/Changeup: RelSim=2.0in PlateSep=16.2in Tunnel=8.0 (GREEN) VeloGap=0.2mph
+  Sinker/Cutter: RelSim=2.4in PlateSep=18.8in Tunnel=7.7 (GREEN) VeloGap=5.9mph
+  4-Seam/Sinker: RelSim=1.2in PlateSep=9.1in Tunnel=7.5 (GREEN) VeloGap=0.5mph
+  Slider/Cutter: RelSim=1.2in PlateSep=7.1in Tunnel=6.2 (GREEN) VeloGap=7.5mph
+  Changeup/Cutter: RelSim=2.6in PlateSep=13.7in Tunnel=5.2 (GREEN) VeloGap=7.3mph
+  4-Seam/Cutter: RelSim=3.1in PlateSep=14.8in Tunnel=4.8 (GREEN) VeloGap=5.4mph
+Best Tunnel: Changeup/Sinker (score: 12.9)
+
+=== GAME SCORE ===
+Game Score: 54
+K: 2 H: 1 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Soriano, George — double (WP -63.9%)
+  UP Inn 4: Sánchez, Cristopher — home_run (WP -125.2%)
+  UP Inn 4: McGreevy, Michael — home_run (WP -54.6%)
+  DOWN Inn 9: Fisher, Braydon — home_run (WP -59.3%)
+  DOWN Inn 6: Antone, Tejay — home_run (WP -169.4%)
+  DOWN Inn 8: Bachman, Sam — home_run (WP -145.2%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 31
+Hits: 12 (39%)
+Pull: 3 Center: 21 Oppo: 7
+
+=== PITCH RUN VALUE ===
+  Slider: 0.243 total (0.0106 per pitch, 23 pitches)
+  4-Seam: 0.656 total (0.041 per pitch, 16 pitches)
+  Changeup: -0.739 total (-0.0462 per pitch, 16 pitches)
+  Sinker: 0.314 total (0.0224 per pitch, 14 pitches)
+  Cutter: 0.468 total (0.0936 per pitch, 5 pitches)
+  Curveball: -0.068 total (-0.034 per pitch, 2 pitches)
+Most Effective: Changeup
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Nance, Tommy — 9 pitches
+  Slider: 4 (44.4%) velo=87.8 whiff=0.0% csw=25.0% grade=D
+  Curveball: 3 (33.3%) velo=83.9 whiff=0% csw=0.0% grade=D
+  Sinker: 2 (22.2%) velo=95.6 whiff=0.0% csw=50.0% grade=D
+  Line: 0K / 1BB / 1H / 1HR
+
+Fisher, Braydon — 24 pitches
+  Slider: 12 (50.0%) velo=89.0 whiff=28.6% csw=25.0% grade=B
+  4-Seam: 7 (29.2%) velo=95.2 whiff=20.0% csw=14.3% grade=B
+  Curveball: 5 (20.8%) velo=82.7 whiff=100.0% csw=40.0% grade=A
+  Line: 1K / 1BB / 2H / 1HR
+
+Hoffman, Jeff — 12 pitches
+  Slider: 8 (66.7%) velo=87.4 whiff=75.0% csw=62.5% grade=A
+  Sinker: 4 (33.3%) velo=96.2 whiff=0.0% csw=25.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Fluharty, Mason — 9 pitches
+  Cutter: 4 (44.4%) velo=90.7 whiff=0% csw=25.0% grade=D
+  Sweeper: 3 (33.3%) velo=81.5 whiff=0.0% csw=0.0% grade=D
+  Changeup: 2 (22.2%) velo=87.1 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 1BB / 1H / 0HR
+
+Miles, Spencer — 38 pitches
+  Curveball: 16 (42.1%) velo=80.7 whiff=16.7% csw=25.0% grade=C
+  Sinker: 13 (34.2%) velo=96.2 whiff=20.0% csw=38.5% grade=B
+  4-Seam: 8 (21.1%) velo=96.6 whiff=50.0% csw=25.0% grade=A
+  Slider: 1 (2.6%) velo=86.2 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 1BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Corbin, Patrick — 76 pitches
+  Slider: 23 (30.3%) velo=78.2 whiff=16.7% csw=26.1% grade=C
+  4-Seam: 16 (21.1%) velo=91.0 whiff=9.1% csw=25.0% grade=D
+  Changeup: 16 (21.1%) velo=78.3 whiff=33.3% csw=18.8% grade=A
+  Sinker: 14 (18.4%) velo=91.6 whiff=10.0% csw=21.4% grade=C
+  Cutter: 5 (6.6%) velo=85.6 whiff=0.0% csw=0.0% grade=D
+  Curveball: 2 (2.6%) velo=66.2 whiff=100.0% csw=100.0% grade=A
+  Line: 3K / 0BB / 7H / 0HR
+  Overall Whiff: 17.9%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-06-14.png
+  zone_2026-06-14.png
+  batted_balls_2026-06-14.png
+  velocity_2026-06-14.png
+  release_2026-06-14.png
+  gamescore_2026-06-14.png
+  wpa_2026-06-14.png
+  spray_2026-06-14.png
+  runvalue_2026-06-14.png
+  spotlight_2026-06-14.png
