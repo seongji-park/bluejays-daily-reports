@@ -1,0 +1,171 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-17
+Opponent: BOS
+Result: W 3-0
+Starter: Fisher, Braydon
+Spotlight: Woods Richardson, Simeon
+Season Record: 36-37
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4088
+Blue Jays pitching data: 155 pitches
+Blue Jays batting data: 137 pitches
+Fisher, Braydon: 21 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 10 pitches
+  Rogers, Tyler: 11 pitches
+  Hoffman, Jeff: 25 pitches
+  Miles, Spencer: 22 pitches
+  Fluharty, Mason: 11 pitches
+  Woods Richardson, Simeon: 55 pitches
+  Fisher, Braydon: 21 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider          9   42.9%   88.8    0.0%   33.3%     0.0%       D
+4-Seam          8   38.1%   94.7   33.3%   25.0%     0.0%       A
+Curveball       4   19.0%   81.2    0.0%   50.0%    50.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=0.1 V=4.8 (9 pitches)
+  4-Seam: H=-5.3 V=16.2 (8 pitches)
+  Curveball: H=4.0 V=-9.8 (4 pitches)
+
+=== vs LHB/RHB ===
+  L: 12 pitches, avg velo 88.8, 1 swinging strikes, whiff/pitch 8.3%
+  R: 9 pitches, avg velo 90.6, 0 swinging strikes, whiff/pitch 0.0%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (6 pitches):
+    Curveball: 33.3%
+    4-Seam: 33.3%
+    Slider: 33.3%
+  Ahead (7 pitches):
+    4-Seam: 57.1%
+    Curveball: 28.6%
+    Slider: 14.3%
+  Behind (4 pitches):
+    Slider: 100.0%
+  Even (2 pitches):
+    4-Seam: 50.0%
+    Slider: 50.0%
+  Full count (3-2) (2 pitches):
+    4-Seam: 50.0%
+    Slider: 50.0%
+
+=== STRIKEOUT PITCHES (0 K's) ===
+
+=== TOP OPPOSING BATTERS ===
+  contreras, willson: 7 pitches, 0 hits, 0 K, 1 BB, avg EV 72.5
+  gasper, mickey: 6 pitches, 0 hits, 0 K, 1 BB, avg EV <NA>
+  abreu, wilyer: 3 pitches, 0 hits, 0 K, 0 BB, avg EV 90.8
+  rafaela, ceddanne: 2 pitches, 0 hits, 0 K, 0 BB, avg EV 82.1
+  yoshida, masataka: 2 pitches, 0 hits, 0 K, 0 BB, avg EV 95.8
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 5
+Avg EV: 86.9 mph
+Avg LA: 21.2
+Hard hit (95+): 1/5 (20%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.7 -> 94.3 mph (-0.4)
+  Curveball: 81.6 -> 79.9 mph (-1.7)
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=2.2in V=0.4in Total=2.2in Tight
+  4-Seam: H=1.7in V=0.4in Total=1.7in Tight
+  Curveball: H=1.4in V=0.5in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  Slider/Curveball: RelSim=0.4in PlateSep=15.1in Tunnel=37.2 (GREEN) VeloGap=7.7mph
+  4-Seam/Curveball: RelSim=2.1in PlateSep=27.6in Tunnel=13.3 (GREEN) VeloGap=13.5mph
+  Slider/4-Seam: RelSim=2.4in PlateSep=12.6in Tunnel=5.2 (GREEN) VeloGap=5.8mph
+Best Tunnel: Slider/Curveball (score: 37.2)
+
+=== GAME SCORE ===
+Game Score: 50
+K: 1 H: 3 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 2: Aldegheri, Sam — home_run (WP 57.3%)
+  UP Inn 9: Vesia, Alex — strikeout (WP 121.6%)
+  UP Inn 6: Kelly, Kevin — home_run (WP 93.5%)
+  DOWN Inn 3: Rodón, Carlos — home_run (WP 37.5%)
+  DOWN Inn 3: Kirby, George — home_run (WP 108.6%)
+  DOWN Inn 4: Sproat, Brandon — home_run (WP 85.9%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 27
+Hits: 7 (26%)
+Pull: 2 Center: 23 Oppo: 2
+
+=== PITCH RUN VALUE ===
+  Slider: 0.112 total (0.0124 per pitch, 9 pitches)
+  4-Seam: -0.226 total (-0.0282 per pitch, 8 pitches)
+  Curveball: -0.223 total (-0.0558 per pitch, 4 pitches)
+Most Effective: 4-Seam
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 10 pitches
+  4-Seam: 6 (60.0%) velo=99.8 whiff=50.0% csw=50.0% grade=A
+  Slider: 2 (20.0%) velo=93.8 whiff=100.0% csw=100.0% grade=A
+  Changeup: 1 (10.0%) velo=93.9 whiff=100.0% csw=100.0% grade=A
+  K-Curve: 1 (10.0%) velo=87.5 whiff=0.0% csw=0.0% grade=D
+  Line: 3K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 11 pitches
+  Sinker: 10 (90.9%) velo=83.0 whiff=0.0% csw=40.0% grade=D
+  Slider: 1 (9.1%) velo=74.7 whiff=0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 0HR
+
+Hoffman, Jeff — 25 pitches
+  Splitter: 10 (40.0%) velo=89.0 whiff=12.5% csw=20.0% grade=C
+  Slider: 9 (36.0%) velo=86.5 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 6 (24.0%) velo=96.8 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 0HR
+
+Miles, Spencer — 22 pitches
+  Sinker: 16 (72.7%) velo=96.4 whiff=0.0% csw=37.5% grade=D
+  Curveball: 5 (22.7%) velo=81.3 whiff=0.0% csw=0.0% grade=D
+  Slider: 1 (4.5%) velo=88.0 whiff=0% csw=0.0% grade=D
+  Line: 1K / 1BB / 1H / 0HR
+
+Fluharty, Mason — 11 pitches
+  Sweeper: 7 (63.6%) velo=81.6 whiff=0.0% csw=0.0% grade=D
+  Cutter: 3 (27.3%) velo=91.0 whiff=100.0% csw=33.3% grade=A
+  Changeup: 1 (9.1%) velo=87.0 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 1BB / 1H / 0HR
+
+Woods Richardson, Simeon — 55 pitches
+  4-Seam: 29 (52.7%) velo=91.7 whiff=11.1% csw=24.1% grade=C
+  Slider: 12 (21.8%) velo=84.4 whiff=40.0% csw=33.3% grade=A
+  Curveball: 9 (16.4%) velo=75.1 whiff=0.0% csw=33.3% grade=D
+  Splitter: 5 (9.1%) velo=87.1 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 3BB / 3H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Woods Richardson, Simeon — 55 pitches
+  4-Seam: 29 (52.7%) velo=91.7 whiff=11.1% csw=24.1% grade=C
+  Slider: 12 (21.8%) velo=84.4 whiff=40.0% csw=33.3% grade=A
+  Curveball: 9 (16.4%) velo=75.1 whiff=0.0% csw=33.3% grade=D
+  Splitter: 5 (9.1%) velo=87.1 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 3BB / 3H / 0HR
+  Overall Whiff: 17.6%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-06-17.png
+  zone_2026-06-17.png
+  batted_balls_2026-06-17.png
+  velocity_2026-06-17.png
+  release_2026-06-17.png
+  gamescore_2026-06-17.png
+  wpa_2026-06-17.png
+  spray_2026-06-17.png
+  runvalue_2026-06-17.png
+  spotlight_2026-06-17.png
