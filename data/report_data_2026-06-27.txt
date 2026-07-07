@@ -1,0 +1,204 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-27
+Opponent: TEX
+Result: L 4-7
+Starter: Cease, Dylan
+Spotlight: Cease, Dylan
+Season Record: 39-43
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4325
+Blue Jays pitching data: 186 pitches
+Blue Jays batting data: 150 pitches
+Cease, Dylan: 107 pitches
+
+=== All Blue Jays pitchers ===
+  Rogers, Tyler: 22 pitches
+  Hoffman, Jeff: 20 pitches
+  Nance, Tommy: 11 pitches
+  Fisher, Braydon: 12 pitches
+  Fluharty, Mason: 14 pitches
+  Cease, Dylan: 107 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         47   43.9%   97.2   43.8%   21.3%    10.0%       A
+Slider         28   26.2%   88.8   37.5%   39.3%    33.3%       A
+Changeup       13   12.1%   80.3   66.7%   38.5%    16.7%       A
+K-Curve         9    8.4%   82.0    0.0%   44.4%     0.0%       D
+Sinker          8    7.5%   95.7    0.0%   62.5%    33.3%       D
+Sweeper         2    1.9%   83.3    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-2.4 V=17.7 (47 pitches)
+  Slider: H=1.9 V=3.8 (28 pitches)
+  Changeup: H=-8.1 V=14.0 (13 pitches)
+  K-Curve: H=2.6 V=-12.5 (9 pitches)
+  Sinker: H=-10.0 V=12.8 (8 pitches)
+  Sweeper: H=9.8 V=-9.2 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 77 pitches, avg velo 91.0, 13 swinging strikes, whiff/pitch 16.9%
+  R: 30 pitches, avg velo 92.1, 4 swinging strikes, whiff/pitch 13.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (23 pitches):
+    Slider: 26.1%
+    4-Seam: 21.7%
+    Sinker: 17.4%
+    K-Curve: 17.4%
+    Changeup: 17.4%
+  Ahead (31 pitches):
+    4-Seam: 51.6%
+    Slider: 22.6%
+    Changeup: 9.7%
+    K-Curve: 9.7%
+    Sweeper: 3.2%
+    Sinker: 3.2%
+  Behind (19 pitches):
+    4-Seam: 52.6%
+    Slider: 31.6%
+    Sinker: 5.3%
+    K-Curve: 5.3%
+    Changeup: 5.3%
+  Even (22 pitches):
+    4-Seam: 45.5%
+    Slider: 22.7%
+    Changeup: 18.2%
+    Sinker: 4.5%
+    Sweeper: 4.5%
+    K-Curve: 4.5%
+  Full count (3-2) (12 pitches):
+    4-Seam: 50.0%
+    Slider: 33.3%
+    Sinker: 8.3%
+    Changeup: 8.3%
+
+=== STRIKEOUT PITCHES (10 K's) ===
+  4-Seam: 4
+  Slider: 3
+  Changeup: 2
+  K-Curve: 1
+
+=== TOP OPPOSING BATTERS ===
+  nimmo, brandon: 19 pitches, 1 hits, 1 K, 1 BB, avg EV 80.8
+  seager, corey: 18 pitches, 0 hits, 2 K, 1 BB, avg EV 71.3
+  pederson, joc: 16 pitches, 0 hits, 3 K, 0 BB, avg EV 76.8
+  burger, jake: 12 pitches, 2 hits, 0 K, 0 BB, avg EV 82.4
+  jung, josh: 11 pitches, 0 hits, 1 K, 1 BB, avg EV 58.5
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 23
+Avg EV: 78.1 mph
+Avg LA: 22.6
+Hard hit (95+): 2/23 (9%)
+
+=== VELOCITY TREND ===
+  4-Seam: 96.4 -> 98.2 mph (+1.7)
+  Slider: 88.4 -> 90.3 mph (+2.0)
+  Changeup: 81.5 -> 78.2 mph (-3.3)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=2.6in V=0.8in Total=2.8in Tight
+  Slider: H=2.3in V=0.9in Total=2.4in Tight
+  Changeup: H=1.7in V=0.8in Total=1.9in Tight
+  K-Curve: H=1.6in V=0.6in Total=1.7in Tight
+  Sinker: H=2.4in V=0.9in Total=2.6in Tight
+
+=== TUNNELING ANALYSIS ===
+  Changeup/K-Curve: RelSim=0.9in PlateSep=28.6in Tunnel=33.2 (GREEN) VeloGap=1.7mph
+  4-Seam/K-Curve: RelSim=1.2in PlateSep=30.6in Tunnel=25.5 (GREEN) VeloGap=15.2mph
+  K-Curve/Sinker: RelSim=2.3in PlateSep=28.3in Tunnel=12.1 (GREEN) VeloGap=13.7mph
+  4-Seam/Slider: RelSim=1.3in PlateSep=14.5in Tunnel=10.8 (GREEN) VeloGap=8.4mph
+  Slider/K-Curve: RelSim=2.1in PlateSep=16.3in Tunnel=7.9 (GREEN) VeloGap=6.8mph
+  Slider/Changeup: RelSim=2.8in PlateSep=14.3in Tunnel=5.1 (GREEN) VeloGap=8.6mph
+  Slider/Sinker: RelSim=4.3in PlateSep=15.0in Tunnel=3.5 (GREEN) VeloGap=6.8mph
+  4-Seam/Changeup: RelSim=2.1in PlateSep=6.8in Tunnel=3.3 (GREEN) VeloGap=16.9mph
+  4-Seam/Sinker: RelSim=3.5in PlateSep=9.1in Tunnel=2.6 (YELLOW) VeloGap=1.6mph
+  Changeup/Sinker: RelSim=1.5in PlateSep=2.4in Tunnel=1.6 (RED) VeloGap=15.4mph
+Best Tunnel: Changeup/K-Curve (score: 33.2)
+
+=== GAME SCORE ===
+Game Score: 62
+K: 0 H: 2 HR: 0 BB/HBP: 5
+
+=== KEY WPA MOMENTS ===
+  UP Inn 6: Rangel, Alan — triple (WP 151.7%)
+  UP Inn 9: Soto, Gregory — grounded_into_double_play (WP 79.3%)
+  UP Inn 3: Teng, Kai-Wei — home_run (WP 151.0%)
+  DOWN Inn 9: Soto, Gregory — home_run (WP 50.6%)
+  DOWN Inn 8: Vest, Will — double (WP 129.8%)
+  DOWN Inn 10: Lawrence, Justin — field_out (WP -32.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 25
+Hits: 11 (44%)
+Pull: 6 Center: 17 Oppo: 2
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.646 total (0.0137 per pitch, 47 pitches)
+  Slider: -0.733 total (-0.0262 per pitch, 28 pitches)
+  Changeup: 0.218 total (0.0168 per pitch, 13 pitches)
+  K-Curve: 0.063 total (0.007 per pitch, 9 pitches)
+  Sinker: -0.392 total (-0.049 per pitch, 8 pitches)
+  Sweeper: -0.03 total (-0.015 per pitch, 2 pitches)
+Most Effective: Slider
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Rogers, Tyler — 22 pitches
+  Sinker: 12 (54.5%) velo=83.3 whiff=0.0% csw=0.0% grade=D
+  Slider: 10 (45.5%) velo=73.5 whiff=14.3% csw=10.0% grade=C
+  Line: 0K / 0BB / 1H / 0HR
+
+Hoffman, Jeff — 20 pitches
+  4-Seam: 9 (45.0%) velo=96.3 whiff=14.3% csw=11.1% grade=C
+  Slider: 8 (40.0%) velo=86.2 whiff=20.0% csw=25.0% grade=B
+  Splitter: 2 (10.0%) velo=89.6 whiff=50.0% csw=50.0% grade=A
+  Sinker: 1 (5.0%) velo=96.0 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 0HR
+
+Nance, Tommy — 11 pitches
+  Slider: 4 (36.4%) velo=90.0 whiff=50.0% csw=50.0% grade=A
+  Curveball: 3 (27.3%) velo=85.4 whiff=50.0% csw=66.7% grade=A
+  Sinker: 3 (27.3%) velo=95.4 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 1 (9.1%) velo=94.3 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 2H / 0HR
+
+Fisher, Braydon — 12 pitches
+  Slider: 7 (58.3%) velo=87.3 whiff=25.0% csw=42.9% grade=B
+  4-Seam: 3 (25.0%) velo=95.0 whiff=0.0% csw=0.0% grade=D
+  Curveball: 2 (16.7%) velo=81.4 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 1HR
+
+Fluharty, Mason — 14 pitches
+  Cutter: 6 (42.9%) velo=91.2 whiff=0.0% csw=33.3% grade=D
+  Changeup: 5 (35.7%) velo=87.2 whiff=0.0% csw=0.0% grade=D
+  Sweeper: 3 (21.4%) velo=81.1 whiff=0.0% csw=33.3% grade=D
+  Line: 0K / 1BB / 2H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Cease, Dylan — 107 pitches
+  4-Seam: 47 (43.9%) velo=97.2 whiff=43.8% csw=21.3% grade=A
+  Slider: 28 (26.2%) velo=88.8 whiff=37.5% csw=39.3% grade=A
+  Changeup: 13 (12.1%) velo=80.3 whiff=66.7% csw=38.5% grade=A
+  K-Curve: 9 (8.4%) velo=82.0 whiff=0.0% csw=44.4% grade=D
+  Sinker: 8 (7.5%) velo=95.6 whiff=0.0% csw=62.5% grade=D
+  Sweeper: 2 (1.9%) velo=83.3 whiff=0.0% csw=0.0% grade=D
+  Line: 10K / 5BB / 4H / 0HR
+  Overall Whiff: 38.6%
+  Role: ELITE RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-06-27.png
+  zone_2026-06-27.png
+  batted_balls_2026-06-27.png
+  velocity_2026-06-27.png
+  release_2026-06-27.png
+  gamescore_2026-06-27.png
+  wpa_2026-06-27.png
+  spray_2026-06-27.png
+  runvalue_2026-06-27.png
+  spotlight_2026-06-27.png
