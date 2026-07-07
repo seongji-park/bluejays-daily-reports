@@ -1,0 +1,149 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-24
+Opponent: HOU
+Result: L 1-3
+Starter: Yesavage, Trey
+Spotlight: None
+Season Record: 39-40
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4836
+Blue Jays pitching data: 154 pitches
+Blue Jays batting data: 141 pitches
+Yesavage, Trey: 105 pitches
+
+=== All Blue Jays pitchers ===
+  Fluharty, Mason: 20 pitches
+  Hoffman, Jeff: 17 pitches
+  Nance, Tommy: 12 pitches
+  Yesavage, Trey: 105 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider         46   43.8%   87.0   30.8%   28.3%    44.4%       A
+4-Seam         38   36.2%   93.9    7.1%   10.5%    20.0%       D
+Splitter       21   20.0%   82.3   33.3%   33.3%    38.5%       A
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=-2.3 V=5.1 (46 pitches)
+  4-Seam: H=-3.4 V=19.5 (38 pitches)
+  Splitter: H=-12.8 V=6.6 (21 pitches)
+
+=== vs LHB/RHB ===
+  L: 32 pitches, avg velo 88.9, 2 swinging strikes, whiff/pitch 6.2%
+  R: 73 pitches, avg velo 88.3, 10 swinging strikes, whiff/pitch 13.7%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (25 pitches):
+    4-Seam: 52.0%
+    Slider: 40.0%
+    Splitter: 8.0%
+  Ahead (26 pitches):
+    Slider: 42.3%
+    4-Seam: 42.3%
+    Splitter: 15.4%
+  Behind (23 pitches):
+    Slider: 52.2%
+    4-Seam: 34.8%
+    Splitter: 13.0%
+  Even (22 pitches):
+    Splitter: 50.0%
+    Slider: 31.8%
+    4-Seam: 18.2%
+  Full count (3-2) (9 pitches):
+    Slider: 66.7%
+    4-Seam: 22.2%
+    Splitter: 11.1%
+
+=== STRIKEOUT PITCHES (5 K's) ===
+  Splitter: 4
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  peña, jeremy: 17 pitches, 0 hits, 1 K, 2 BB, avg EV 81.4
+  diaz, yainer: 17 pitches, 1 hits, 0 K, 0 BB, avg EV 78.4
+  álvarez, yordan: 13 pitches, 0 hits, 1 K, 1 BB, avg EV 63.0
+  loperfido, joey: 13 pitches, 0 hits, 0 K, 1 BB, avg EV 74.4
+  smith, cam: 12 pitches, 0 hits, 1 K, 1 BB, avg EV 98.5
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 30
+Avg EV: 79.7 mph
+Avg LA: 5.2
+Hard hit (95+): 5/30 (17%)
+
+=== VELOCITY TREND ===
+  Slider: 87.0 -> 86.2 mph (-0.8)
+  4-Seam: 94.2 -> 93.5 mph (-0.7)
+  Splitter: 82.7 -> 81.6 mph (-1.1)
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=1.1in V=0.6in Total=1.2in Tight
+  4-Seam: H=1.2in V=0.6in Total=1.3in Tight
+  Splitter: H=1.1in V=0.7in Total=1.3in Tight
+
+=== TUNNELING ANALYSIS ===
+  Slider/Splitter: RelSim=0.9in PlateSep=10.5in Tunnel=11.6 (GREEN) VeloGap=4.7mph
+  4-Seam/Splitter: RelSim=1.5in PlateSep=15.9in Tunnel=10.8 (GREEN) VeloGap=11.6mph
+  Slider/4-Seam: RelSim=2.1in PlateSep=14.5in Tunnel=6.8 (GREEN) VeloGap=6.9mph
+Best Tunnel: Slider/Splitter (score: 11.6)
+
+=== GAME SCORE ===
+Game Score: 58
+K: 1 H: 0 HR: 0 BB/HBP: 5
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Smith, Cade — home_run (WP 82.8%)
+  UP Inn 9: Alvarado, Elvis — home_run (WP 173.6%)
+  UP Inn 10: Akin, Keegan — single (WP 70.7%)
+  DOWN Inn 9: Lovelady, Richard — home_run (WP 43.6%)
+  DOWN Inn 9: Kuhnel, Joel — grounded_into_double_play (WP -9.1%)
+  DOWN Inn 10: Armstrong, Shawn — force_out (WP -66.2%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 24
+Hits: 4 (17%)
+Pull: 0 Center: 22 Oppo: 2
+
+=== PITCH RUN VALUE ===
+  Slider: 0.094 total (0.002 per pitch, 46 pitches)
+  4-Seam: -0.49 total (-0.0129 per pitch, 38 pitches)
+  Splitter: -0.719 total (-0.0342 per pitch, 21 pitches)
+Most Effective: Splitter
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Fluharty, Mason — 20 pitches
+  Cutter: 9 (45.0%) velo=90.2 whiff=25.0% csw=11.1% grade=B
+  Sweeper: 6 (30.0%) velo=81.9 whiff=0.0% csw=0.0% grade=D
+  Changeup: 5 (25.0%) velo=86.0 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 2BB / 1H / 0HR
+
+Hoffman, Jeff — 17 pitches
+  Slider: 8 (47.1%) velo=86.8 whiff=40.0% csw=37.5% grade=A
+  4-Seam: 2 (11.8%) velo=97.0 whiff=0% csw=100.0% grade=D
+  Splitter: 2 (11.8%) velo=90.2 whiff=0.0% csw=50.0% grade=D
+  Sinker: 1 (5.9%) velo=96.0 whiff=0% csw=0.0% grade=D
+  Line: 2K / 0BB / 1H / 0HR
+
+Nance, Tommy — 12 pitches
+  Slider: 7 (58.3%) velo=88.2 whiff=0.0% csw=14.3% grade=D
+  Curveball: 3 (25.0%) velo=83.9 whiff=100.0% csw=66.7% grade=A
+  Sinker: 2 (16.7%) velo=93.8 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-06-24.png
+  zone_2026-06-24.png
+  batted_balls_2026-06-24.png
+  velocity_2026-06-24.png
+  release_2026-06-24.png
+  gamescore_2026-06-24.png
+  wpa_2026-06-24.png
+  spray_2026-06-24.png
+  runvalue_2026-06-24.png
