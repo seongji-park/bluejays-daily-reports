@@ -1,0 +1,140 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-25
+Opponent: TEX
+Result: L 5-6
+Starter: Gausman, Kevin
+Spotlight: Woods Richardson, Simeon
+Season Record: 39-41
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 2352
+Blue Jays pitching data: 142 pitches
+Blue Jays batting data: 141 pitches
+Gausman, Kevin: 99 pitches
+
+=== All Blue Jays pitchers ===
+  Woods Richardson, Simeon: 43 pitches
+  Gausman, Kevin: 99 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         48   48.5%   93.4    8.0%   31.2%    37.5%       D
+Splitter       38   38.4%   84.3   31.8%   18.4%    40.0%       A
+Slider         13   13.1%   84.1   28.6%   15.4%    40.0%       B
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-9.6 V=16.7 (48 pitches)
+  Splitter: H=-12.9 V=5.1 (38 pitches)
+  Slider: H=1.0 V=2.6 (13 pitches)
+
+=== vs LHB/RHB ===
+  L: 57 pitches, avg velo 89.0, 4 swinging strikes, whiff/pitch 7.0%
+  R: 42 pitches, avg velo 88.2, 7 swinging strikes, whiff/pitch 16.7%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (28 pitches):
+    4-Seam: 57.1%
+    Splitter: 25.0%
+    Slider: 17.9%
+  Ahead (32 pitches):
+    Splitter: 50.0%
+    4-Seam: 34.4%
+    Slider: 15.6%
+  Behind (22 pitches):
+    4-Seam: 50.0%
+    Splitter: 45.5%
+    Slider: 4.5%
+  Even (14 pitches):
+    4-Seam: 71.4%
+    Splitter: 14.3%
+    Slider: 14.3%
+  Full count (3-2) (3 pitches):
+    Splitter: 100.0%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  Splitter: 4
+
+=== TOP OPPOSING BATTERS ===
+  pederson, joc: 21 pitches, 2 hits, 0 K, 1 BB, avg EV 90.0
+  osuna, alejandro: 13 pitches, 1 hits, 0 K, 0 BB, avg EV 86.9
+  burger, jake: 12 pitches, 2 hits, 1 K, 0 BB, avg EV 82.5
+  langford, wyatt: 11 pitches, 1 hits, 1 K, 0 BB, avg EV 86.8
+  duran, ezequiel: 10 pitches, 0 hits, 1 K, 0 BB, avg EV 86.0
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 40
+Avg EV: 87.0 mph
+Avg LA: 19.5
+Hard hit (95+): 13/40 (32%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.1 -> 92.6 mph (-1.5)
+  Splitter: 84.5 -> 83.0 mph (-1.5)
+  Slider: 85.0 -> 81.0 mph (-4.0)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.9in V=1.0in Total=1.3in Tight
+  Splitter: H=0.9in V=1.0in Total=1.3in Tight
+  Slider: H=0.6in V=0.9in Total=1.1in Tight
+
+=== TUNNELING ANALYSIS ===
+  Splitter/Slider: RelSim=0.3in PlateSep=14.1in Tunnel=41.3 (GREEN) VeloGap=0.2mph
+  4-Seam/Slider: RelSim=2.2in PlateSep=17.7in Tunnel=8.0 (GREEN) VeloGap=9.3mph
+  4-Seam/Splitter: RelSim=2.6in PlateSep=12.1in Tunnel=4.7 (GREEN) VeloGap=9.1mph
+Best Tunnel: Splitter/Slider (score: 41.3)
+
+=== GAME SCORE ===
+Game Score: 40
+K: 1 H: 0 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 6: Krook, Matt — triple (WP 32.9%)
+  UP Inn 5: Schlittler, Cam — home_run (WP 45.1%)
+  UP Inn 7: Maton, Phil — home_run (WP 34.6%)
+  DOWN Inn 9: Kilian, Caleb — single (WP 17.6%)
+  DOWN Inn 9: Varland, Gus — home_run (WP -19.4%)
+  DOWN Inn 9: Kilian, Caleb — single (WP -12.9%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 28
+Hits: 10 (36%)
+Pull: 5 Center: 17 Oppo: 6
+
+=== PITCH RUN VALUE ===
+  4-Seam: 1.307 total (0.0272 per pitch, 48 pitches)
+  Splitter: 1.617 total (0.0426 per pitch, 38 pitches)
+  Slider: 1.053 total (0.081 per pitch, 13 pitches)
+Most Effective: Slider
+Least Effective: Splitter
+
+=== BULLPEN DETAILED ===
+Woods Richardson, Simeon — 43 pitches
+  4-Seam: 21 (48.8%) velo=92.1 whiff=0.0% csw=19.0% grade=D
+  Slider: 13 (30.2%) velo=85.7 whiff=16.7% csw=15.4% grade=C
+  Curveball: 7 (16.3%) velo=76.3 whiff=0% csw=28.6% grade=D
+  Splitter: 2 (4.7%) velo=84.1 whiff=0% csw=0.0% grade=D
+  Line: 1K / 4BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Woods Richardson, Simeon — 43 pitches
+  4-Seam: 21 (48.8%) velo=92.1 whiff=0.0% csw=19.0% grade=D
+  Slider: 13 (30.2%) velo=85.7 whiff=16.7% csw=15.4% grade=C
+  Curveball: 7 (16.3%) velo=76.3 whiff=0% csw=28.6% grade=D
+  Splitter: 2 (4.7%) velo=84.1 whiff=0% csw=0.0% grade=D
+  Line: 1K / 4BB / 0H / 0HR
+  Overall Whiff: 8.3%
+  Role: CONTACT MANAGER
+
+=== CHARTS SAVED ===
+  movement_2026-06-25.png
+  zone_2026-06-25.png
+  batted_balls_2026-06-25.png
+  velocity_2026-06-25.png
+  release_2026-06-25.png
+  gamescore_2026-06-25.png
+  wpa_2026-06-25.png
+  spray_2026-06-25.png
+  runvalue_2026-06-25.png
+  spotlight_2026-06-25.png
