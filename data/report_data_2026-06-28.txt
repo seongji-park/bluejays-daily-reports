@@ -1,0 +1,181 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-28
+Opponent: TEX
+Result: L 2-3
+Starter: Bieber, Shane
+Spotlight: Bieber, Shane
+Season Record: 39-44
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4420
+Blue Jays pitching data: 164 pitches
+Blue Jays batting data: 130 pitches
+Bieber, Shane: 92 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 23 pitches
+  Hoffman, Jeff: 24 pitches
+  Macko, Adam: 25 pitches
+  Bieber, Shane: 92 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         43   46.7%   92.1   23.1%   30.2%    15.4%       B
+K-Curve        22   23.9%   82.4   42.9%   36.4%    53.3%       A
+Changeup       11   12.0%   88.4    0.0%    9.1%    16.7%       D
+Cutter          9    9.8%   86.8    0.0%   11.1%     0.0%       D
+Slider          7    7.6%   84.1    0.0%   28.6%    33.3%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-8.7 V=16.7 (43 pitches)
+  K-Curve: H=7.3 V=-11.4 (22 pitches)
+  Changeup: H=-13.9 V=1.5 (11 pitches)
+  Cutter: H=2.2 V=6.5 (9 pitches)
+  Slider: H=0.1 V=-2.7 (7 pitches)
+
+=== vs LHB/RHB ===
+  L: 52 pitches, avg velo 88.0, 6 swinging strikes, whiff/pitch 11.5%
+  R: 40 pitches, avg velo 88.6, 3 swinging strikes, whiff/pitch 7.5%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (24 pitches):
+    4-Seam: 41.7%
+    K-Curve: 25.0%
+    Changeup: 16.7%
+    Cutter: 8.3%
+    Slider: 8.3%
+  Ahead (25 pitches):
+    4-Seam: 48.0%
+    K-Curve: 28.0%
+    Cutter: 16.0%
+    Changeup: 4.0%
+    Slider: 4.0%
+  Behind (21 pitches):
+    4-Seam: 38.1%
+    K-Curve: 33.3%
+    Cutter: 9.5%
+    Changeup: 9.5%
+    Slider: 9.5%
+  Even (16 pitches):
+    4-Seam: 68.8%
+    K-Curve: 12.5%
+    Changeup: 6.2%
+    Cutter: 6.2%
+    Slider: 6.2%
+  Full count (3-2) (6 pitches):
+    Changeup: 50.0%
+    4-Seam: 33.3%
+    Slider: 16.7%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  K-Curve: 2
+  4-Seam: 2
+
+=== TOP OPPOSING BATTERS ===
+  seager, corey: 14 pitches, 0 hits, 1 K, 1 BB, avg EV 86.5
+  burger, jake: 14 pitches, 0 hits, 0 K, 1 BB, avg EV 81.9
+  pederson, joc: 13 pitches, 1 hits, 1 K, 0 BB, avg EV 86.8
+  nimmo, brandon: 13 pitches, 0 hits, 0 K, 2 BB, avg EV 90.6
+  jung, josh: 11 pitches, 1 hits, 1 K, 0 BB, avg EV 95.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 28
+Avg EV: 87.2 mph
+Avg LA: 12.3
+Hard hit (95+): 11/28 (39%)
+
+=== VELOCITY TREND ===
+  4-Seam: 92.2 -> 91.3 mph (-0.9)
+  K-Curve: 82.8 -> 82.2 mph (-0.6)
+  Changeup: 88.0 -> 87.5 mph (-0.5)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.9in V=0.7in Total=1.1in Tight
+  K-Curve: H=0.6in V=0.6in Total=0.8in Tight
+  Changeup: H=0.6in V=0.3in Total=0.7in Tight
+  Cutter: H=0.7in V=0.9in Total=1.1in Tight
+  Slider: H=1.0in V=0.7in Total=1.2in Tight
+
+=== TUNNELING ANALYSIS ===
+  K-Curve/Cutter: RelSim=0.4in PlateSep=18.5in Tunnel=49.2 (GREEN) VeloGap=4.4mph
+  4-Seam/K-Curve: RelSim=0.8in PlateSep=32.3in Tunnel=38.6 (GREEN) VeloGap=9.7mph
+  4-Seam/Cutter: RelSim=0.5in PlateSep=15.0in Tunnel=31.4 (GREEN) VeloGap=5.3mph
+  K-Curve/Changeup: RelSim=1.4in PlateSep=24.8in Tunnel=17.2 (GREEN) VeloGap=6.0mph
+  Changeup/Slider: RelSim=1.0in PlateSep=14.7in Tunnel=15.3 (GREEN) VeloGap=4.2mph
+  4-Seam/Slider: RelSim=1.5in PlateSep=21.4in Tunnel=14.0 (GREEN) VeloGap=8.0mph
+  K-Curve/Slider: RelSim=0.8in PlateSep=11.2in Tunnel=13.8 (GREEN) VeloGap=1.7mph
+  Changeup/Cutter: RelSim=1.8in PlateSep=16.9in Tunnel=9.4 (GREEN) VeloGap=1.5mph
+  Cutter/Slider: RelSim=1.1in PlateSep=9.4in Tunnel=8.8 (GREEN) VeloGap=2.7mph
+  4-Seam/Changeup: RelSim=2.3in PlateSep=16.1in Tunnel=7.1 (GREEN) VeloGap=3.7mph
+Best Tunnel: K-Curve/Cutter (score: 49.2)
+
+=== GAME SCORE ===
+Game Score: 48
+K: 1 H: 1 HR: 0 BB/HBP: 4
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Winn, Cole — home_run (WP 312.8%)
+  UP Inn 10: Cruz, Fernando — double (WP 16.1%)
+  UP Inn 8: Simpson, Josh — double (WP 56.9%)
+  DOWN Inn 10: Wicks, Jordan — grounded_into_double_play (WP 69.3%)
+  DOWN Inn 7: Senga, Kodai — home_run (WP 160.7%)
+  DOWN Inn 9: Varland, Louis — nan (WP 276.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 23
+Hits: 7 (30%)
+Pull: 4 Center: 18 Oppo: 1
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.818 total (0.019 per pitch, 43 pitches)
+  K-Curve: 0.462 total (0.021 per pitch, 22 pitches)
+  Changeup: 0.04 total (0.0036 per pitch, 11 pitches)
+  Cutter: -1.483 total (-0.1648 per pitch, 9 pitches)
+  Slider: 0.542 total (0.0774 per pitch, 7 pitches)
+Most Effective: Cutter
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 23 pitches
+  4-Seam: 11 (47.8%) velo=98.8 whiff=12.5% csw=36.4% grade=C
+  K-Curve: 6 (26.1%) velo=88.1 whiff=25.0% csw=16.7% grade=B
+  Changeup: 5 (21.7%) velo=93.1 whiff=50.0% csw=20.0% grade=A
+  Slider: 1 (4.3%) velo=91.1 whiff=0.0% csw=0.0% grade=D
+  Line: 3K / 0BB / 1H / 0HR
+
+Hoffman, Jeff — 24 pitches
+  4-Seam: 13 (54.2%) velo=95.4 whiff=12.5% csw=15.4% grade=C
+  Slider: 9 (37.5%) velo=85.3 whiff=60.0% csw=44.4% grade=A
+  Splitter: 2 (8.3%) velo=88.2 whiff=0.0% csw=50.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Macko, Adam — 25 pitches
+  4-Seam: 14 (56.0%) velo=94.5 whiff=0.0% csw=21.4% grade=D
+  Slider: 10 (40.0%) velo=85.9 whiff=50.0% csw=30.0% grade=A
+  K-Curve: 1 (4.0%) velo=78.6 whiff=0% csw=0.0% grade=D
+  Line: 1K / 2BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Bieber, Shane — 92 pitches
+  4-Seam: 43 (46.7%) velo=92.1 whiff=23.1% csw=30.2% grade=B
+  K-Curve: 22 (23.9%) velo=82.4 whiff=42.9% csw=36.4% grade=A
+  Changeup: 11 (12.0%) velo=88.4 whiff=0.0% csw=9.1% grade=D
+  Cutter: 9 (9.8%) velo=86.8 whiff=0.0% csw=11.1% grade=D
+  Slider: 7 (7.6%) velo=84.1 whiff=0.0% csw=28.6% grade=D
+  Line: 4K / 4BB / 5H / 1HR
+  Overall Whiff: 22.5%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-06-28.png
+  zone_2026-06-28.png
+  batted_balls_2026-06-28.png
+  velocity_2026-06-28.png
+  release_2026-06-28.png
+  gamescore_2026-06-28.png
+  wpa_2026-06-28.png
+  spray_2026-06-28.png
+  runvalue_2026-06-28.png
+  spotlight_2026-06-28.png
