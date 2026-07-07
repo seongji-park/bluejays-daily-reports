@@ -1,0 +1,198 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-23
+Opponent: HOU
+Result: L 7-9
+Starter: Bieber, Shane
+Spotlight: Bieber, Shane
+Season Record: 39-39
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4522
+Blue Jays pitching data: 200 pitches
+Blue Jays batting data: 195 pitches
+Bieber, Shane: 75 pitches
+
+=== All Blue Jays pitchers ===
+  Fisher, Braydon: 30 pitches
+  Rogers, Tyler: 18 pitches
+  Hoffman, Jeff: 13 pitches
+  Miles, Spencer: 28 pitches
+  Fluharty, Mason: 15 pitches
+  Nance, Tommy: 21 pitches
+  Bieber, Shane: 75 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         23   30.7%   91.9    0.0%   30.4%    14.3%       D
+Cutter         18   24.0%   87.3   18.2%   22.2%    42.9%       C
+Slider         15   20.0%   84.5    0.0%    0.0%    25.0%       D
+Changeup       13   17.3%   88.0   42.9%   38.5%    55.6%       A
+K-Curve         6    8.0%   82.7    0.0%    0.0%    25.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-11.1 V=18.8 (23 pitches)
+  Cutter: H=0.3 V=9.3 (18 pitches)
+  Slider: H=0.3 V=-2.0 (15 pitches)
+  Changeup: H=-15.4 V=1.4 (13 pitches)
+  K-Curve: H=2.9 V=-12.2 (6 pitches)
+
+=== vs LHB/RHB ===
+  L: 24 pitches, avg velo 88.8, 0 swinging strikes, whiff/pitch 0.0%
+  R: 51 pitches, avg velo 87.4, 5 swinging strikes, whiff/pitch 9.8%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (19 pitches):
+    Cutter: 31.6%
+    4-Seam: 31.6%
+    K-Curve: 15.8%
+    Changeup: 10.5%
+    Slider: 10.5%
+  Ahead (21 pitches):
+    Slider: 38.1%
+    Changeup: 19.0%
+    4-Seam: 19.0%
+    Cutter: 14.3%
+    K-Curve: 9.5%
+  Behind (14 pitches):
+    4-Seam: 50.0%
+    Cutter: 28.6%
+    Changeup: 14.3%
+    Slider: 7.1%
+  Even (19 pitches):
+    4-Seam: 31.6%
+    Cutter: 21.1%
+    Changeup: 21.1%
+    Slider: 21.1%
+    K-Curve: 5.3%
+  Full count (3-2) (2 pitches):
+    Changeup: 50.0%
+    Cutter: 50.0%
+
+=== STRIKEOUT PITCHES (2 K's) ===
+  Changeup: 2
+
+=== TOP OPPOSING BATTERS ===
+  altuve, josé: 11 pitches, 2 hits, 0 K, 0 BB, avg EV 78.7
+  walker, christian: 11 pitches, 0 hits, 1 K, 0 BB, avg EV 88.4
+  delgado, raynel: 10 pitches, 2 hits, 0 K, 0 BB, avg EV 79.9
+  matthews, brice: 10 pitches, 0 hits, 1 K, 0 BB, avg EV 75.1
+  smith, cam: 10 pitches, 1 hits, 0 K, 0 BB, avg EV 87.7
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 32
+Avg EV: 86.1 mph
+Avg LA: 18.2
+Hard hit (95+): 12/32 (38%)
+
+=== VELOCITY TREND ===
+  4-Seam: 92.0 -> 91.8 mph (-0.1)
+  Cutter: 87.6 -> 87.3 mph (-0.3)
+  Slider: 85.0 -> 84.5 mph (-0.5)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.4in V=0.6in Total=1.5in Tight
+  Cutter: H=1.1in V=0.6in Total=1.2in Tight
+  Slider: H=0.8in V=0.4in Total=0.9in Tight
+  Changeup: H=1.3in V=0.4in Total=1.3in Tight
+  K-Curve: H=1.3in V=0.3in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=0.4in PlateSep=34.0in Tunnel=79.8 (GREEN) VeloGap=9.1mph
+  4-Seam/Cutter: RelSim=0.2in PlateSep=14.8in Tunnel=64.3 (GREEN) VeloGap=4.6mph
+  Cutter/K-Curve: RelSim=0.6in PlateSep=21.6in Tunnel=37.6 (GREEN) VeloGap=4.6mph
+  4-Seam/Slider: RelSim=0.6in PlateSep=23.7in Tunnel=37.0 (GREEN) VeloGap=7.4mph
+  Cutter/Slider: RelSim=0.4in PlateSep=11.2in Tunnel=25.4 (GREEN) VeloGap=2.8mph
+  Slider/Changeup: RelSim=1.0in PlateSep=16.1in Tunnel=16.0 (GREEN) VeloGap=3.5mph
+  Slider/K-Curve: RelSim=0.8in PlateSep=10.5in Tunnel=13.2 (GREEN) VeloGap=1.8mph
+  Changeup/K-Curve: RelSim=1.8in PlateSep=22.8in Tunnel=13.0 (GREEN) VeloGap=5.2mph
+  Cutter/Changeup: RelSim=1.4in PlateSep=17.5in Tunnel=12.2 (GREEN) VeloGap=0.7mph
+  4-Seam/Changeup: RelSim=1.6in PlateSep=17.9in Tunnel=10.9 (GREEN) VeloGap=3.9mph
+Best Tunnel: 4-Seam/K-Curve (score: 79.8)
+
+=== GAME SCORE ===
+Game Score: 39
+K: 1 H: 0 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Kerkering, Orion — home_run (WP -79.7%)
+  UP Inn 8: Pearson, Nate — single (WP -38.9%)
+  UP Inn 7: De Los Santos, Enyel — home_run (WP -2.6%)
+  DOWN Inn 11: Fisher, Braydon — home_run (WP -160.4%)
+  DOWN Inn 8: Beeter, Clayton — double (WP -106.2%)
+  DOWN Inn 9: Lord, Brad — home_run (WP -79.8%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 36
+Hits: 14 (39%)
+Pull: 4 Center: 21 Oppo: 11
+
+=== PITCH RUN VALUE ===
+  4-Seam: 1.01 total (0.0439 per pitch, 23 pitches)
+  Cutter: 2.124 total (0.118 per pitch, 18 pitches)
+  Slider: 1.89 total (0.126 per pitch, 15 pitches)
+  Changeup: -1.069 total (-0.0822 per pitch, 13 pitches)
+  K-Curve: 1.021 total (0.1702 per pitch, 6 pitches)
+Most Effective: Changeup
+Least Effective: Cutter
+
+=== BULLPEN DETAILED ===
+Fisher, Braydon — 30 pitches
+  Slider: 18 (60.0%) velo=88.1 whiff=12.5% csw=16.7% grade=C
+  Curveball: 7 (23.3%) velo=83.1 whiff=25.0% csw=42.9% grade=B
+  4-Seam: 1 (3.3%) velo=94.3 whiff=0% csw=0.0% grade=D
+  Line: 2K / 0BB / 1H / 1HR
+
+Rogers, Tyler — 18 pitches
+  Sinker: 14 (77.8%) velo=83.5 whiff=11.1% csw=14.3% grade=C
+  Slider: 4 (22.2%) velo=73.8 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 3H / 0HR
+
+Hoffman, Jeff — 13 pitches
+  Slider: 8 (61.5%) velo=86.4 whiff=0.0% csw=12.5% grade=D
+  Splitter: 2 (15.4%) velo=89.9 whiff=50.0% csw=50.0% grade=A
+  4-Seam: 2 (15.4%) velo=97.0 whiff=0.0% csw=0.0% grade=D
+  Sinker: 1 (7.7%) velo=96.8 whiff=0% csw=0.0% grade=D
+  Line: 1K / 1BB / 0H / 0HR
+
+Miles, Spencer — 28 pitches
+  Sinker: 13 (46.4%) velo=96.9 whiff=20.0% csw=38.5% grade=B
+  Slider: 11 (39.3%) velo=88.0 whiff=0.0% csw=45.5% grade=D
+  Curveball: 4 (14.3%) velo=81.4 whiff=0% csw=25.0% grade=D
+  Line: 3K / 0BB / 2H / 0HR
+
+Fluharty, Mason — 15 pitches
+  Sweeper: 9 (60.0%) velo=82.9 whiff=50.0% csw=33.3% grade=A
+  Cutter: 4 (26.7%) velo=90.9 whiff=0.0% csw=50.0% grade=D
+  Changeup: 2 (13.3%) velo=87.7 whiff=100.0% csw=50.0% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+Nance, Tommy — 21 pitches
+  Slider: 9 (42.9%) velo=88.7 whiff=40.0% csw=33.3% grade=A
+  Curveball: 4 (19.0%) velo=84.4 whiff=0.0% csw=25.0% grade=D
+  Sinker: 4 (19.0%) velo=95.7 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Bieber, Shane — 75 pitches
+  4-Seam: 23 (30.7%) velo=91.9 whiff=0.0% csw=30.4% grade=D
+  Cutter: 18 (24.0%) velo=87.3 whiff=18.2% csw=22.2% grade=C
+  Slider: 15 (20.0%) velo=84.5 whiff=0.0% csw=0.0% grade=D
+  Changeup: 13 (17.3%) velo=88.0 whiff=42.9% csw=38.5% grade=A
+  K-Curve: 6 (8.0%) velo=82.7 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 9H / 3HR
+  Overall Whiff: 12.8%
+  Role: CONTACT MANAGER
+
+=== CHARTS SAVED ===
+  movement_2026-06-23.png
+  zone_2026-06-23.png
+  batted_balls_2026-06-23.png
+  velocity_2026-06-23.png
+  release_2026-06-23.png
+  gamescore_2026-06-23.png
+  wpa_2026-06-23.png
+  spray_2026-06-23.png
+  runvalue_2026-06-23.png
+  spotlight_2026-06-23.png
