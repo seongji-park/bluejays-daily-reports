@@ -1,0 +1,184 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-26
+Opponent: TEX
+Result: L 4-5
+Starter: Corbin, Patrick
+Spotlight: Varland, Louis
+Season Record: 39-42
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4314
+Blue Jays pitching data: 170 pitches
+Blue Jays batting data: 145 pitches
+Corbin, Patrick: 94 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 10 pitches
+  Macko, Adam: 31 pitches
+  Miles, Spencer: 35 pitches
+  Corbin, Patrick: 94 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Slider         32   34.0%   78.9   30.8%   28.1%    30.0%       A
+Sinker         20   21.3%   91.6    0.0%   25.0%    25.0%       D
+Cutter         17   18.1%   87.0   10.0%   17.6%    28.6%       C
+4-Seam         17   18.1%   92.0    0.0%   23.5%    44.4%       D
+Changeup        8    8.5%   81.8    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Slider: H=-2.8 V=-1.2 (32 pitches)
+  Sinker: H=13.8 V=11.3 (20 pitches)
+  Cutter: H=-2.5 V=5.4 (17 pitches)
+  4-Seam: H=5.3 V=15.2 (17 pitches)
+  Changeup: H=10.8 V=9.4 (8 pitches)
+
+=== vs LHB/RHB ===
+  L: 27 pitches, avg velo 84.9, 2 swinging strikes, whiff/pitch 7.4%
+  R: 67 pitches, avg velo 86.0, 3 swinging strikes, whiff/pitch 4.5%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (21 pitches):
+    Slider: 33.3%
+    Sinker: 28.6%
+    Cutter: 19.0%
+    4-Seam: 14.3%
+    Changeup: 4.8%
+  Ahead (18 pitches):
+    Slider: 33.3%
+    4-Seam: 27.8%
+    Cutter: 16.7%
+    Changeup: 11.1%
+    Sinker: 11.1%
+  Behind (21 pitches):
+    Slider: 38.1%
+    4-Seam: 19.0%
+    Sinker: 19.0%
+    Cutter: 19.0%
+    Changeup: 4.8%
+  Even (24 pitches):
+    Slider: 33.3%
+    Sinker: 25.0%
+    Cutter: 16.7%
+    Changeup: 12.5%
+    4-Seam: 12.5%
+  Full count (3-2) (10 pitches):
+    Slider: 30.0%
+    4-Seam: 20.0%
+    Cutter: 20.0%
+    Sinker: 20.0%
+    Changeup: 10.0%
+
+=== STRIKEOUT PITCHES (5 K's) ===
+  4-Seam: 2
+  Slider: 2
+  Cutter: 1
+
+=== TOP OPPOSING BATTERS ===
+  burger, jake: 16 pitches, 0 hits, 1 K, 1 BB, avg EV 72.2
+  jung, josh: 16 pitches, 0 hits, 2 K, 0 BB, avg EV 70.1
+  nimmo, brandon: 14 pitches, 1 hits, 1 K, 0 BB, avg EV 81.7
+  higashioka, kyle: 11 pitches, 0 hits, 1 K, 0 BB, avg EV 94.6
+  foscue, justin: 11 pitches, 2 hits, 0 K, 0 BB, avg EV 88.4
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 31
+Avg EV: 81.2 mph
+Avg LA: 12.1
+Hard hit (95+): 7/31 (23%)
+
+=== VELOCITY TREND ===
+  Slider: 80.4 -> 78.3 mph (-2.0)
+  Sinker: 92.6 -> 90.5 mph (-2.1)
+  Cutter: 87.6 -> 85.2 mph (-2.4)
+
+=== RELEASE POINT SPREAD ===
+  Slider: H=1.4in V=1.2in Total=1.8in Tight
+  Sinker: H=1.0in V=1.0in Total=1.4in Tight
+  Cutter: H=1.1in V=0.7in Total=1.4in Tight
+  4-Seam: H=0.9in V=0.5in Total=1.0in Tight
+  Changeup: H=1.1in V=0.7in Total=1.3in Tight
+
+=== TUNNELING ANALYSIS ===
+  Sinker/4-Seam: RelSim=0.7in PlateSep=9.3in Tunnel=14.3 (GREEN) VeloGap=0.4mph
+  Slider/Changeup: RelSim=1.7in PlateSep=17.2in Tunnel=10.1 (GREEN) VeloGap=3.0mph
+  Slider/Sinker: RelSim=2.9in PlateSep=20.8in Tunnel=7.2 (GREEN) VeloGap=12.7mph
+  Slider/4-Seam: RelSim=3.0in PlateSep=18.3in Tunnel=6.2 (GREEN) VeloGap=13.1mph
+  4-Seam/Changeup: RelSim=1.3in PlateSep=7.9in Tunnel=6.1 (GREEN) VeloGap=10.1mph
+  Sinker/Cutter: RelSim=4.0in PlateSep=17.4in Tunnel=4.4 (GREEN) VeloGap=4.6mph
+  Cutter/Changeup: RelSim=3.3in PlateSep=13.8in Tunnel=4.1 (GREEN) VeloGap=5.2mph
+  Slider/Cutter: RelSim=2.0in PlateSep=6.6in Tunnel=3.3 (GREEN) VeloGap=8.1mph
+  Cutter/4-Seam: RelSim=4.3in PlateSep=12.5in Tunnel=2.9 (YELLOW) VeloGap=5.0mph
+  Sinker/Changeup: RelSim=1.4in PlateSep=3.6in Tunnel=2.5 (YELLOW) VeloGap=9.7mph
+Best Tunnel: Sinker/4-Seam (score: 14.3)
+
+=== GAME SCORE ===
+Game Score: 49
+K: 3 H: 1 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 10: Morris, Andrew — fielders_choice_out (WP 234.8%)
+  UP Inn 6: Roberts, Ethan — home_run (WP 165.3%)
+  UP Inn 9: Senzatela, Antonio — single (WP 266.5%)
+  DOWN Inn 9: Banda, Anthony — home_run (WP 222.6%)
+  DOWN Inn 8: Montgomery, Mason — home_run (WP 155.3%)
+  DOWN Inn 7: Brazobán, Huascar — single (WP 199.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 25
+Hits: 9 (36%)
+Pull: 6 Center: 15 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  Slider: 1.518 total (0.0474 per pitch, 32 pitches)
+  Sinker: 0.405 total (0.0203 per pitch, 20 pitches)
+  Cutter: -0.312 total (-0.0184 per pitch, 17 pitches)
+  4-Seam: -0.931 total (-0.0548 per pitch, 17 pitches)
+  Changeup: 1.36 total (0.17 per pitch, 8 pitches)
+Most Effective: 4-Seam
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 10 pitches
+  4-Seam: 5 (50.0%) velo=98.0 whiff=0.0% csw=0.0% grade=D
+  Changeup: 3 (30.0%) velo=91.8 whiff=0.0% csw=0.0% grade=D
+  K-Curve: 2 (20.0%) velo=87.2 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 0HR
+
+Macko, Adam — 31 pitches
+  4-Seam: 17 (54.8%) velo=94.6 whiff=33.3% csw=35.3% grade=A
+  Slider: 6 (19.4%) velo=85.4 whiff=0.0% csw=16.7% grade=D
+  Changeup: 5 (16.1%) velo=84.6 whiff=50.0% csw=20.0% grade=A
+  K-Curve: 3 (9.7%) velo=78.4 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 2BB / 0H / 0HR
+
+Miles, Spencer — 35 pitches
+  Sinker: 18 (51.4%) velo=96.0 whiff=8.3% csw=27.8% grade=D
+  Curveball: 8 (22.9%) velo=81.2 whiff=0.0% csw=37.5% grade=D
+  4-Seam: 4 (11.4%) velo=97.3 whiff=33.3% csw=50.0% grade=A
+  Slider: 4 (11.4%) velo=86.6 whiff=33.3% csw=25.0% grade=A
+  PO: 1 (2.9%) velo=94.3 whiff=0% csw=0.0% grade=D
+  Line: 3K / 0BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Varland, Louis — 10 pitches
+  4-Seam: 5 (50.0%) velo=98.0 whiff=0.0% csw=0.0% grade=D
+  Changeup: 3 (30.0%) velo=91.8 whiff=0.0% csw=0.0% grade=D
+  K-Curve: 2 (20.0%) velo=87.2 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 0HR
+  Overall Whiff: 0.0%
+  Role: CONTACT MANAGER
+
+=== CHARTS SAVED ===
+  movement_2026-06-26.png
+  zone_2026-06-26.png
+  batted_balls_2026-06-26.png
+  velocity_2026-06-26.png
+  release_2026-06-26.png
+  gamescore_2026-06-26.png
+  wpa_2026-06-26.png
+  spray_2026-06-26.png
+  runvalue_2026-06-26.png
+  spotlight_2026-06-26.png
