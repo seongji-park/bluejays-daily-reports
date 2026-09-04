@@ -1,0 +1,178 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-28
+Opponent: SEA
+Result: W 8-1
+Starter: Cease, Dylan
+Spotlight: None
+Season Record: 65-69
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4417
+Blue Jays pitching data: 138 pitches
+Blue Jays batting data: 136 pitches
+Cease, Dylan: 92 pitches
+
+=== All Blue Jays pitchers ===
+  Van Eyk, CJ: 13 pitches
+  Sewald, Paul: 21 pitches
+  Fluharty, Mason: 12 pitches
+  Cease, Dylan: 92 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         32   34.8%   95.2   14.3%   18.8%    17.6%       C
+Slider         24   26.1%   87.5   30.8%   29.2%    27.3%       A
+Changeup       17   18.5%   77.9   22.2%   29.4%    28.6%       B
+K-Curve        13   14.1%   79.6    0.0%    7.7%     0.0%       D
+Sinker          4    4.3%   95.0    0.0%   50.0%   100.0%       D
+Sweeper         2    2.2%   81.1    0.0%    0.0%   100.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-3.8 V=18.6 (32 pitches)
+  Slider: H=0.9 V=4.2 (24 pitches)
+  Changeup: H=-7.4 V=16.7 (17 pitches)
+  K-Curve: H=2.4 V=-12.5 (13 pitches)
+  Sinker: H=-12.2 V=13.8 (4 pitches)
+  Sweeper: H=15.0 V=-6.8 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 61 pitches, avg velo 87.0, 7 swinging strikes, whiff/pitch 11.5%
+  R: 31 pitches, avg velo 88.3, 1 swinging strikes, whiff/pitch 3.2%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (23 pitches):
+    4-Seam: 39.1%
+    K-Curve: 21.7%
+    Slider: 21.7%
+    Changeup: 13.0%
+    Sinker: 4.3%
+  Ahead (22 pitches):
+    Slider: 36.4%
+    Changeup: 22.7%
+    K-Curve: 18.2%
+    4-Seam: 18.2%
+    Sweeper: 4.5%
+  Behind (19 pitches):
+    4-Seam: 52.6%
+    Slider: 26.3%
+    Changeup: 10.5%
+    K-Curve: 10.5%
+  Even (20 pitches):
+    4-Seam: 35.0%
+    Changeup: 25.0%
+    Slider: 15.0%
+    Sinker: 10.0%
+    K-Curve: 10.0%
+    Sweeper: 5.0%
+  Full count (3-2) (8 pitches):
+    Slider: 37.5%
+    Changeup: 25.0%
+    4-Seam: 25.0%
+    Sinker: 12.5%
+
+=== STRIKEOUT PITCHES (8 K's) ===
+  Slider: 2
+  Sinker: 2
+  Changeup: 2
+  4-Seam: 2
+
+=== TOP OPPOSING BATTERS ===
+  naylor, josh: 19 pitches, 0 hits, 1 K, 0 BB, avg EV 73.2
+  arozarena, randy: 17 pitches, 1 hits, 0 K, 1 BB, avg EV 81.6
+  crawford, j. p.: 12 pitches, 0 hits, 2 K, 0 BB, avg EV 69.5
+  canzone, dominic: 12 pitches, 1 hits, 1 K, 0 BB, avg EV 84.2
+  raleigh, cal: 8 pitches, 0 hits, 2 K, 0 BB, avg EV 88.4
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 34
+Avg EV: 77.3 mph
+Avg LA: 18.9
+Hard hit (95+): 7/34 (21%)
+
+=== VELOCITY TREND ===
+  4-Seam: 95.1 -> 94.8 mph (-0.3)
+  Slider: 86.7 -> 89.0 mph (+2.3)
+  Changeup: 80.6 -> 76.6 mph (-4.0)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=2.6in V=0.7in Total=2.7in Tight
+  Slider: H=1.8in V=0.8in Total=2.0in Tight
+  Changeup: H=1.3in V=0.6in Total=1.5in Tight
+  K-Curve: H=1.7in V=0.9in Total=1.9in Tight
+  Sinker: H=0.9in V=1.0in Total=1.3in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=0.3in PlateSep=31.7in Tunnel=105.5 (GREEN) VeloGap=15.6mph
+  Changeup/K-Curve: RelSim=1.0in PlateSep=30.8in Tunnel=32.0 (GREEN) VeloGap=1.7mph
+  K-Curve/Sinker: RelSim=3.5in PlateSep=30.1in Tunnel=8.6 (GREEN) VeloGap=15.4mph
+  Slider/K-Curve: RelSim=2.1in PlateSep=16.7in Tunnel=7.8 (GREEN) VeloGap=7.9mph
+  4-Seam/Slider: RelSim=2.1in PlateSep=15.2in Tunnel=7.1 (GREEN) VeloGap=7.7mph
+  Slider/Changeup: RelSim=3.1in PlateSep=15.0in Tunnel=4.9 (GREEN) VeloGap=9.6mph
+  4-Seam/Changeup: RelSim=1.1in PlateSep=4.1in Tunnel=3.8 (GREEN) VeloGap=17.3mph
+  Slider/Sinker: RelSim=5.5in PlateSep=16.3in Tunnel=3.0 (YELLOW) VeloGap=7.5mph
+  4-Seam/Sinker: RelSim=3.6in PlateSep=9.7in Tunnel=2.7 (YELLOW) VeloGap=0.2mph
+  Changeup/Sinker: RelSim=2.6in PlateSep=5.6in Tunnel=2.2 (YELLOW) VeloGap=17.0mph
+Best Tunnel: 4-Seam/K-Curve (score: 105.5)
+
+=== GAME SCORE ===
+Game Score: 66
+K: 1 H: 0 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 7: Blackburn, Paul — double_play (WP -197.8%)
+  UP Inn 3: Pérez, Eury — home_run (WP -60.1%)
+  UP Inn 3: Pérez, Eury — nan (WP -38.9%)
+  DOWN Inn 9: Peralta, Sammy — home_run (WP -229.2%)
+  DOWN Inn 10: Basso, Brady — single (WP -67.8%)
+  DOWN Inn 6: Lavender, Nate — single (WP -246.6%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 22
+Hits: 5 (23%)
+Pull: 5 Center: 13 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.767 total (0.024 per pitch, 32 pitches)
+  Slider: -0.274 total (-0.0114 per pitch, 24 pitches)
+  Changeup: -1.439 total (-0.0846 per pitch, 17 pitches)
+  K-Curve: -0.175 total (-0.0135 per pitch, 13 pitches)
+  Sinker: -0.111 total (-0.0278 per pitch, 4 pitches)
+  Sweeper: -0.206 total (-0.103 per pitch, 2 pitches)
+Most Effective: Changeup
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Van Eyk, CJ — 13 pitches
+  4-Seam: 5 (38.5%) velo=95.0 whiff=0.0% csw=40.0% grade=D
+  Cutter: 5 (38.5%) velo=88.8 whiff=0.0% csw=20.0% grade=D
+  Changeup: 1 (7.7%) velo=82.1 whiff=0.0% csw=0.0% grade=D
+  Curveball: 1 (7.7%) velo=81.3 whiff=0% csw=0.0% grade=D
+  Sinker: 1 (7.7%) velo=94.4 whiff=0% csw=0.0% grade=D
+  Line: 0K / 1BB / 0H / 0HR
+
+Sewald, Paul — 21 pitches
+  4-Seam: 14 (66.7%) velo=91.3 whiff=0.0% csw=21.4% grade=D
+  Sweeper: 7 (33.3%) velo=83.8 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 1BB / 1H / 0HR
+
+Fluharty, Mason — 12 pitches
+  Cutter: 8 (66.7%) velo=90.3 whiff=33.3% csw=50.0% grade=A
+  Sweeper: 2 (16.7%) velo=82.3 whiff=0.0% csw=0.0% grade=D
+  Changeup: 2 (16.7%) velo=84.8 whiff=0% csw=0.0% grade=D
+  Line: 1K / 1BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-28.png
+  zone_2026-08-28.png
+  batted_balls_2026-08-28.png
+  velocity_2026-08-28.png
+  release_2026-08-28.png
+  gamescore_2026-08-28.png
+  wpa_2026-08-28.png
+  spray_2026-08-28.png
+  runvalue_2026-08-28.png

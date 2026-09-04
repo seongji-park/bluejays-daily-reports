@@ -1,0 +1,151 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-26
+Opponent: BOS
+Result: L 1-6
+Starter: Gausman, Kevin
+Spotlight: None
+Season Record: 48-56
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4548
+Blue Jays pitching data: 135 pitches
+Blue Jays batting data: 134 pitches
+Gausman, Kevin: 98 pitches
+
+=== All Blue Jays pitchers ===
+  Macko, Adam: 13 pitches
+  Little, Brendon: 12 pitches
+  Fisher, Braydon: 12 pitches
+  Gausman, Kevin: 98 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         55   56.1%   94.4   15.6%   27.3%    40.0%       C
+Splitter       29   29.6%   83.6   26.7%   17.2%    23.5%       B
+Slider         13   13.3%   85.2   42.9%   23.1%    37.5%       A
+Changeup        1    1.0%   82.3    0.0%  100.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-10.9 V=17.0 (55 pitches)
+  Splitter: H=-14.1 V=5.7 (29 pitches)
+  Slider: H=0.9 V=5.0 (13 pitches)
+
+=== vs LHB/RHB ===
+  L: 33 pitches, avg velo 88.7, 4 swinging strikes, whiff/pitch 12.1%
+  R: 65 pitches, avg velo 90.4, 8 swinging strikes, whiff/pitch 12.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (24 pitches):
+    4-Seam: 58.3%
+    Splitter: 25.0%
+    Slider: 12.5%
+    Changeup: 4.2%
+  Ahead (37 pitches):
+    4-Seam: 48.6%
+    Splitter: 29.7%
+    Slider: 21.6%
+  Behind (16 pitches):
+    4-Seam: 50.0%
+    Splitter: 37.5%
+    Slider: 12.5%
+  Even (19 pitches):
+    4-Seam: 73.7%
+    Splitter: 26.3%
+  Full count (3-2) (2 pitches):
+    4-Seam: 50.0%
+    Splitter: 50.0%
+
+=== STRIKEOUT PITCHES (6 K's) ===
+  4-Seam: 3
+  Splitter: 2
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  abreu, wilyer: 20 pitches, 0 hits, 2 K, 0 BB, avg EV 79.5
+  durbin, caleb: 15 pitches, 1 hits, 1 K, 0 BB, avg EV 70.6
+  rafaela, ceddanne: 14 pitches, 1 hits, 0 K, 0 BB, avg EV 81.4
+  contreras, willson: 13 pitches, 0 hits, 1 K, 1 BB, avg EV 89.0
+  gonzalez, romy: 10 pitches, 1 hits, 1 K, 0 BB, avg EV 63.3
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 38
+Avg EV: 78.4 mph
+Avg LA: 25.4
+Hard hit (95+): 8/38 (21%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.3 -> 93.5 mph (-0.8)
+  Splitter: 84.2 -> 84.5 mph (+0.3)
+  Slider: 84.4 -> 85.7 mph (+1.3)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.9in V=0.7in Total=1.2in Tight
+  Splitter: H=0.9in V=0.9in Total=1.3in Tight
+  Slider: H=0.6in V=0.6in Total=0.9in Tight
+
+=== TUNNELING ANALYSIS ===
+  Splitter/Slider: RelSim=0.8in PlateSep=15.0in Tunnel=18.3 (GREEN) VeloGap=1.6mph
+  4-Seam/Slider: RelSim=2.4in PlateSep=16.8in Tunnel=7.0 (GREEN) VeloGap=9.1mph
+  4-Seam/Splitter: RelSim=2.7in PlateSep=11.8in Tunnel=4.3 (GREEN) VeloGap=10.7mph
+Best Tunnel: Splitter/Slider (score: 18.3)
+
+=== GAME SCORE ===
+Game Score: 63
+K: 0 H: 1 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 6: Phillips, Evan — home_run (WP -14.2%)
+  UP Inn 9: Iglesias, Raisel — fielders_choice (WP 121.4%)
+  UP Inn 5: Loáisiga, Jonathan — home_run (WP -41.7%)
+  DOWN Inn 8: Sommers, Drew — home_run (WP 131.2%)
+  DOWN Inn 7: Winn, Cole — home_run (WP 31.8%)
+  DOWN Inn 11: Kinley, Tyler — field_out (WP 132.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 26
+Hits: 10 (38%)
+Pull: 3 Center: 21 Oppo: 2
+
+=== PITCH RUN VALUE ===
+  4-Seam: -0.667 total (-0.0121 per pitch, 55 pitches)
+  Splitter: -0.019 total (-0.0007 per pitch, 29 pitches)
+  Slider: -0.577 total (-0.0444 per pitch, 13 pitches)
+  Changeup: -0.044 total (-0.044 per pitch, 1 pitches)
+Most Effective: 4-Seam
+Least Effective: Splitter
+
+=== BULLPEN DETAILED ===
+Macko, Adam — 13 pitches
+  Slider: 5 (38.5%) velo=85.4 whiff=0.0% csw=20.0% grade=D
+  4-Seam: 4 (30.8%) velo=94.6 whiff=33.3% csw=50.0% grade=A
+  Changeup: 4 (30.8%) velo=83.0 whiff=0% csw=25.0% grade=D
+  Line: 0K / 0BB / 2H / 0HR
+
+Little, Brendon — 12 pitches
+  4-Seam: 5 (41.7%) velo=96.0 whiff=25.0% csw=40.0% grade=B
+  K-Curve: 4 (33.3%) velo=85.6 whiff=25.0% csw=25.0% grade=B
+  Slider: 2 (16.7%) velo=88.8 whiff=0% csw=100.0% grade=D
+  Sinker: 1 (8.3%) velo=95.3 whiff=100.0% csw=100.0% grade=A
+  Line: 1K / 0BB / 2H / 0HR
+
+Fisher, Braydon — 12 pitches
+  Slider: 7 (58.3%) velo=88.8 whiff=0.0% csw=0.0% grade=D
+  Curveball: 3 (25.0%) velo=83.0 whiff=0% csw=0.0% grade=D
+  4-Seam: 2 (16.7%) velo=96.1 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 1BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-26.png
+  zone_2026-07-26.png
+  batted_balls_2026-07-26.png
+  velocity_2026-07-26.png
+  release_2026-07-26.png
+  gamescore_2026-07-26.png
+  wpa_2026-07-26.png
+  spray_2026-07-26.png
+  runvalue_2026-07-26.png

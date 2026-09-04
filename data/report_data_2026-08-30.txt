@@ -1,0 +1,162 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-30
+Opponent: SEA
+Result: W 7-0
+Starter: Scherzer, Max
+Spotlight: None
+Season Record: 67-69
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4191
+Blue Jays pitching data: 124 pitches
+Blue Jays batting data: 146 pitches
+Scherzer, Max: 97 pitches
+
+=== All Blue Jays pitchers ===
+  Fisher, Braydon: 10 pitches
+  Miles, Spencer: 17 pitches
+  Scherzer, Max: 97 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         44   45.4%   93.3   38.9%   45.5%     7.1%       A
+Slider         15   15.5%   85.4   71.4%   60.0%    58.3%       A
+Curveball      14   14.4%   74.4   25.0%   28.6%    50.0%       B
+Changeup       14   14.4%   84.1   12.5%   14.3%    37.5%       C
+Cutter         10   10.3%   87.8   16.7%   10.0%    42.9%       C
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-10.4 V=16.6 (44 pitches)
+  Slider: H=3.4 V=2.1 (15 pitches)
+  Curveball: H=13.1 V=-7.7 (14 pitches)
+  Changeup: H=-14.6 V=4.7 (14 pitches)
+  Cutter: H=1.8 V=8.4 (10 pitches)
+
+=== vs LHB/RHB ===
+  L: 64 pitches, avg velo 87.4, 10 swinging strikes, whiff/pitch 15.6%
+  R: 33 pitches, avg velo 87.6, 6 swinging strikes, whiff/pitch 18.2%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (23 pitches):
+    4-Seam: 52.2%
+    Curveball: 17.4%
+    Slider: 17.4%
+    Changeup: 13.0%
+  Ahead (35 pitches):
+    4-Seam: 40.0%
+    Cutter: 20.0%
+    Changeup: 14.3%
+    Curveball: 14.3%
+    Slider: 11.4%
+  Behind (11 pitches):
+    4-Seam: 45.5%
+    Curveball: 18.2%
+    Changeup: 18.2%
+    Slider: 18.2%
+  Even (27 pitches):
+    4-Seam: 48.1%
+    Slider: 18.5%
+    Cutter: 11.1%
+    Changeup: 11.1%
+    Curveball: 11.1%
+  Full count (3-2) (1 pitches):
+    Changeup: 100.0%
+
+=== STRIKEOUT PITCHES (10 K's) ===
+  Slider: 4
+  4-Seam: 4
+  Curveball: 2
+
+=== TOP OPPOSING BATTERS ===
+  canzone, dominic: 16 pitches, 0 hits, 2 K, 0 BB, avg EV 74.4
+  crawford, j. p.: 15 pitches, 0 hits, 0 K, 0 BB, avg EV 79.8
+  naylor, josh: 12 pitches, 0 hits, 2 K, 0 BB, avg EV 76.4
+  arozarena, randy: 12 pitches, 0 hits, 2 K, 0 BB, avg EV 88.9
+  rodríguez, julio: 11 pitches, 0 hits, 2 K, 0 BB, avg EV 85.2
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 30
+Avg EV: 81.1 mph
+Avg LA: 32.0
+Hard hit (95+): 7/30 (23%)
+
+=== VELOCITY TREND ===
+  4-Seam: 93.6 -> 93.0 mph (-0.6)
+  Slider: 86.0 -> 85.4 mph (-0.6)
+  Curveball: 75.1 -> 75.3 mph (+0.2)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.9in V=1.3in Total=1.6in Tight
+  Slider: H=1.0in V=0.7in Total=1.2in Tight
+  Curveball: H=0.8in V=1.1in Total=1.3in Tight
+  Changeup: H=0.9in V=0.7in Total=1.1in Tight
+  Cutter: H=0.6in V=1.0in Total=1.2in Tight
+
+=== TUNNELING ANALYSIS ===
+  Slider/Cutter: RelSim=0.2in PlateSep=6.5in Tunnel=38.2 (GREEN) VeloGap=2.4mph
+  Changeup/Cutter: RelSim=0.7in PlateSep=16.8in Tunnel=22.4 (GREEN) VeloGap=3.7mph
+  Slider/Changeup: RelSim=0.8in PlateSep=18.2in Tunnel=21.9 (GREEN) VeloGap=1.3mph
+  4-Seam/Slider: RelSim=1.4in PlateSep=20.0in Tunnel=14.7 (GREEN) VeloGap=7.9mph
+  4-Seam/Curveball: RelSim=2.8in PlateSep=33.8in Tunnel=11.9 (GREEN) VeloGap=18.9mph
+  4-Seam/Cutter: RelSim=1.5in PlateSep=14.6in Tunnel=9.6 (GREEN) VeloGap=5.5mph
+  4-Seam/Changeup: RelSim=1.9in PlateSep=12.7in Tunnel=6.6 (GREEN) VeloGap=9.2mph
+  Curveball/Changeup: RelSim=4.7in PlateSep=30.3in Tunnel=6.4 (GREEN) VeloGap=9.8mph
+  Curveball/Cutter: RelSim=4.3in PlateSep=19.7in Tunnel=4.5 (GREEN) VeloGap=13.4mph
+  Slider/Curveball: RelSim=4.2in PlateSep=13.8in Tunnel=3.3 (GREEN) VeloGap=11.0mph
+Best Tunnel: Slider/Cutter (score: 38.2)
+
+=== GAME SCORE ===
+Game Score: 80
+K: 3 H: 0 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Miller, Mason — home_run (WP -52.6%)
+  UP Inn 11: Morgan, David — field_error (WP -102.5%)
+  UP Inn 11: Morgan, David — single (WP -71.3%)
+  DOWN Inn 5: Springs, Jeffrey — home_run (WP -65.4%)
+  DOWN Inn 9: Cosgrove, Tom — sac_fly (WP -87.4%)
+  DOWN Inn 4: Imanaga, Shota — home_run (WP -72.1%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 13
+Hits: 1 (8%)
+Pull: 4 Center: 8 Oppo: 1
+
+=== PITCH RUN VALUE ===
+  4-Seam: -2.378 total (-0.054 per pitch, 44 pitches)
+  Slider: -1.056 total (-0.0704 per pitch, 15 pitches)
+  Curveball: -0.525 total (-0.0375 per pitch, 14 pitches)
+  Changeup: -0.333 total (-0.0238 per pitch, 14 pitches)
+  Cutter: -0.331 total (-0.0331 per pitch, 10 pitches)
+Most Effective: 4-Seam
+Least Effective: Cutter
+
+=== BULLPEN DETAILED ===
+Fisher, Braydon — 10 pitches
+  Slider: 4 (40.0%) velo=88.7 whiff=0.0% csw=25.0% grade=D
+  4-Seam: 4 (40.0%) velo=94.5 whiff=50.0% csw=50.0% grade=A
+  Curveball: 2 (20.0%) velo=81.6 whiff=0% csw=100.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Miles, Spencer — 17 pitches
+  Sinker: 11 (64.7%) velo=97.4 whiff=0.0% csw=36.4% grade=D
+  Slider: 3 (17.6%) velo=87.2 whiff=0.0% csw=33.3% grade=D
+  4-Seam: 2 (11.8%) velo=97.2 whiff=50.0% csw=50.0% grade=A
+  Curveball: 1 (5.9%) velo=84.0 whiff=0% csw=0.0% grade=D
+  Line: 3K / 1BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-30.png
+  zone_2026-08-30.png
+  batted_balls_2026-08-30.png
+  velocity_2026-08-30.png
+  release_2026-08-30.png
+  gamescore_2026-08-30.png
+  wpa_2026-08-30.png
+  spray_2026-08-30.png
+  runvalue_2026-08-30.png

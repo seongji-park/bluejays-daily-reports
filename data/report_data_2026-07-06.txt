@@ -1,0 +1,143 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-06
+Opponent: SF
+Result: L 1-10
+Starter: Gausman, Kevin
+Spotlight: None
+Season Record: 42-47
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 2457
+Blue Jays pitching data: 124 pitches
+Blue Jays batting data: 119 pitches
+Gausman, Kevin: 94 pitches
+
+=== All Blue Jays pitchers ===
+  Macko, Adam: 12 pitches
+  Nance, Tommy: 18 pitches
+  Gausman, Kevin: 94 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Splitter       37   39.4%   82.6   52.9%   32.4%    29.2%       A
+4-Seam         35   37.2%   92.5   14.3%   40.0%    12.5%       C
+Slider         20   21.3%   82.2   37.5%   25.0%    23.1%       A
+
+=== PITCH MOVEMENT (inches) ===
+  Splitter: H=-13.7 V=5.3 (37 pitches)
+  4-Seam: H=-11.0 V=17.0 (35 pitches)
+  Slider: H=0.8 V=2.5 (20 pitches)
+
+=== vs LHB/RHB ===
+  L: 45 pitches, avg velo 86.9, 5 swinging strikes, whiff/pitch 11.1%
+  R: 49 pitches, avg velo 85.6, 9 swinging strikes, whiff/pitch 18.4%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (26 pitches):
+    4-Seam: 38.5%
+    Slider: 34.6%
+    Splitter: 26.9%
+  Ahead (22 pitches):
+    Splitter: 50.0%
+    4-Seam: 27.3%
+    Slider: 22.7%
+  Behind (29 pitches):
+    Splitter: 41.4%
+    4-Seam: 37.9%
+    Slider: 13.8%
+  Even (14 pitches):
+    4-Seam: 50.0%
+    Splitter: 42.9%
+    Slider: 7.1%
+  Full count (3-2) (3 pitches):
+    4-Seam: 33.3%
+    Slider: 33.3%
+    Splitter: 33.3%
+
+=== STRIKEOUT PITCHES (8 K's) ===
+  4-Seam: 4
+  Splitter: 3
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  eldridge, bryce: 16 pitches, 0 hits, 3 K, 0 BB, avg EV 76.5
+  adames, willy: 13 pitches, 0 hits, 0 K, 2 BB, avg EV 95.0
+  bericoto, victor: 13 pitches, 2 hits, 0 K, 0 BB, avg EV 88.5
+  schmitt, casey: 11 pitches, 0 hits, 3 K, 0 BB, avg EV 79.6
+  devers, rafael: 10 pitches, 0 hits, 0 K, 2 BB, avg EV 98.1
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 25
+Avg EV: 81.4 mph
+Avg LA: 20.8
+Hard hit (95+): 8/25 (32%)
+
+=== VELOCITY TREND ===
+  Splitter: 82.7 -> 82.4 mph (-0.3)
+  4-Seam: 92.1 -> 93.2 mph (+1.1)
+  Slider: 80.4 -> 83.3 mph (+2.9)
+
+=== RELEASE POINT SPREAD ===
+  Splitter: H=0.8in V=0.8in Total=1.1in Tight
+  4-Seam: H=0.7in V=1.0in Total=1.2in Tight
+  Slider: H=0.9in V=1.2in Total=1.5in Tight
+
+=== TUNNELING ANALYSIS ===
+  Splitter/Slider: RelSim=0.1in PlateSep=14.7in Tunnel=146.9 (GREEN) VeloGap=0.4mph
+  4-Seam/Slider: RelSim=2.4in PlateSep=18.6in Tunnel=7.9 (GREEN) VeloGap=10.3mph
+  Splitter/4-Seam: RelSim=2.4in PlateSep=11.9in Tunnel=5.0 (GREEN) VeloGap=9.9mph
+Best Tunnel: Splitter/Slider (score: 146.9)
+
+=== GAME SCORE ===
+Game Score: 61
+K: 0 H: 1 HR: 1 BB/HBP: 4
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Williams, Devin — home_run (WP 127.1%)
+  UP Inn 11: Henriquez, Edgardo — grounded_into_double_play (WP 55.6%)
+  UP Inn 10: Bernardino, Brennan — field_error (WP 42.4%)
+  DOWN Inn 9: Iglesias, Raisel — home_run (WP 181.0%)
+  DOWN Inn 10: Murphy, Owen — double (WP 165.6%)
+  DOWN Inn 10: Weaver, Luke — force_out (WP 132.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 24
+Hits: 8 (33%)
+Pull: 6 Center: 15 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  Splitter: 0.108 total (0.0029 per pitch, 37 pitches)
+  4-Seam: 1.284 total (0.0367 per pitch, 35 pitches)
+  Slider: -0.111 total (-0.0056 per pitch, 20 pitches)
+Most Effective: Slider
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Macko, Adam — 12 pitches
+  Slider: 7 (58.3%) velo=84.8 whiff=20.0% csw=28.6% grade=B
+  4-Seam: 3 (25.0%) velo=93.7 whiff=0.0% csw=33.3% grade=D
+  Changeup: 1 (8.3%) velo=84.1 whiff=0.0% csw=0.0% grade=D
+  K-Curve: 1 (8.3%) velo=78.0 whiff=0% csw=0.0% grade=D
+  Line: 0K / 0BB / 2H / 1HR
+
+Nance, Tommy — 18 pitches
+  Slider: 8 (44.4%) velo=88.2 whiff=0.0% csw=12.5% grade=D
+  Sinker: 7 (38.9%) velo=94.0 whiff=0.0% csw=14.3% grade=D
+  Curveball: 3 (16.7%) velo=84.0 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 1BB / 1H / 1HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-06.png
+  zone_2026-07-06.png
+  batted_balls_2026-07-06.png
+  velocity_2026-07-06.png
+  release_2026-07-06.png
+  gamescore_2026-07-06.png
+  wpa_2026-07-06.png
+  spray_2026-07-06.png
+  runvalue_2026-07-06.png

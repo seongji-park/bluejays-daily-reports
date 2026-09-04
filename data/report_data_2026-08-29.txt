@@ -1,0 +1,171 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-29
+Opponent: SEA
+Result: W 4-3
+Starter: Soriano, José
+Spotlight: None
+Season Record: 66-69
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4961
+Blue Jays pitching data: 128 pitches
+Blue Jays batting data: 154 pitches
+Soriano, José: 94 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 12 pitches
+  Fluharty, Mason: 6 pitches
+  Rogers, Tyler: 16 pitches
+  Soriano, José: 94 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Sinker         38   40.4%   96.2    5.0%   28.9%    42.9%       D
+K-Curve        27   28.7%   85.2   44.4%   44.4%    28.6%       A
+4-Seam         12   12.8%   96.9   42.9%   50.0%    33.3%       A
+Splitter       10   10.6%   92.7    0.0%    0.0%    37.5%       D
+Slider          7    7.4%   89.7   33.3%   14.3%    20.0%       A
+
+=== PITCH MOVEMENT (inches) ===
+  Sinker: H=-14.9 V=4.0 (38 pitches)
+  K-Curve: H=13.2 V=-6.5 (27 pitches)
+  4-Seam: H=-9.1 V=13.8 (12 pitches)
+  Splitter: H=-13.8 V=1.4 (10 pitches)
+  Slider: H=1.0 V=2.6 (7 pitches)
+
+=== vs LHB/RHB ===
+  L: 57 pitches, avg velo 93.0, 5 swinging strikes, whiff/pitch 8.8%
+  R: 37 pitches, avg velo 91.2, 4 swinging strikes, whiff/pitch 10.8%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (27 pitches):
+    Sinker: 63.0%
+    K-Curve: 22.2%
+    4-Seam: 11.1%
+    Slider: 3.7%
+  Ahead (25 pitches):
+    K-Curve: 40.0%
+    Sinker: 24.0%
+    Splitter: 20.0%
+    4-Seam: 12.0%
+    Slider: 4.0%
+  Behind (22 pitches):
+    Sinker: 36.4%
+    K-Curve: 27.3%
+    4-Seam: 13.6%
+    Splitter: 13.6%
+    Slider: 9.1%
+  Even (15 pitches):
+    Sinker: 40.0%
+    K-Curve: 26.7%
+    4-Seam: 13.3%
+    Slider: 13.3%
+    Splitter: 6.7%
+  Full count (3-2) (5 pitches):
+    4-Seam: 20.0%
+    Sinker: 20.0%
+    Slider: 20.0%
+    Splitter: 20.0%
+    K-Curve: 20.0%
+
+=== STRIKEOUT PITCHES (6 K's) ===
+  K-Curve: 3
+  4-Seam: 2
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  arozarena, randy: 16 pitches, 0 hits, 1 K, 0 BB, avg EV 75.8
+  young, cole: 13 pitches, 0 hits, 0 K, 1 BB, avg EV 72.4
+  ward, taylor: 11 pitches, 1 hits, 2 K, 0 BB, avg EV 91.0
+  crawford, j. p.: 10 pitches, 1 hits, 1 K, 0 BB, avg EV 83.5
+  raleigh, cal: 10 pitches, 2 hits, 0 K, 1 BB, avg EV 98.1
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 31
+Avg EV: 80.3 mph
+Avg LA: 6.0
+Hard hit (95+): 6/31 (19%)
+
+=== VELOCITY TREND ===
+  Sinker: 96.1 -> 98.0 mph (+2.0)
+  K-Curve: 84.4 -> 86.3 mph (+1.9)
+  4-Seam: 96.6 -> 97.3 mph (+0.6)
+
+=== RELEASE POINT SPREAD ===
+  Sinker: H=2.2in V=1.1in Total=2.5in Tight
+  K-Curve: H=1.7in V=1.1in Total=2.0in Tight
+  4-Seam: H=2.1in V=1.1in Total=2.3in Tight
+  Splitter: H=2.0in V=0.9in Total=2.1in Tight
+  Slider: H=1.1in V=0.9in Total=1.5in Tight
+
+=== TUNNELING ANALYSIS ===
+  K-Curve/Slider: RelSim=0.7in PlateSep=15.3in Tunnel=21.9 (GREEN) VeloGap=4.5mph
+  Sinker/4-Seam: RelSim=0.7in PlateSep=11.4in Tunnel=16.9 (GREEN) VeloGap=0.6mph
+  K-Curve/4-Seam: RelSim=2.6in PlateSep=30.1in Tunnel=11.6 (GREEN) VeloGap=11.7mph
+  Sinker/K-Curve: RelSim=3.2in PlateSep=30.0in Tunnel=9.3 (GREEN) VeloGap=11.0mph
+  4-Seam/Slider: RelSim=2.2in PlateSep=15.0in Tunnel=6.9 (GREEN) VeloGap=7.1mph
+  Sinker/Slider: RelSim=2.8in PlateSep=16.0in Tunnel=5.6 (GREEN) VeloGap=6.5mph
+  K-Curve/Splitter: RelSim=5.3in PlateSep=28.1in Tunnel=5.3 (GREEN) VeloGap=7.5mph
+  4-Seam/Splitter: RelSim=2.9in PlateSep=13.2in Tunnel=4.6 (GREEN) VeloGap=4.1mph
+  Splitter/Slider: RelSim=5.0in PlateSep=14.8in Tunnel=3.0 (YELLOW) VeloGap=3.0mph
+  Sinker/Splitter: RelSim=2.2in PlateSep=2.8in Tunnel=1.3 (RED) VeloGap=3.5mph
+Best Tunnel: K-Curve/Slider (score: 21.9)
+
+=== GAME SCORE ===
+Game Score: 61
+K: 2 H: 0 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Hill, Jaden — double (WP 27.7%)
+  UP Inn 7: Rodriguez, Bradgley — single (WP 54.6%)
+  UP Inn 10: Petersen, Michael — single (WP 125.7%)
+  DOWN Inn 7: Walker, Ryan — home_run (WP 5.2%)
+  DOWN Inn 6: Martinez, Nick — home_run (WP 28.0%)
+  DOWN Inn 8: Sanders, Cam — grounded_into_double_play (WP -43.9%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 22
+Hits: 6 (27%)
+Pull: 4 Center: 16 Oppo: 2
+
+=== PITCH RUN VALUE ===
+  Sinker: -1.899 total (-0.05 per pitch, 38 pitches)
+  K-Curve: -0.464 total (-0.0172 per pitch, 27 pitches)
+  4-Seam: 0.081 total (0.0068 per pitch, 12 pitches)
+  Splitter: 0.739 total (0.0739 per pitch, 10 pitches)
+  Slider: -0.085 total (-0.0121 per pitch, 7 pitches)
+Most Effective: Sinker
+Least Effective: Splitter
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 12 pitches
+  4-Seam: 7 (58.3%) velo=100.1 whiff=50.0% csw=42.9% grade=A
+  K-Curve: 4 (33.3%) velo=88.4 whiff=0.0% csw=50.0% grade=D
+  Changeup: 1 (8.3%) velo=93.8 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Fluharty, Mason — 6 pitches
+  Cutter: 4 (66.7%) velo=90.5 whiff=50.0% csw=25.0% grade=A
+  Sweeper: 2 (33.3%) velo=82.0 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 0HR
+
+Rogers, Tyler — 16 pitches
+  Sinker: 13 (81.2%) velo=83.1 whiff=50.0% csw=38.5% grade=A
+  Slider: 3 (18.8%) velo=73.4 whiff=100.0% csw=66.7% grade=A
+  Line: 2K / 1BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-29.png
+  zone_2026-08-29.png
+  batted_balls_2026-08-29.png
+  velocity_2026-08-29.png
+  release_2026-08-29.png
+  gamescore_2026-08-29.png
+  wpa_2026-08-29.png
+  spray_2026-08-29.png
+  runvalue_2026-08-29.png

@@ -1,0 +1,140 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-12
+Opponent: SD
+Result: L 4-5
+Starter: Gausman, Kevin
+Spotlight: None
+Season Record: 45-49
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4444
+Blue Jays pitching data: 140 pitches
+Blue Jays batting data: 152 pitches
+Gausman, Kevin: 103 pitches
+
+=== All Blue Jays pitchers ===
+  Hoffman, Jeff: 25 pitches
+  Rogers, Tyler: 12 pitches
+  Gausman, Kevin: 103 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         55   53.4%   95.1   12.5%   34.5%    23.8%       C
+Splitter       37   35.9%   85.4   45.0%   29.7%    48.3%       A
+Slider         11   10.7%   84.8    0.0%   27.3%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-12.7 V=16.9 (55 pitches)
+  Splitter: H=-16.1 V=5.1 (37 pitches)
+  Slider: H=0.6 V=4.2 (11 pitches)
+
+=== vs LHB/RHB ===
+  L: 50 pitches, avg velo 90.8, 4 swinging strikes, whiff/pitch 8.0%
+  R: 53 pitches, avg velo 90.3, 8 swinging strikes, whiff/pitch 15.1%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (25 pitches):
+    4-Seam: 52.0%
+    Splitter: 32.0%
+    Slider: 16.0%
+  Ahead (31 pitches):
+    Splitter: 45.2%
+    4-Seam: 41.9%
+    Slider: 12.9%
+  Behind (17 pitches):
+    4-Seam: 64.7%
+    Splitter: 29.4%
+    Slider: 5.9%
+  Even (25 pitches):
+    4-Seam: 64.0%
+    Splitter: 28.0%
+    Slider: 8.0%
+  Full count (3-2) (5 pitches):
+    Splitter: 60.0%
+    4-Seam: 40.0%
+
+=== STRIKEOUT PITCHES (8 K's) ===
+  Splitter: 4
+  4-Seam: 4
+
+=== TOP OPPOSING BATTERS ===
+  sheets, gavin: 16 pitches, 0 hits, 1 K, 1 BB, avg EV 83.3
+  france, ty: 14 pitches, 1 hits, 0 K, 1 BB, avg EV 89.1
+  cronenworth, jake: 13 pitches, 1 hits, 2 K, 0 BB, avg EV 85.2
+  machado, manny: 12 pitches, 2 hits, 0 K, 0 BB, avg EV 83.5
+  merrill, jackson: 12 pitches, 0 hits, 1 K, 0 BB, avg EV 67.8
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 33
+Avg EV: 82.6 mph
+Avg LA: 32.8
+Hard hit (95+): 7/33 (21%)
+
+=== VELOCITY TREND ===
+  4-Seam: 95.0 -> 94.6 mph (-0.5)
+  Splitter: 85.8 -> 85.1 mph (-0.7)
+  Slider: 85.1 -> 83.4 mph (-1.7)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.8in V=0.8in Total=1.1in Tight
+  Splitter: H=0.8in V=0.9in Total=1.2in Tight
+  Slider: H=1.1in V=0.9in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  Splitter/Slider: RelSim=0.2in PlateSep=16.8in Tunnel=81.7 (GREEN) VeloGap=0.6mph
+  4-Seam/Slider: RelSim=2.2in PlateSep=18.4in Tunnel=8.5 (GREEN) VeloGap=10.3mph
+  4-Seam/Splitter: RelSim=2.4in PlateSep=12.4in Tunnel=5.2 (GREEN) VeloGap=9.7mph
+Best Tunnel: Splitter/Slider (score: 81.7)
+
+=== GAME SCORE ===
+Game Score: 66
+K: 1 H: 0 HR: 0 BB/HBP: 3
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Williams, Devin — double_play (WP 172.6%)
+  UP Inn 8: King, Bryan — home_run (WP 73.7%)
+  UP Inn 6: Fuentes, Didier — single (WP 83.0%)
+  DOWN Inn 8: Alvarez, Andrew — triple (WP 181.6%)
+  DOWN Inn 9: Romero, JoJo — field_error (WP 109.8%)
+  DOWN Inn 9: Williams, Devin — single (WP 203.2%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 23
+Hits: 7 (30%)
+Pull: 6 Center: 13 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  4-Seam: -1.235 total (-0.0225 per pitch, 55 pitches)
+  Splitter: -0.693 total (-0.0187 per pitch, 37 pitches)
+  Slider: 0.249 total (0.0226 per pitch, 11 pitches)
+Most Effective: 4-Seam
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Hoffman, Jeff — 25 pitches
+  Slider: 11 (44.0%) velo=84.9 whiff=33.3% csw=36.4% grade=A
+  4-Seam: 7 (28.0%) velo=95.6 whiff=0.0% csw=14.3% grade=D
+  Splitter: 5 (20.0%) velo=88.9 whiff=0.0% csw=0.0% grade=D
+  Sinker: 2 (8.0%) velo=95.8 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 3H / 0HR
+
+Rogers, Tyler — 12 pitches
+  Sinker: 11 (91.7%) velo=83.9 whiff=12.5% csw=27.3% grade=C
+  Slider: 1 (8.3%) velo=73.3 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-12.png
+  zone_2026-07-12.png
+  batted_balls_2026-07-12.png
+  velocity_2026-07-12.png
+  release_2026-07-12.png
+  gamescore_2026-07-12.png
+  wpa_2026-07-12.png
+  spray_2026-07-12.png
+  runvalue_2026-07-12.png

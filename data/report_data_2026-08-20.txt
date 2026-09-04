@@ -1,0 +1,177 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-20
+Opponent: TB
+Result: W 5-1
+Starter: Bieber, Shane
+Spotlight: None
+Season Record: 62-65
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 2735
+Blue Jays pitching data: 130 pitches
+Blue Jays batting data: 168 pitches
+Bieber, Shane: 101 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 21 pitches
+  Miles, Spencer: 8 pitches
+  Bieber, Shane: 101 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         45   44.6%   92.1   10.0%   33.3%    31.6%       C
+K-Curve        16   15.8%   82.4   28.6%   43.8%    37.5%       B
+Changeup       14   13.9%   88.1   50.0%   50.0%    57.1%       A
+Cutter         13   12.9%   87.3   25.0%    7.7%    10.0%       B
+Slider          7    6.9%   85.9   60.0%   42.9%    60.0%       A
+Sinker          6    5.9%   91.6   25.0%   50.0%    50.0%       B
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-11.7 V=18.8 (45 pitches)
+  K-Curve: H=6.5 V=-12.7 (16 pitches)
+  Changeup: H=-10.6 V=-0.7 (14 pitches)
+  Cutter: H=0.4 V=8.7 (13 pitches)
+  Slider: H=1.0 V=-0.2 (7 pitches)
+  Sinker: H=-16.4 V=13.1 (6 pitches)
+
+=== vs LHB/RHB ===
+  L: 53 pitches, avg velo 88.9, 6 swinging strikes, whiff/pitch 11.3%
+  R: 48 pitches, avg velo 89.0, 6 swinging strikes, whiff/pitch 12.5%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (25 pitches):
+    4-Seam: 52.0%
+    Changeup: 16.0%
+    Cutter: 12.0%
+    Sinker: 8.0%
+    K-Curve: 8.0%
+    Slider: 4.0%
+  Ahead (30 pitches):
+    4-Seam: 46.7%
+    K-Curve: 16.7%
+    Changeup: 13.3%
+    Slider: 13.3%
+    Cutter: 10.0%
+  Behind (21 pitches):
+    4-Seam: 38.1%
+    K-Curve: 28.6%
+    Changeup: 14.3%
+    Cutter: 9.5%
+    Sinker: 9.5%
+  Even (22 pitches):
+    4-Seam: 40.9%
+    Cutter: 22.7%
+    K-Curve: 13.6%
+    Changeup: 13.6%
+    Sinker: 4.5%
+    Slider: 4.5%
+  Full count (3-2) (3 pitches):
+    Sinker: 33.3%
+    4-Seam: 33.3%
+    Slider: 33.3%
+
+=== STRIKEOUT PITCHES (7 K's) ===
+  4-Seam: 3
+  Slider: 2
+  K-Curve: 2
+
+=== TOP OPPOSING BATTERS ===
+  palacios, richie: 17 pitches, 0 hits, 0 K, 0 BB, avg EV 90.7
+  aranda, jonathan: 16 pitches, 0 hits, 2 K, 0 BB, avg EV 84.9
+  mateo, jorge: 11 pitches, 0 hits, 1 K, 0 BB, avg EV 68.4
+  díaz, yandy: 11 pitches, 2 hits, 1 K, 0 BB, avg EV 81.4
+  mullins, cedric: 11 pitches, 0 hits, 0 K, 0 BB, avg EV 83.2
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 30
+Avg EV: 84.5 mph
+Avg LA: 23.3
+Hard hit (95+): 8/30 (27%)
+
+=== VELOCITY TREND ===
+  4-Seam: 91.7 -> 92.0 mph (+0.2)
+  K-Curve: 83.2 -> 82.4 mph (-0.8)
+  Changeup: 88.5 -> 87.9 mph (-0.6)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.8in V=0.6in Total=1.1in Tight
+  K-Curve: H=0.6in V=0.7in Total=0.9in Tight
+  Changeup: H=0.8in V=0.6in Total=1.0in Tight
+  Cutter: H=0.9in V=0.4in Total=1.0in Tight
+  Slider: H=0.6in V=0.4in Total=0.8in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=0.4in PlateSep=36.4in Tunnel=101.8 (GREEN) VeloGap=9.7mph
+  Cutter/Sinker: RelSim=0.2in PlateSep=17.4in Tunnel=72.7 (GREEN) VeloGap=4.2mph
+  K-Curve/Sinker: RelSim=0.6in PlateSep=34.5in Tunnel=56.7 (GREEN) VeloGap=9.2mph
+  K-Curve/Cutter: RelSim=0.6in PlateSep=22.3in Tunnel=38.7 (GREEN) VeloGap=4.9mph
+  Slider/Sinker: RelSim=1.1in PlateSep=21.9in Tunnel=20.6 (GREEN) VeloGap=5.7mph
+  4-Seam/Cutter: RelSim=0.9in PlateSep=15.8in Tunnel=16.9 (GREEN) VeloGap=4.8mph
+  4-Seam/Slider: RelSim=1.5in PlateSep=22.8in Tunnel=15.6 (GREEN) VeloGap=6.2mph
+  Changeup/Sinker: RelSim=1.4in PlateSep=15.0in Tunnel=10.7 (GREEN) VeloGap=3.4mph
+  K-Curve/Changeup: RelSim=2.0in PlateSep=20.9in Tunnel=10.4 (GREEN) VeloGap=5.7mph
+  K-Curve/Slider: RelSim=1.3in PlateSep=13.7in Tunnel=10.4 (GREEN) VeloGap=3.5mph
+  Changeup/Cutter: RelSim=1.5in PlateSep=14.5in Tunnel=9.5 (GREEN) VeloGap=0.8mph
+  4-Seam/Changeup: RelSim=2.3in PlateSep=19.5in Tunnel=8.4 (GREEN) VeloGap=4.0mph
+  Changeup/Slider: RelSim=1.5in PlateSep=11.6in Tunnel=7.9 (GREEN) VeloGap=2.2mph
+  4-Seam/Sinker: RelSim=1.0in PlateSep=7.4in Tunnel=7.8 (GREEN) VeloGap=0.5mph
+  Cutter/Slider: RelSim=1.3in PlateSep=8.9in Tunnel=6.9 (GREEN) VeloGap=1.4mph
+Best Tunnel: 4-Seam/K-Curve (score: 101.8)
+
+=== GAME SCORE ===
+Game Score: 75
+K: 0 H: 0 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 6: Stanek, Ryne — home_run (WP 224.4%)
+  UP Inn 9: Burke, Brock — strikeout (WP 258.6%)
+  UP Inn 1: Kirby, George — double (WP 164.1%)
+  DOWN Inn 9: Burke, Brock — field_error (WP 285.9%)
+  DOWN Inn 9: O'Brien, Riley — field_out (WP 232.0%)
+  DOWN Inn 3: Singer, Brady — home_run (WP 244.5%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 24
+Hits: 4 (17%)
+Pull: 2 Center: 17 Oppo: 5
+
+=== PITCH RUN VALUE ===
+  4-Seam: -2.597 total (-0.0577 per pitch, 45 pitches)
+  K-Curve: -0.074 total (-0.0046 per pitch, 16 pitches)
+  Changeup: -0.335 total (-0.0239 per pitch, 14 pitches)
+  Cutter: 0.29 total (0.0223 per pitch, 13 pitches)
+  Slider: 0.163 total (0.0233 per pitch, 7 pitches)
+  Sinker: -1.077 total (-0.1795 per pitch, 6 pitches)
+Most Effective: 4-Seam
+Least Effective: Cutter
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 21 pitches
+  4-Seam: 10 (47.6%) velo=98.5 whiff=0.0% csw=10.0% grade=D
+  Slider: 6 (28.6%) velo=92.9 whiff=40.0% csw=50.0% grade=A
+  Changeup: 3 (14.3%) velo=92.3 whiff=100.0% csw=33.3% grade=A
+  K-Curve: 2 (9.5%) velo=88.2 whiff=0% csw=0.0% grade=D
+  Line: 1K / 1BB / 1H / 0HR
+
+Miles, Spencer — 8 pitches
+  Sinker: 3 (37.5%) velo=96.7 whiff=0.0% csw=0.0% grade=D
+  Slider: 2 (25.0%) velo=86.2 whiff=0.0% csw=0.0% grade=D
+  Curveball: 2 (25.0%) velo=81.6 whiff=100.0% csw=50.0% grade=A
+  4-Seam: 1 (12.5%) velo=94.2 whiff=0% csw=100.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-20.png
+  zone_2026-08-20.png
+  batted_balls_2026-08-20.png
+  velocity_2026-08-20.png
+  release_2026-08-20.png
+  gamescore_2026-08-20.png
+  wpa_2026-08-20.png
+  spray_2026-08-20.png
+  runvalue_2026-08-20.png

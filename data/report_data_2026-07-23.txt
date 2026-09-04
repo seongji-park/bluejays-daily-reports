@@ -1,0 +1,172 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-23
+Opponent: TB
+Result: W 3-1
+Starter: Bieber, Shane
+Spotlight: None
+Season Record: 46-55
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 1490
+Blue Jays pitching data: 110 pitches
+Blue Jays batting data: 127 pitches
+Bieber, Shane: 86 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 15 pitches
+  Rogers, Tyler: 9 pitches
+  Bieber, Shane: 86 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         37   43.0%   92.4   23.1%   35.1%    15.8%       B
+Changeup       17   19.8%   87.9    0.0%   17.6%    30.0%       D
+Cutter         12   14.0%   87.5   25.0%   25.0%    37.5%       B
+K-Curve        11   12.8%   82.3   25.0%   36.4%    80.0%       B
+Slider          5    5.8%   85.6    0.0%    0.0%    50.0%       D
+Sinker          4    4.7%   92.3    0.0%    0.0%    50.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-12.9 V=17.1 (37 pitches)
+  Changeup: H=-12.6 V=1.8 (17 pitches)
+  Cutter: H=0.7 V=9.8 (12 pitches)
+  K-Curve: H=5.0 V=-10.7 (11 pitches)
+  Slider: H=-0.1 V=2.3 (5 pitches)
+  Sinker: H=-15.2 V=13.3 (4 pitches)
+
+=== vs LHB/RHB ===
+  L: 45 pitches, avg velo 88.3, 2 swinging strikes, whiff/pitch 4.4%
+  R: 41 pitches, avg velo 90.0, 4 swinging strikes, whiff/pitch 9.8%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (24 pitches):
+    4-Seam: 50.0%
+    Changeup: 20.8%
+    Cutter: 16.7%
+    K-Curve: 12.5%
+  Ahead (22 pitches):
+    4-Seam: 36.4%
+    Changeup: 18.2%
+    Cutter: 18.2%
+    K-Curve: 13.6%
+    Sinker: 9.1%
+    Slider: 4.5%
+  Behind (23 pitches):
+    4-Seam: 39.1%
+    Changeup: 17.4%
+    K-Curve: 17.4%
+    Cutter: 13.0%
+    Slider: 8.7%
+    Sinker: 4.3%
+  Even (12 pitches):
+    4-Seam: 41.7%
+    Changeup: 33.3%
+    Slider: 16.7%
+    Sinker: 8.3%
+  Full count (3-2) (5 pitches):
+    4-Seam: 60.0%
+    K-Curve: 20.0%
+    Cutter: 20.0%
+
+=== STRIKEOUT PITCHES (3 K's) ===
+  K-Curve: 1
+  4-Seam: 1
+  Changeup: 1
+
+=== TOP OPPOSING BATTERS ===
+  aranda, jonathan: 12 pitches, 0 hits, 0 K, 0 BB, avg EV 82.3
+  mesa, victor: 12 pitches, 0 hits, 1 K, 0 BB, avg EV 81.8
+  caminero, junior: 11 pitches, 0 hits, 2 K, 0 BB, avg EV 74.8
+  díaz, yandy: 10 pitches, 1 hits, 0 K, 0 BB, avg EV 76.8
+  deluca, jonny: 10 pitches, 1 hits, 0 K, 0 BB, avg EV 87.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 30
+Avg EV: 78.6 mph
+Avg LA: 4.5
+Hard hit (95+): 5/30 (17%)
+
+=== VELOCITY TREND ===
+  4-Seam: 92.6 -> 92.3 mph (-0.3)
+  Changeup: 88.4 -> 86.9 mph (-1.5)
+  Cutter: 85.4 -> 87.2 mph (+1.8)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.7in V=0.7in Total=1.0in Tight
+  Changeup: H=0.7in V=0.8in Total=1.1in Tight
+  Cutter: H=0.7in V=0.8in Total=1.1in Tight
+  K-Curve: H=1.1in V=0.6in Total=1.3in Tight
+  Slider: H=0.5in V=0.9in Total=1.0in Tight
+
+=== TUNNELING ANALYSIS ===
+  Cutter/K-Curve: RelSim=0.3in PlateSep=21.0in Tunnel=70.6 (GREEN) VeloGap=5.2mph
+  4-Seam/K-Curve: RelSim=0.6in PlateSep=33.1in Tunnel=54.3 (GREEN) VeloGap=10.1mph
+  Slider/Sinker: RelSim=0.4in PlateSep=18.7in Tunnel=48.5 (GREEN) VeloGap=6.7mph
+  K-Curve/Sinker: RelSim=1.0in PlateSep=31.4in Tunnel=31.4 (GREEN) VeloGap=10.0mph
+  K-Curve/Slider: RelSim=0.6in PlateSep=14.0in Tunnel=21.6 (GREEN) VeloGap=3.3mph
+  Cutter/Sinker: RelSim=0.8in PlateSep=16.3in Tunnel=21.4 (GREEN) VeloGap=4.8mph
+  4-Seam/Cutter: RelSim=0.8in PlateSep=15.4in Tunnel=19.3 (GREEN) VeloGap=4.9mph
+  Cutter/Slider: RelSim=0.5in PlateSep=7.5in Tunnel=16.0 (GREEN) VeloGap=1.9mph
+  4-Seam/Slider: RelSim=1.2in PlateSep=19.6in Tunnel=15.8 (GREEN) VeloGap=6.8mph
+  Changeup/K-Curve: RelSim=1.8in PlateSep=21.6in Tunnel=12.3 (GREEN) VeloGap=5.7mph
+  Changeup/Sinker: RelSim=1.0in PlateSep=11.9in Tunnel=12.1 (GREEN) VeloGap=4.4mph
+  Changeup/Cutter: RelSim=1.5in PlateSep=15.5in Tunnel=10.6 (GREEN) VeloGap=0.4mph
+  Changeup/Slider: RelSim=1.3in PlateSep=12.5in Tunnel=9.5 (GREEN) VeloGap=2.3mph
+  4-Seam/Changeup: RelSim=2.1in PlateSep=15.3in Tunnel=7.1 (GREEN) VeloGap=4.5mph
+  4-Seam/Sinker: RelSim=1.6in PlateSep=4.4in Tunnel=2.8 (YELLOW) VeloGap=0.1mph
+Best Tunnel: Cutter/K-Curve (score: 70.6)
+
+=== GAME SCORE ===
+Game Score: 68
+K: 1 H: 0 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 7: Schreiber, John — home_run (WP 79.1%)
+  UP Inn 4: Canning, Griffin — home_run (WP 58.2%)
+  UP Inn 9: Finnegan, Kyle — grounded_into_double_play (WP 30.6%)
+  DOWN Inn 12: Sabrowski, Erik — single (WP -16.3%)
+  DOWN Inn 6: Melton, Troy — home_run (WP 53.8%)
+  DOWN Inn 8: Smith, Cade — single (WP -14.9%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 24
+Hits: 3 (12%)
+Pull: 3 Center: 18 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  4-Seam: -1.165 total (-0.0315 per pitch, 37 pitches)
+  Changeup: -1.644 total (-0.0967 per pitch, 17 pitches)
+  Cutter: 0.013 total (0.0011 per pitch, 12 pitches)
+  K-Curve: 0.258 total (0.0235 per pitch, 11 pitches)
+  Slider: -0.71 total (-0.142 per pitch, 5 pitches)
+  Sinker: -0.482 total (-0.1205 per pitch, 4 pitches)
+Most Effective: Changeup
+Least Effective: K-Curve
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 15 pitches
+  4-Seam: 8 (53.3%) velo=99.2 whiff=40.0% csw=37.5% grade=A
+  K-Curve: 6 (40.0%) velo=88.4 whiff=25.0% csw=33.3% grade=B
+  Changeup: 1 (6.7%) velo=92.9 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 9 pitches
+  Sinker: 5 (55.6%) velo=84.0 whiff=0.0% csw=20.0% grade=D
+  Slider: 4 (44.4%) velo=73.1 whiff=100.0% csw=100.0% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-23.png
+  zone_2026-07-23.png
+  batted_balls_2026-07-23.png
+  velocity_2026-07-23.png
+  release_2026-07-23.png
+  gamescore_2026-07-23.png
+  wpa_2026-07-23.png
+  spray_2026-07-23.png
+  runvalue_2026-07-23.png

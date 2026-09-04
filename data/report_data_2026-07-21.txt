@@ -1,0 +1,159 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-21
+Opponent: TB
+Result: L 2-12
+Starter: Gausman, Kevin
+Spotlight: None
+Season Record: 46-53
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 3870
+Blue Jays pitching data: 205 pitches
+Blue Jays batting data: 139 pitches
+Gausman, Kevin: 90 pitches
+
+=== All Blue Jays pitchers ===
+  Straw, Myles: 15 pitches
+  Corbin, Patrick: 48 pitches
+  Estrada, Lazaro: 41 pitches
+  Fluharty, Mason: 11 pitches
+  Gausman, Kevin: 90 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         51   56.7%   93.8    0.0%   19.6%    27.8%       D
+Splitter       28   31.1%   84.0   30.8%   17.9%    30.0%       A
+Slider         11   12.2%   83.7    0.0%    0.0%    10.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-9.4 V=17.8 (51 pitches)
+  Splitter: H=-14.1 V=6.7 (28 pitches)
+  Slider: H=2.1 V=2.8 (11 pitches)
+
+=== vs LHB/RHB ===
+  L: 33 pitches, avg velo 89.0, 3 swinging strikes, whiff/pitch 9.1%
+  R: 57 pitches, avg velo 89.8, 1 swinging strikes, whiff/pitch 1.8%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (21 pitches):
+    4-Seam: 47.6%
+    Splitter: 42.9%
+    Slider: 9.5%
+  Ahead (27 pitches):
+    4-Seam: 51.9%
+    Splitter: 33.3%
+    Slider: 14.8%
+  Behind (17 pitches):
+    4-Seam: 76.5%
+    Splitter: 17.6%
+    Slider: 5.9%
+  Even (14 pitches):
+    4-Seam: 50.0%
+    Splitter: 28.6%
+    Slider: 21.4%
+  Full count (3-2) (11 pitches):
+    4-Seam: 63.6%
+    Splitter: 27.3%
+    Slider: 9.1%
+
+=== STRIKEOUT PITCHES (1 K's) ===
+  Splitter: 1
+
+=== TOP OPPOSING BATTERS ===
+  caminero, junior: 19 pitches, 1 hits, 0 K, 2 BB, avg EV 75.4
+  díaz, yandy: 18 pitches, 1 hits, 0 K, 0 BB, avg EV 78.6
+  aranda, jonathan: 10 pitches, 1 hits, 0 K, 0 BB, avg EV 79.2
+  fortes, nick: 9 pitches, 0 hits, 0 K, 0 BB, avg EV 60.0
+  mullins, cedric: 8 pitches, 1 hits, 0 K, 0 BB, avg EV 83.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 39
+Avg EV: 75.5 mph
+Avg LA: 15.5
+Hard hit (95+): 4/39 (10%)
+
+=== VELOCITY TREND ===
+  4-Seam: 93.9 -> 94.3 mph (+0.3)
+  Splitter: 84.4 -> 84.7 mph (+0.3)
+  Slider: 85.2 -> 83.4 mph (-1.8)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.7in V=0.6in Total=1.0in Tight
+  Splitter: H=0.8in V=1.0in Total=1.3in Tight
+  Slider: H=0.8in V=0.8in Total=1.2in Tight
+
+=== TUNNELING ANALYSIS ===
+  Splitter/Slider: RelSim=0.7in PlateSep=16.7in Tunnel=24.3 (GREEN) VeloGap=0.3mph
+  4-Seam/Slider: RelSim=2.1in PlateSep=18.9in Tunnel=9.2 (GREEN) VeloGap=10.2mph
+  4-Seam/Splitter: RelSim=2.7in PlateSep=12.1in Tunnel=4.4 (GREEN) VeloGap=9.8mph
+Best Tunnel: Splitter/Slider (score: 24.3)
+
+=== GAME SCORE ===
+Game Score: 47
+K: 0 H: 1 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Beeter, Clayton — home_run (WP 144.1%)
+  UP Inn 9: Scott, Tanner — double (WP 218.2%)
+  UP Inn 1: Perkins, Jack — home_run (WP 45.4%)
+  DOWN Inn 9: Scott, Tanner — double_play (WP 194.6%)
+  DOWN Inn 9: Sewald, Paul — home_run (WP 3.8%)
+  DOWN Inn 4: Lorenzen, Michael — double (WP 132.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 40
+Hits: 21 (52%)
+Pull: 3 Center: 29 Oppo: 8
+
+=== PITCH RUN VALUE ===
+  4-Seam: 1.303 total (0.0255 per pitch, 51 pitches)
+  Splitter: 0.428 total (0.0153 per pitch, 28 pitches)
+  Slider: 0.771 total (0.0701 per pitch, 11 pitches)
+Most Effective: Splitter
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Straw, Myles — 15 pitches
+  EP: 11 (73.3%) velo=38.1 whiff=0.0% csw=27.3% grade=D
+  FA: 2 (13.3%) velo=51.8 whiff=0% csw=0.0% grade=D
+  Knuckle: 2 (13.3%) velo=49.7 whiff=0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 0HR
+
+Corbin, Patrick — 48 pitches
+  Slider: 17 (35.4%) velo=79.2 whiff=60.0% csw=41.2% grade=A
+  Cutter: 11 (22.9%) velo=86.9 whiff=33.3% csw=54.5% grade=A
+  4-Seam: 6 (12.5%) velo=90.9 whiff=0.0% csw=16.7% grade=D
+  Sinker: 6 (12.5%) velo=91.0 whiff=25.0% csw=16.7% grade=B
+  Changeup: 5 (10.4%) velo=80.9 whiff=0.0% csw=20.0% grade=D
+  Curveball: 3 (6.2%) velo=69.4 whiff=100.0% csw=33.3% grade=A
+  Line: 3K / 0BB / 7H / 1HR
+
+Estrada, Lazaro — 41 pitches
+  4-Seam: 16 (39.0%) velo=93.2 whiff=0.0% csw=37.5% grade=D
+  Slider: 15 (36.6%) velo=83.6 whiff=40.0% csw=26.7% grade=A
+  Cutter: 5 (12.2%) velo=87.1 whiff=33.3% csw=20.0% grade=A
+  Splitter: 3 (7.3%) velo=86.2 whiff=0% csw=0.0% grade=D
+  Curveball: 2 (4.9%) velo=75.6 whiff=100.0% csw=100.0% grade=A
+  Line: 3K / 1BB / 3H / 1HR
+
+Fluharty, Mason — 11 pitches
+  Sweeper: 7 (63.6%) velo=80.7 whiff=33.3% csw=42.9% grade=A
+  Cutter: 3 (27.3%) velo=89.8 whiff=0.0% csw=0.0% grade=D
+  Changeup: 1 (9.1%) velo=86.7 whiff=0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-21.png
+  zone_2026-07-21.png
+  batted_balls_2026-07-21.png
+  velocity_2026-07-21.png
+  release_2026-07-21.png
+  gamescore_2026-07-21.png
+  wpa_2026-07-21.png
+  spray_2026-07-21.png
+  runvalue_2026-07-21.png

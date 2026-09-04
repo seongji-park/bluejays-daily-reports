@@ -1,0 +1,187 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-06
+Opponent: CHC
+Result: L 2-3
+Starter: Cease, Dylan
+Spotlight: None
+Season Record: 54-60
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 3530
+Blue Jays pitching data: 166 pitches
+Blue Jays batting data: 176 pitches
+Cease, Dylan: 104 pitches
+
+=== All Blue Jays pitchers ===
+  Little, Brendon: 12 pitches
+  Lee, Chase: 14 pitches
+  Varland, Louis: 21 pitches
+  Fisher, Braydon: 15 pitches
+  Cease, Dylan: 104 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         40   38.5%   96.2   20.0%   25.0%    25.0%       B
+Slider         32   30.8%   87.7   28.6%   40.6%    44.4%       B
+Changeup       11   10.6%   78.5    0.0%   27.3%     0.0%       D
+K-Curve         9    8.7%   80.3   25.0%   22.2%    25.0%       B
+Sweeper         8    7.7%   81.9    0.0%   37.5%    20.0%       D
+Sinker          4    3.8%   94.6   33.3%   25.0%     0.0%       A
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-1.4 V=17.2 (40 pitches)
+  Slider: H=1.6 V=3.1 (32 pitches)
+  Changeup: H=-5.8 V=15.7 (11 pitches)
+  K-Curve: H=2.7 V=-13.1 (9 pitches)
+  Sweeper: H=11.8 V=-9.2 (8 pitches)
+  Sinker: H=-8.8 V=13.6 (4 pitches)
+
+=== vs LHB/RHB ===
+  L: 44 pitches, avg velo 88.7, 5 swinging strikes, whiff/pitch 11.4%
+  R: 60 pitches, avg velo 89.5, 5 swinging strikes, whiff/pitch 8.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (24 pitches):
+    4-Seam: 41.7%
+    K-Curve: 25.0%
+    Slider: 20.8%
+    Changeup: 8.3%
+    Sweeper: 4.2%
+  Ahead (31 pitches):
+    4-Seam: 38.7%
+    Slider: 32.3%
+    Changeup: 16.1%
+    K-Curve: 6.5%
+    Sinker: 3.2%
+    Sweeper: 3.2%
+  Behind (21 pitches):
+    Slider: 47.6%
+    4-Seam: 33.3%
+    Changeup: 14.3%
+    Sweeper: 4.8%
+  Even (20 pitches):
+    4-Seam: 35.0%
+    Sweeper: 20.0%
+    Slider: 20.0%
+    Sinker: 15.0%
+    K-Curve: 5.0%
+    Changeup: 5.0%
+  Full count (3-2) (8 pitches):
+    4-Seam: 50.0%
+    Slider: 37.5%
+    Sweeper: 12.5%
+
+=== STRIKEOUT PITCHES (10 K's) ===
+  4-Seam: 4
+  Slider: 4
+  Sinker: 1
+  Changeup: 1
+
+=== TOP OPPOSING BATTERS ===
+  hoerner, nico: 17 pitches, 0 hits, 1 K, 0 BB, avg EV 80.1
+  suzuki, seiya: 16 pitches, 0 hits, 1 K, 0 BB, avg EV 72.8
+  happ, ian: 13 pitches, 0 hits, 1 K, 0 BB, avg EV 76.8
+  crow-armstrong, pete: 13 pitches, 0 hits, 2 K, 0 BB, avg EV 98.7
+  bregman, alex: 12 pitches, 1 hits, 1 K, 0 BB, avg EV 94.3
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 33
+Avg EV: 83.4 mph
+Avg LA: 26.4
+Hard hit (95+): 6/33 (18%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.9 -> 96.9 mph (+2.0)
+  Slider: 86.1 -> 88.5 mph (+2.4)
+  Changeup: 80.2 -> 78.3 mph (-1.9)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=2.1in V=0.8in Total=2.2in Tight
+  Slider: H=2.6in V=0.9in Total=2.8in Tight
+  Changeup: H=1.7in V=1.0in Total=2.0in Tight
+  K-Curve: H=1.5in V=0.8in Total=1.7in Tight
+  Sweeper: H=1.2in V=0.8in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=0.6in PlateSep=30.6in Tunnel=48.5 (GREEN) VeloGap=15.9mph
+  Changeup/K-Curve: RelSim=1.7in PlateSep=30.1in Tunnel=17.8 (GREEN) VeloGap=1.7mph
+  K-Curve/Sinker: RelSim=1.9in PlateSep=29.1in Tunnel=15.1 (GREEN) VeloGap=14.3mph
+  Slider/K-Curve: RelSim=2.1in PlateSep=16.3in Tunnel=7.8 (GREEN) VeloGap=7.4mph
+  4-Seam/Sinker: RelSim=1.4in PlateSep=8.2in Tunnel=5.9 (GREEN) VeloGap=1.6mph
+  4-Seam/Slider: RelSim=2.6in PlateSep=14.4in Tunnel=5.5 (GREEN) VeloGap=8.5mph
+  Slider/Sweeper: RelSim=3.0in PlateSep=16.0in Tunnel=5.4 (GREEN) VeloGap=5.7mph
+  4-Seam/Sweeper: RelSim=5.6in PlateSep=29.6in Tunnel=5.3 (GREEN) VeloGap=14.3mph
+  Sweeper/Sinker: RelSim=6.2in PlateSep=30.7in Tunnel=4.9 (GREEN) VeloGap=12.7mph
+  Changeup/Sinker: RelSim=0.7in PlateSep=3.6in Tunnel=4.9 (GREEN) VeloGap=16.1mph
+  Changeup/Sweeper: RelSim=6.5in PlateSep=30.5in Tunnel=4.7 (GREEN) VeloGap=3.4mph
+  4-Seam/Changeup: RelSim=1.1in PlateSep=4.7in Tunnel=4.4 (GREEN) VeloGap=17.7mph
+  Slider/Sinker: RelSim=3.5in PlateSep=14.7in Tunnel=4.2 (GREEN) VeloGap=6.9mph
+  Slider/Changeup: RelSim=3.6in PlateSep=14.6in Tunnel=4.1 (GREEN) VeloGap=9.1mph
+  K-Curve/Sweeper: RelSim=5.1in PlateSep=9.9in Tunnel=2.0 (RED) VeloGap=1.6mph
+Best Tunnel: 4-Seam/K-Curve (score: 48.5)
+
+=== GAME SCORE ===
+Game Score: 79
+K: 1 H: 0 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Varland, Louis — home_run (WP 1.9%)
+  UP Inn 9: Brazobán, Huascar — single (WP 64.1%)
+  UP Inn 10: Richards, Trevor — double (WP 69.8%)
+  DOWN Inn 10: Chapman, Aroldis — home_run (WP 103.9%)
+  DOWN Inn 8: Pearson, Nate — single (WP 67.5%)
+  DOWN Inn 7: Yoho, Craig — home_run (WP 21.3%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 23
+Hits: 5 (22%)
+Pull: 1 Center: 16 Oppo: 6
+
+=== PITCH RUN VALUE ===
+  4-Seam: -1.41 total (-0.0352 per pitch, 40 pitches)
+  Slider: -2.779 total (-0.0868 per pitch, 32 pitches)
+  Changeup: -0.037 total (-0.0034 per pitch, 11 pitches)
+  K-Curve: -0.276 total (-0.0307 per pitch, 9 pitches)
+  Sweeper: -0.306 total (-0.0382 per pitch, 8 pitches)
+  Sinker: 0.331 total (0.0828 per pitch, 4 pitches)
+Most Effective: Slider
+Least Effective: Sinker
+
+=== BULLPEN DETAILED ===
+Little, Brendon — 12 pitches
+  Slider: 6 (50.0%) velo=90.1 whiff=33.3% csw=16.7% grade=A
+  K-Curve: 2 (16.7%) velo=86.6 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 0HR
+
+Lee, Chase — 14 pitches
+  Sweeper: 9 (64.3%) velo=81.5 whiff=66.7% csw=66.7% grade=A
+  Sinker: 1 (7.1%) velo=90.9 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Varland, Louis — 21 pitches
+  K-Curve: 10 (47.6%) velo=88.2 whiff=28.6% csw=20.0% grade=B
+  4-Seam: 6 (28.6%) velo=99.2 whiff=0.0% csw=16.7% grade=D
+  Changeup: 4 (19.0%) velo=93.8 whiff=33.3% csw=50.0% grade=A
+  Slider: 1 (4.8%) velo=93.2 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 2H / 1HR
+
+Fisher, Braydon — 15 pitches
+  Slider: 8 (53.3%) velo=86.6 whiff=0.0% csw=0.0% grade=D
+  Curveball: 7 (46.7%) velo=81.0 whiff=50.0% csw=57.1% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-06.png
+  zone_2026-08-06.png
+  batted_balls_2026-08-06.png
+  velocity_2026-08-06.png
+  release_2026-08-06.png
+  gamescore_2026-08-06.png
+  wpa_2026-08-06.png
+  spray_2026-08-06.png
+  runvalue_2026-08-06.png

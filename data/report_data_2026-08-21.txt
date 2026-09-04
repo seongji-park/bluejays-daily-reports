@@ -1,0 +1,151 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-21
+Opponent: NYY
+Result: L 1-3
+Starter: Fluharty, Mason
+Spotlight: None
+Season Record: 63-65
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4441
+Blue Jays pitching data: 143 pitches
+Blue Jays batting data: 147 pitches
+Fluharty, Mason: 14 pitches
+
+=== All Blue Jays pitchers ===
+  Woods Richardson, Simeon: 20 pitches
+  Sewald, Paul: 11 pitches
+  Fisher, Braydon: 16 pitches
+  Little, Brendon: 21 pitches
+  Arrighetti, Spencer: 61 pitches
+  Fluharty, Mason: 14 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Cutter          7   50.0%   90.5    0.0%   14.3%    16.7%       D
+Changeup        4   28.6%   86.8    0.0%    0.0%     0.0%       D
+Sweeper         3   21.4%   82.2  100.0%   33.3%    33.3%       A
+
+=== PITCH MOVEMENT (inches) ===
+  Cutter: H=-2.2 V=11.9 (7 pitches)
+  Changeup: H=10.4 V=4.1 (4 pitches)
+  Sweeper: H=-14.9 V=3.2 (3 pitches)
+
+=== vs LHB/RHB ===
+  L: 5 pitches, avg velo 86.6, 0 swinging strikes, whiff/pitch 0.0%
+  R: 9 pitches, avg velo 88.2, 1 swinging strikes, whiff/pitch 11.1%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (4 pitches):
+    Cutter: 50.0%
+    Sweeper: 25.0%
+    Changeup: 25.0%
+  Behind (9 pitches):
+    Cutter: 55.6%
+    Sweeper: 22.2%
+    Changeup: 22.2%
+  Even (1 pitches):
+    Changeup: 100.0%
+
+=== STRIKEOUT PITCHES (0 K's) ===
+
+=== TOP OPPOSING BATTERS ===
+  rice, ben: 5 pitches, 0 hits, 0 K, 1 BB, avg EV <NA>
+  rosario, amed: 4 pitches, 0 hits, 0 K, 1 BB, avg EV <NA>
+  ramos, heliot: 4 pitches, 0 hits, 0 K, 0 BB, avg EV 75.4
+  goldschmidt, paul: 1 pitches, 0 hits, 0 K, 0 BB, avg EV 95.3
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 2
+Avg EV: 85.4 mph
+Avg LA: 11.0
+Hard hit (95+): 1/2 (50%)
+
+=== VELOCITY TREND ===
+
+=== RELEASE POINT SPREAD ===
+  Cutter: H=1.0in V=0.6in Total=1.2in Tight
+  Changeup: H=1.5in V=0.5in Total=1.6in Tight
+  Sweeper: H=0.3in V=0.4in Total=0.5in Tight
+
+=== TUNNELING ANALYSIS ===
+  Cutter/Changeup: RelSim=1.1in PlateSep=14.8in Tunnel=13.3 (GREEN) VeloGap=3.7mph
+  Changeup/Sweeper: RelSim=3.8in PlateSep=25.3in Tunnel=6.6 (GREEN) VeloGap=4.5mph
+  Cutter/Sweeper: RelSim=3.6in PlateSep=15.4in Tunnel=4.2 (GREEN) VeloGap=8.3mph
+Best Tunnel: Cutter/Changeup (score: 13.3)
+
+=== GAME SCORE ===
+Game Score: 48
+K: 4 H: 3 HR: 1 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 10: Joyce, Ben — double (WP -582.3%)
+  UP Inn 10: Soto, Gregory — single (WP -193.3%)
+  UP Inn 9: Yan, Jefry — home_run (WP -89.1%)
+  DOWN Inn 9: Muñoz, Andrés — home_run (WP -458.5%)
+  DOWN Inn 9: Fairbanks, Pete — single (WP -211.4%)
+  DOWN Inn 8: Hurt, Kyle — home_run (WP -168.7%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 16
+Hits: 4 (25%)
+Pull: 3 Center: 11 Oppo: 2
+
+=== PITCH RUN VALUE ===
+  Cutter: 0.052 total (0.0074 per pitch, 7 pitches)
+  Changeup: -0.065 total (-0.0162 per pitch, 4 pitches)
+  Sweeper: 0.12 total (0.04 per pitch, 3 pitches)
+Most Effective: Changeup
+Least Effective: Sweeper
+
+=== BULLPEN DETAILED ===
+Woods Richardson, Simeon — 20 pitches
+  4-Seam: 7 (35.0%) velo=92.9 whiff=0.0% csw=42.9% grade=D
+  Splitter: 7 (35.0%) velo=87.7 whiff=50.0% csw=28.6% grade=A
+  Slider: 4 (20.0%) velo=84.0 whiff=50.0% csw=25.0% grade=A
+  Curveball: 2 (10.0%) velo=77.2 whiff=0% csw=50.0% grade=D
+  Line: 3K / 1BB / 0H / 0HR
+
+Sewald, Paul — 11 pitches
+  Sweeper: 7 (63.6%) velo=82.1 whiff=50.0% csw=28.6% grade=A
+  4-Seam: 3 (27.3%) velo=91.3 whiff=66.7% csw=66.7% grade=A
+  Cutter: 1 (9.1%) velo=89.1 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Fisher, Braydon — 16 pitches
+  4-Seam: 7 (43.8%) velo=93.8 whiff=33.3% csw=42.9% grade=A
+  Slider: 5 (31.2%) velo=86.8 whiff=100.0% csw=40.0% grade=A
+  Curveball: 4 (25.0%) velo=81.0 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Little, Brendon — 21 pitches
+  Slider: 6 (28.6%) velo=88.2 whiff=75.0% csw=66.7% grade=A
+  Sinker: 6 (28.6%) velo=95.5 whiff=33.3% csw=16.7% grade=A
+  K-Curve: 5 (23.8%) velo=86.0 whiff=100.0% csw=40.0% grade=A
+  4-Seam: 4 (19.0%) velo=95.7 whiff=0% csw=25.0% grade=D
+  Line: 2K / 0BB / 1H / 0HR
+
+Arrighetti, Spencer — 61 pitches
+  4-Seam: 18 (29.5%) velo=92.2 whiff=12.5% csw=33.3% grade=C
+  Curveball: 17 (27.9%) velo=76.9 whiff=40.0% csw=47.1% grade=A
+  Sinker: 14 (23.0%) velo=92.6 whiff=42.9% csw=35.7% grade=A
+  Sweeper: 8 (13.1%) velo=81.4 whiff=33.3% csw=12.5% grade=A
+  Cutter: 3 (4.9%) velo=88.8 whiff=0.0% csw=0.0% grade=D
+  Changeup: 1 (1.6%) velo=82.8 whiff=0% csw=0.0% grade=D
+  Line: 4K / 2BB / 3H / 1HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-21.png
+  zone_2026-08-21.png
+  batted_balls_2026-08-21.png
+  velocity_2026-08-21.png
+  release_2026-08-21.png
+  gamescore_2026-08-21.png
+  wpa_2026-08-21.png
+  spray_2026-08-21.png
+  runvalue_2026-08-21.png

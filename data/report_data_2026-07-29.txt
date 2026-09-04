@@ -1,0 +1,138 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-29
+Opponent: WSH
+Result: W 5-2
+Starter: Yesavage, Trey
+Spotlight: None
+Season Record: 49-58
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4781
+Blue Jays pitching data: 132 pitches
+Blue Jays batting data: 177 pitches
+Yesavage, Trey: 97 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 20 pitches
+  Rogers, Tyler: 15 pitches
+  Yesavage, Trey: 97 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         38   39.2%   93.6    6.7%   23.7%    17.6%       D
+Slider         32   33.0%   86.7   40.0%   28.1%    33.3%       A
+Splitter       27   27.8%   83.0   23.1%   22.2%    35.3%       B
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-5.1 V=18.7 (38 pitches)
+  Slider: H=-3.6 V=4.4 (32 pitches)
+  Splitter: H=-11.1 V=8.6 (27 pitches)
+
+=== vs LHB/RHB ===
+  L: 64 pitches, avg velo 88.6, 7 swinging strikes, whiff/pitch 10.9%
+  R: 33 pitches, avg velo 87.8, 3 swinging strikes, whiff/pitch 9.1%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (26 pitches):
+    4-Seam: 46.2%
+    Slider: 30.8%
+    Splitter: 23.1%
+  Ahead (21 pitches):
+    Splitter: 42.9%
+    4-Seam: 28.6%
+    Slider: 28.6%
+  Behind (24 pitches):
+    4-Seam: 41.7%
+    Slider: 37.5%
+    Splitter: 20.8%
+  Even (25 pitches):
+    4-Seam: 40.0%
+    Slider: 36.0%
+    Splitter: 24.0%
+  Full count (3-2) (1 pitches):
+    Splitter: 100.0%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  Slider: 3
+  Splitter: 1
+
+=== TOP OPPOSING BATTERS ===
+  abrams, cj: 14 pitches, 0 hits, 1 K, 1 BB, avg EV 58.7
+  young, jacob: 14 pitches, 1 hits, 0 K, 1 BB, avg EV 68.8
+  vivas, jorbit: 13 pitches, 0 hits, 1 K, 0 BB, avg EV 73.8
+  wood, james: 12 pitches, 1 hits, 0 K, 1 BB, avg EV 81.8
+  lile, daylen: 11 pitches, 1 hits, 0 K, 0 BB, avg EV 74.9
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 30
+Avg EV: 78.3 mph
+Avg LA: 16.7
+Hard hit (95+): 3/30 (10%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.4 -> 92.8 mph (-1.6)
+  Slider: 87.0 -> 85.9 mph (-1.2)
+  Splitter: 83.5 -> 82.2 mph (-1.3)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.6in V=0.8in Total=1.8in Tight
+  Slider: H=1.4in V=0.8in Total=1.6in Tight
+  Splitter: H=1.7in V=0.8in Total=1.9in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/Splitter: RelSim=1.6in PlateSep=11.8in Tunnel=7.4 (GREEN) VeloGap=10.6mph
+  4-Seam/Slider: RelSim=2.0in PlateSep=14.3in Tunnel=7.1 (GREEN) VeloGap=6.9mph
+  Slider/Splitter: RelSim=1.4in PlateSep=8.5in Tunnel=6.0 (GREEN) VeloGap=3.7mph
+Best Tunnel: 4-Seam/Splitter (score: 7.4)
+
+=== GAME SCORE ===
+Game Score: 60
+K: 0 H: 2 HR: 0 BB/HBP: 3
+
+=== KEY WPA MOMENTS ===
+  UP Inn 10: Thornton, Trent — double (WP 86.9%)
+  UP Inn 11: Garcia, Rico — home_run (WP 165.2%)
+  UP Inn 11: Doval, Camilo — nan (WP 62.0%)
+  DOWN Inn 10: Gastelum, Luis — home_run (WP 114.9%)
+  DOWN Inn 8: Anderson, Drew — triple (WP 220.2%)
+  DOWN Inn 10: Wells, Tyler — grounded_into_double_play (WP 226.5%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 27
+Hits: 6 (22%)
+Pull: 1 Center: 23 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  4-Seam: -1.151 total (-0.0303 per pitch, 38 pitches)
+  Slider: -1.193 total (-0.0373 per pitch, 32 pitches)
+  Splitter: 0.086 total (0.0032 per pitch, 27 pitches)
+Most Effective: Slider
+Least Effective: Splitter
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 20 pitches
+  4-Seam: 8 (40.0%) velo=99.3 whiff=33.3% csw=25.0% grade=A
+  K-Curve: 7 (35.0%) velo=87.5 whiff=0.0% csw=14.3% grade=D
+  Changeup: 5 (25.0%) velo=93.6 whiff=40.0% csw=40.0% grade=A
+  Line: 1K / 1BB / 1H / 0HR
+
+Rogers, Tyler — 15 pitches
+  Sinker: 12 (80.0%) velo=83.5 whiff=0.0% csw=16.7% grade=D
+  Slider: 3 (20.0%) velo=73.0 whiff=0.0% csw=33.3% grade=D
+  Line: 0K / 1BB / 2H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-29.png
+  zone_2026-07-29.png
+  batted_balls_2026-07-29.png
+  velocity_2026-07-29.png
+  release_2026-07-29.png
+  gamescore_2026-07-29.png
+  wpa_2026-07-29.png
+  spray_2026-07-29.png
+  runvalue_2026-07-29.png

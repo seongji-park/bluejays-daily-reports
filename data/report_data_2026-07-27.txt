@@ -1,0 +1,186 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-27
+Opponent: WSH
+Result: W 3-2
+Starter: Scherzer, Max
+Spotlight: None
+Season Record: 48-57
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 3277
+Blue Jays pitching data: 152 pitches
+Blue Jays batting data: 128 pitches
+Scherzer, Max: 75 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 15 pitches
+  Hoffman, Jeff: 15 pitches
+  Rogers, Tyler: 8 pitches
+  Miles, Spencer: 15 pitches
+  Macko, Adam: 7 pitches
+  Fluharty, Mason: 17 pitches
+  Scherzer, Max: 75 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         32   42.7%   93.7    0.0%    9.4%    20.0%       D
+Changeup       21   28.0%   84.3   33.3%   19.0%    40.0%       A
+Curveball       8   10.7%   74.9  100.0%   50.0%    20.0%       A
+Slider          8   10.7%   86.8    0.0%    0.0%     0.0%       D
+Cutter          6    8.0%   89.8    0.0%    0.0%    50.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-7.6 V=15.5 (32 pitches)
+  Changeup: H=-12.5 V=3.0 (21 pitches)
+  Curveball: H=12.0 V=-6.2 (8 pitches)
+  Slider: H=4.0 V=3.9 (8 pitches)
+  Cutter: H=2.4 V=7.1 (6 pitches)
+
+=== vs LHB/RHB ===
+  L: 62 pitches, avg velo 87.8, 4 swinging strikes, whiff/pitch 6.5%
+  R: 13 pitches, avg velo 89.0, 2 swinging strikes, whiff/pitch 15.4%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (15 pitches):
+    4-Seam: 73.3%
+    Curveball: 13.3%
+    Changeup: 13.3%
+  Ahead (17 pitches):
+    Changeup: 35.3%
+    4-Seam: 29.4%
+    Cutter: 11.8%
+    Curveball: 11.8%
+    Slider: 11.8%
+  Behind (14 pitches):
+    4-Seam: 35.7%
+    Changeup: 28.6%
+    Curveball: 21.4%
+    Slider: 7.1%
+    Cutter: 7.1%
+  Even (20 pitches):
+    4-Seam: 35.0%
+    Changeup: 30.0%
+    Slider: 20.0%
+    Cutter: 15.0%
+  Full count (3-2) (9 pitches):
+    4-Seam: 44.4%
+    Changeup: 33.3%
+    Curveball: 11.1%
+    Slider: 11.1%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  Changeup: 3
+  Curveball: 1
+
+=== TOP OPPOSING BATTERS ===
+  lile, daylen: 14 pitches, 0 hits, 1 K, 0 BB, avg EV 72.4
+  crews, dylan: 13 pitches, 0 hits, 2 K, 0 BB, avg EV 78.5
+  abrams, cj: 11 pitches, 0 hits, 0 K, 2 BB, avg EV 84.8
+  tena, josé: 9 pitches, 0 hits, 1 K, 0 BB, avg EV 62.4
+  garcía, luis: 7 pitches, 2 hits, 0 K, 0 BB, avg EV 84.3
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 29
+Avg EV: 76.9 mph
+Avg LA: 32.9
+Hard hit (95+): 1/29 (3%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.7 -> 93.0 mph (-1.7)
+  Changeup: 84.8 -> 83.7 mph (-1.1)
+  Curveball: 75.3 -> 74.9 mph (-0.4)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.0in V=1.2in Total=1.5in Tight
+  Changeup: H=0.6in V=0.9in Total=1.1in Tight
+  Curveball: H=0.8in V=1.6in Total=1.8in Tight
+  Slider: H=1.1in V=1.4in Total=1.8in Tight
+  Cutter: H=0.9in V=1.0in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/Curveball: RelSim=1.1in PlateSep=29.3in Tunnel=26.2 (GREEN) VeloGap=18.8mph
+  Changeup/Slider: RelSim=0.6in PlateSep=16.6in Tunnel=25.8 (GREEN) VeloGap=2.5mph
+  Changeup/Cutter: RelSim=1.5in PlateSep=15.5in Tunnel=10.5 (GREEN) VeloGap=5.5mph
+  4-Seam/Cutter: RelSim=2.0in PlateSep=13.1in Tunnel=6.5 (GREEN) VeloGap=3.9mph
+  Changeup/Curveball: RelSim=4.5in PlateSep=26.2in Tunnel=5.8 (GREEN) VeloGap=9.4mph
+  4-Seam/Slider: RelSim=3.0in PlateSep=16.4in Tunnel=5.5 (GREEN) VeloGap=6.9mph
+  Curveball/Cutter: RelSim=3.1in PlateSep=16.4in Tunnel=5.3 (GREEN) VeloGap=14.9mph
+  4-Seam/Changeup: RelSim=3.4in PlateSep=13.5in Tunnel=4.0 (GREEN) VeloGap=9.4mph
+  Slider/Cutter: RelSim=1.0in PlateSep=3.6in Tunnel=3.7 (GREEN) VeloGap=3.0mph
+  Curveball/Slider: RelSim=4.1in PlateSep=12.9in Tunnel=3.2 (GREEN) VeloGap=11.9mph
+Best Tunnel: 4-Seam/Curveball (score: 26.2)
+
+=== GAME SCORE ===
+Game Score: 48
+K: 1 H: 0 HR: 0 BB/HBP: 3
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Loáisiga, Jonathan — double (WP 123.9%)
+  UP Inn 9: Duran, Jhoan — single (WP 254.5%)
+  UP Inn 2: Kirby, George — home_run (WP 105.2%)
+  DOWN Inn 6: Suarez, José — home_run (WP 157.2%)
+  DOWN Inn 9: Bachman, Sam — hit_by_pitch (WP 326.3%)
+  DOWN Inn 6: Zuber, Tyler — single (WP 268.8%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 20
+Hits: 7 (35%)
+Pull: 3 Center: 17 Oppo: 0
+
+=== PITCH RUN VALUE ===
+  4-Seam: 1.258 total (0.0393 per pitch, 32 pitches)
+  Changeup: -1.383 total (-0.0659 per pitch, 21 pitches)
+  Curveball: -0.411 total (-0.0514 per pitch, 8 pitches)
+  Slider: 1.5 total (0.1875 per pitch, 8 pitches)
+  Cutter: -0.195 total (-0.0325 per pitch, 6 pitches)
+Most Effective: Changeup
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 15 pitches
+  K-Curve: 6 (40.0%) velo=88.3 whiff=50.0% csw=16.7% grade=A
+  4-Seam: 5 (33.3%) velo=100.2 whiff=20.0% csw=20.0% grade=B
+  Changeup: 4 (26.7%) velo=92.7 whiff=50.0% csw=50.0% grade=A
+  Line: 2K / 1BB / 1H / 0HR
+
+Hoffman, Jeff — 15 pitches
+  Slider: 12 (80.0%) velo=85.1 whiff=77.8% csw=58.3% grade=A
+  Splitter: 2 (13.3%) velo=88.2 whiff=100.0% csw=50.0% grade=A
+  4-Seam: 1 (6.7%) velo=96.6 whiff=0% csw=100.0% grade=D
+  Line: 3K / 0BB / 1H / 0HR
+
+Rogers, Tyler — 8 pitches
+  Sinker: 8 (100.0%) velo=84.6 whiff=40.0% csw=62.5% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+Miles, Spencer — 15 pitches
+  Sinker: 10 (66.7%) velo=96.8 whiff=0.0% csw=20.0% grade=D
+  Curveball: 4 (26.7%) velo=79.8 whiff=0.0% csw=25.0% grade=D
+  4-Seam: 1 (6.7%) velo=96.9 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 0HR
+
+Macko, Adam — 7 pitches
+  Slider: 5 (71.4%) velo=84.6 whiff=50.0% csw=40.0% grade=A
+  4-Seam: 2 (28.6%) velo=93.2 whiff=0.0% csw=50.0% grade=D
+  Line: 1K / 0BB / 1H / 1HR
+
+Fluharty, Mason — 17 pitches
+  Sweeper: 11 (64.7%) velo=82.6 whiff=20.0% csw=36.4% grade=B
+  Cutter: 6 (35.3%) velo=90.9 whiff=50.0% csw=50.0% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-27.png
+  zone_2026-07-27.png
+  batted_balls_2026-07-27.png
+  velocity_2026-07-27.png
+  release_2026-07-27.png
+  gamescore_2026-07-27.png
+  wpa_2026-07-27.png
+  spray_2026-07-27.png
+  runvalue_2026-07-27.png

@@ -1,0 +1,169 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-17
+Opponent: CWS
+Result: L 4-12
+Starter: Miles, Spencer
+Spotlight: None
+Season Record: 45-50
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4265
+Blue Jays pitching data: 162 pitches
+Blue Jays batting data: 175 pitches
+Miles, Spencer: 60 pitches
+
+=== All Blue Jays pitchers ===
+  Van Eyk, CJ: 37 pitches
+  Fisher, Braydon: 6 pitches
+  Corbin, Patrick: 33 pitches
+  Macko, Adam: 26 pitches
+  Miles, Spencer: 60 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Sinker         31   51.7%   95.9   17.6%   29.0%    22.2%       C
+Curveball      17   28.3%   80.8    0.0%   17.6%     9.1%       D
+4-Seam          9   15.0%   96.1   33.3%   44.4%    66.7%       A
+Slider          3    5.0%   86.5    0.0%   33.3%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Sinker: H=-15.0 V=8.5 (31 pitches)
+  Curveball: H=15.4 V=-11.5 (17 pitches)
+  4-Seam: H=-6.1 V=14.5 (9 pitches)
+  Slider: H=5.1 V=0.8 (3 pitches)
+
+=== vs LHB/RHB ===
+  L: 46 pitches, avg velo 90.8, 4 swinging strikes, whiff/pitch 8.7%
+  R: 14 pitches, avg velo 92.5, 1 swinging strikes, whiff/pitch 7.1%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (18 pitches):
+    Sinker: 61.1%
+    Curveball: 22.2%
+    4-Seam: 11.1%
+    Slider: 5.6%
+  Ahead (16 pitches):
+    Sinker: 31.2%
+    Curveball: 31.2%
+    4-Seam: 31.2%
+    Slider: 6.2%
+  Behind (12 pitches):
+    Sinker: 66.7%
+    Curveball: 16.7%
+    4-Seam: 16.7%
+  Even (11 pitches):
+    Sinker: 54.5%
+    Curveball: 36.4%
+    Slider: 9.1%
+  Full count (3-2) (3 pitches):
+    Curveball: 66.7%
+    Sinker: 33.3%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  Curveball: 2
+  Sinker: 1
+  4-Seam: 1
+
+=== TOP OPPOSING BATTERS ===
+  meidroth, chase: 10 pitches, 2 hits, 0 K, 0 BB, avg EV 78.2
+  benintendi, andrew: 9 pitches, 1 hits, 1 K, 0 BB, avg EV 73.8
+  antonacci, sam: 8 pitches, 1 hits, 0 K, 0 BB, avg EV 89.0
+  murakami, munetaka: 8 pitches, 0 hits, 1 K, 0 BB, avg EV 80.9
+  peters, tristan: 7 pitches, 0 hits, 0 K, 0 BB, avg EV 83.2
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 23
+Avg EV: 79.2 mph
+Avg LA: 6.2
+Hard hit (95+): 3/23 (13%)
+
+=== VELOCITY TREND ===
+  Sinker: 96.0 -> 96.1 mph (+0.1)
+  Curveball: 81.6 -> 81.1 mph (-0.4)
+  4-Seam: 98.3 -> 96.0 mph (-2.3)
+
+=== RELEASE POINT SPREAD ===
+  Sinker: H=1.0in V=0.7in Total=1.2in Tight
+  Curveball: H=0.8in V=0.7in Total=1.1in Tight
+  4-Seam: H=0.8in V=0.4in Total=0.9in Tight
+  Slider: H=0.7in V=0.9in Total=1.2in Tight
+
+=== TUNNELING ANALYSIS ===
+  Sinker/4-Seam: RelSim=0.1in PlateSep=10.8in Tunnel=85.4 (GREEN) VeloGap=0.2mph
+  Curveball/Slider: RelSim=0.5in PlateSep=16.0in Tunnel=34.8 (GREEN) VeloGap=5.6mph
+  Sinker/Curveball: RelSim=2.2in PlateSep=36.4in Tunnel=16.2 (GREEN) VeloGap=15.0mph
+  Curveball/4-Seam: RelSim=2.3in PlateSep=33.8in Tunnel=14.8 (GREEN) VeloGap=15.2mph
+  Sinker/Slider: RelSim=1.8in PlateSep=21.5in Tunnel=12.1 (GREEN) VeloGap=9.4mph
+  4-Seam/Slider: RelSim=1.8in PlateSep=17.7in Tunnel=9.7 (GREEN) VeloGap=9.6mph
+Best Tunnel: Sinker/4-Seam (score: 85.4)
+
+=== GAME SCORE ===
+Game Score: 52
+K: 2 H: 2 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 10: Hart, Kyle — single (WP -35.6%)
+  UP Inn 10: Bachar, Lake — single (WP -39.5%)
+  UP Inn 8: Gastelum, Luis — home_run (WP -3.0%)
+  DOWN Inn 9: Yates, Kirby — double (WP -119.9%)
+  DOWN Inn 9: Lange, Alex — home_run (WP -82.3%)
+  DOWN Inn 8: King, Bryan — home_run (WP -95.1%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 32
+Hits: 12 (38%)
+Pull: 9 Center: 19 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  Sinker: -0.547 total (-0.0176 per pitch, 31 pitches)
+  Curveball: 0.639 total (0.0376 per pitch, 17 pitches)
+  4-Seam: 2.062 total (0.2291 per pitch, 9 pitches)
+  Slider: -0.301 total (-0.1003 per pitch, 3 pitches)
+Most Effective: Sinker
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Van Eyk, CJ — 37 pitches
+  Changeup: 10 (27.0%) velo=84.2 whiff=0.0% csw=20.0% grade=D
+  Curveball: 9 (24.3%) velo=82.2 whiff=50.0% csw=22.2% grade=A
+  4-Seam: 8 (21.6%) velo=93.6 whiff=33.3% csw=37.5% grade=A
+  Cutter: 5 (13.5%) velo=87.6 whiff=0.0% csw=0.0% grade=D
+  Sinker: 4 (10.8%) velo=92.6 whiff=0% csw=50.0% grade=D
+  Sweeper: 1 (2.7%) velo=82.3 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 1BB / 1H / 0HR
+
+Fisher, Braydon — 6 pitches
+  Slider: 4 (66.7%) velo=87.8 whiff=33.3% csw=50.0% grade=A
+  Curveball: 2 (33.3%) velo=81.6 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 0HR
+
+Corbin, Patrick — 33 pitches
+  Slider: 14 (42.4%) velo=79.2 whiff=33.3% csw=21.4% grade=A
+  Sinker: 10 (30.3%) velo=91.0 whiff=0.0% csw=10.0% grade=D
+  4-Seam: 4 (12.1%) velo=90.7 whiff=0.0% csw=25.0% grade=D
+  Changeup: 3 (9.1%) velo=77.3 whiff=0.0% csw=0.0% grade=D
+  Cutter: 2 (6.1%) velo=85.8 whiff=100.0% csw=100.0% grade=A
+  Line: 1K / 1BB / 2H / 0HR
+
+Macko, Adam — 26 pitches
+  Changeup: 7 (26.9%) velo=81.4 whiff=50.0% csw=28.6% grade=A
+  4-Seam: 7 (26.9%) velo=93.3 whiff=33.3% csw=28.6% grade=A
+  Slider: 7 (26.9%) velo=83.8 whiff=33.3% csw=28.6% grade=A
+  K-Curve: 1 (3.8%) velo=72.9 whiff=0% csw=0.0% grade=D
+  Line: 2K / 1BB / 2H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-17.png
+  zone_2026-07-17.png
+  batted_balls_2026-07-17.png
+  velocity_2026-07-17.png
+  release_2026-07-17.png
+  gamescore_2026-07-17.png
+  wpa_2026-07-17.png
+  spray_2026-07-17.png
+  runvalue_2026-07-17.png

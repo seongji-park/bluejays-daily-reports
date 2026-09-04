@@ -1,0 +1,174 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-28
+Opponent: WSH
+Result: L 6-8
+Starter: Bieber, Shane
+Spotlight: None
+Season Record: 49-57
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4600
+Blue Jays pitching data: 173 pitches
+Blue Jays batting data: 153 pitches
+Bieber, Shane: 42 pitches
+
+=== All Blue Jays pitchers ===
+  Hoffman, Jeff: 16 pitches
+  Van Eyk, CJ: 69 pitches
+  Fluharty, Mason: 19 pitches
+  Little, Brendon: 27 pitches
+  Bieber, Shane: 42 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         14   33.3%   92.1    0.0%   35.7%     0.0%       D
+Cutter          8   19.0%   86.3    0.0%    0.0%    25.0%       D
+Changeup        8   19.0%   88.0    0.0%   25.0%     0.0%       D
+K-Curve         7   16.7%   82.5    0.0%   14.3%     0.0%       D
+Slider          4    9.5%   84.8    0.0%    0.0%     0.0%       D
+Sinker          1    2.4%   91.8    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-10.8 V=16.6 (14 pitches)
+  Cutter: H=2.4 V=5.5 (8 pitches)
+  Changeup: H=-9.0 V=-0.2 (8 pitches)
+  K-Curve: H=6.7 V=-10.3 (7 pitches)
+  Slider: H=1.5 V=-3.6 (4 pitches)
+
+=== vs LHB/RHB ===
+  L: 31 pitches, avg velo 87.7, 0 swinging strikes, whiff/pitch 0.0%
+  R: 11 pitches, avg velo 88.5, 0 swinging strikes, whiff/pitch 0.0%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (9 pitches):
+    Cutter: 33.3%
+    K-Curve: 22.2%
+    Changeup: 22.2%
+    4-Seam: 22.2%
+  Ahead (5 pitches):
+    Changeup: 60.0%
+    Slider: 20.0%
+    K-Curve: 20.0%
+  Behind (20 pitches):
+    4-Seam: 50.0%
+    Cutter: 25.0%
+    K-Curve: 15.0%
+    Sinker: 5.0%
+    Changeup: 5.0%
+  Even (5 pitches):
+    Changeup: 40.0%
+    4-Seam: 20.0%
+    Slider: 20.0%
+    K-Curve: 20.0%
+  Full count (3-2) (3 pitches):
+    Slider: 66.7%
+    4-Seam: 33.3%
+
+=== STRIKEOUT PITCHES (0 K's) ===
+
+=== TOP OPPOSING BATTERS ===
+  wood, james: 6 pitches, 0 hits, 0 K, 1 BB, avg EV <NA>
+  lile, daylen: 6 pitches, 0 hits, 0 K, 1 BB, avg EV 72.0
+  young, jacob: 6 pitches, 0 hits, 0 K, 1 BB, avg EV <NA>
+  vivas, jorbit: 5 pitches, 0 hits, 0 K, 1 BB, avg EV 70.7
+  nuñez, nasim: 5 pitches, 0 hits, 0 K, 0 BB, avg EV 88.8
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 7
+Avg EV: 71.5 mph
+Avg LA: 26.7
+Hard hit (95+): 0/7 (0%)
+
+=== VELOCITY TREND ===
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.6in V=0.3in Total=1.6in Tight
+  Cutter: H=1.1in V=0.5in Total=1.2in Tight
+  Changeup: H=0.8in V=0.5in Total=0.9in Tight
+  K-Curve: H=1.4in V=0.8in Total=1.6in Tight
+  Slider: H=0.8in V=0.2in Total=0.9in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=0.1in PlateSep=32.0in Tunnel=319.9 (GREEN) VeloGap=9.7mph
+  4-Seam/Slider: RelSim=0.6in PlateSep=23.6in Tunnel=42.1 (GREEN) VeloGap=7.3mph
+  4-Seam/Cutter: RelSim=0.7in PlateSep=17.2in Tunnel=25.4 (GREEN) VeloGap=5.8mph
+  Cutter/K-Curve: RelSim=0.7in PlateSep=16.3in Tunnel=24.0 (GREEN) VeloGap=3.9mph
+  K-Curve/Slider: RelSim=0.6in PlateSep=8.4in Tunnel=13.0 (GREEN) VeloGap=2.4mph
+  Cutter/Changeup: RelSim=1.2in PlateSep=12.8in Tunnel=10.8 (GREEN) VeloGap=1.7mph
+  Changeup/K-Curve: RelSim=1.8in PlateSep=18.7in Tunnel=10.5 (GREEN) VeloGap=5.6mph
+  4-Seam/Changeup: RelSim=1.7in PlateSep=16.8in Tunnel=9.7 (GREEN) VeloGap=4.1mph
+  Cutter/Slider: RelSim=1.0in PlateSep=9.1in Tunnel=8.8 (GREEN) VeloGap=1.5mph
+  Changeup/Slider: RelSim=1.8in PlateSep=11.1in Tunnel=6.2 (GREEN) VeloGap=3.2mph
+Best Tunnel: 4-Seam/K-Curve (score: 319.9)
+
+=== GAME SCORE ===
+Game Score: 38
+K: 4 H: 0 HR: 0 BB/HBP: 6
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Lange, Alex — triple (WP 25.2%)
+  UP Inn 9: Sewald, Paul — home_run (WP 76.8%)
+  UP Inn 9: Muñoz, Andrés — double (WP 125.7%)
+  DOWN Inn 9: Farris, Mitch — single (WP 107.8%)
+  DOWN Inn 8: Vesia, Alex — home_run (WP 154.2%)
+  DOWN Inn 1: Burns, Chase — home_run (WP 156.3%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 26
+Hits: 8 (31%)
+Pull: 8 Center: 15 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.195 total (0.0139 per pitch, 14 pitches)
+  Cutter: 0.965 total (0.1206 per pitch, 8 pitches)
+  Changeup: -0.084 total (-0.0105 per pitch, 8 pitches)
+  K-Curve: -0.034 total (-0.0049 per pitch, 7 pitches)
+  Slider: 0.76 total (0.19 per pitch, 4 pitches)
+  Sinker: 0.074 total (0.074 per pitch, 1 pitches)
+Most Effective: Changeup
+Least Effective: Cutter
+
+=== BULLPEN DETAILED ===
+Hoffman, Jeff — 16 pitches
+  Slider: 8 (50.0%) velo=84.9 whiff=66.7% csw=50.0% grade=A
+  Splitter: 4 (25.0%) velo=88.3 whiff=50.0% csw=25.0% grade=A
+  4-Seam: 4 (25.0%) velo=94.8 whiff=0.0% csw=25.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Van Eyk, CJ — 69 pitches
+  Curveball: 17 (24.6%) velo=81.0 whiff=0.0% csw=23.5% grade=D
+  Changeup: 16 (23.2%) velo=83.5 whiff=22.2% csw=12.5% grade=B
+  Cutter: 15 (21.7%) velo=89.7 whiff=0.0% csw=13.3% grade=D
+  Sinker: 13 (18.8%) velo=92.7 whiff=20.0% csw=15.4% grade=B
+  Sweeper: 5 (7.2%) velo=81.9 whiff=0.0% csw=20.0% grade=D
+  4-Seam: 3 (4.3%) velo=94.3 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 1BB / 6H / 1HR
+
+Fluharty, Mason — 19 pitches
+  Sweeper: 8 (42.1%) velo=82.9 whiff=25.0% csw=25.0% grade=B
+  Cutter: 8 (42.1%) velo=90.8 whiff=20.0% csw=12.5% grade=B
+  Changeup: 3 (15.8%) velo=87.8 whiff=50.0% csw=33.3% grade=A
+  Line: 1K / 1BB / 1H / 1HR
+
+Little, Brendon — 27 pitches
+  K-Curve: 11 (40.7%) velo=86.8 whiff=60.0% csw=27.3% grade=A
+  Slider: 8 (29.6%) velo=89.5 whiff=66.7% csw=75.0% grade=A
+  Sinker: 6 (22.2%) velo=95.0 whiff=0.0% csw=66.7% grade=D
+  4-Seam: 2 (7.4%) velo=95.4 whiff=0.0% csw=0.0% grade=D
+  Line: 4K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-28.png
+  zone_2026-07-28.png
+  batted_balls_2026-07-28.png
+  velocity_2026-07-28.png
+  release_2026-07-28.png
+  gamescore_2026-07-28.png
+  wpa_2026-07-28.png
+  spray_2026-07-28.png
+  runvalue_2026-07-28.png

@@ -1,0 +1,190 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-08
+Opponent: PHI
+Result: W 7-5
+Starter: Scherzer, Max
+Spotlight: None
+Season Record: 55-61
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4543
+Blue Jays pitching data: 179 pitches
+Blue Jays batting data: 208 pitches
+Scherzer, Max: 84 pitches
+
+=== All Blue Jays pitchers ===
+  Estrada, Lazaro: 9 pitches
+  Varland, Louis: 32 pitches
+  Fisher, Braydon: 19 pitches
+  Waldron, Matt: 21 pitches
+  Miles, Spencer: 14 pitches
+  Scherzer, Max: 84 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         37   44.0%   94.2   15.8%   27.0%    26.7%       C
+Slider         14   16.7%   84.8   22.2%   28.6%    50.0%       B
+Curveball      12   14.3%   74.4   16.7%   16.7%    44.4%       C
+Cutter         11   13.1%   88.7   25.0%   18.2%    62.5%       B
+Changeup       10   11.9%   84.6    0.0%   10.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-9.3 V=16.0 (37 pitches)
+  Slider: H=4.7 V=1.7 (14 pitches)
+  Curveball: H=13.5 V=-8.4 (12 pitches)
+  Cutter: H=2.8 V=7.8 (11 pitches)
+  Changeup: H=-15.0 V=4.4 (10 pitches)
+
+=== vs LHB/RHB ===
+  L: 57 pitches, avg velo 88.3, 5 swinging strikes, whiff/pitch 8.8%
+  R: 27 pitches, avg velo 87.2, 3 swinging strikes, whiff/pitch 11.1%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (21 pitches):
+    4-Seam: 57.1%
+    Cutter: 14.3%
+    Slider: 14.3%
+    Curveball: 9.5%
+    Changeup: 4.8%
+  Ahead (23 pitches):
+    4-Seam: 39.1%
+    Slider: 26.1%
+    Curveball: 21.7%
+    Changeup: 8.7%
+    Cutter: 4.3%
+  Behind (18 pitches):
+    4-Seam: 50.0%
+    Changeup: 16.7%
+    Cutter: 11.1%
+    Curveball: 11.1%
+    Slider: 11.1%
+  Even (18 pitches):
+    4-Seam: 27.8%
+    Cutter: 22.2%
+    Changeup: 22.2%
+    Slider: 16.7%
+    Curveball: 11.1%
+  Full count (3-2) (4 pitches):
+    4-Seam: 50.0%
+    Cutter: 25.0%
+    Curveball: 25.0%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  Slider: 2
+  4-Seam: 1
+  Curveball: 1
+
+=== TOP OPPOSING BATTERS ===
+  de la cruz, bryan: 16 pitches, 0 hits, 1 K, 0 BB, avg EV 68.9
+  harper, bryce: 12 pitches, 1 hits, 1 K, 0 BB, avg EV 90.9
+  turner, trea: 11 pitches, 2 hits, 0 K, 0 BB, avg EV 72.4
+  stubbs, garrett: 10 pitches, 0 hits, 1 K, 0 BB, avg EV 66.1
+  schwarber, kyle: 10 pitches, 1 hits, 1 K, 0 BB, avg EV 70.0
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 38
+Avg EV: 77.6 mph
+Avg LA: 21.1
+Hard hit (95+): 5/38 (13%)
+
+=== VELOCITY TREND ===
+  4-Seam: 93.7 -> 94.8 mph (+1.1)
+  Slider: 86.3 -> 85.8 mph (-0.5)
+  Curveball: 75.7 -> 74.0 mph (-1.7)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.9in V=1.7in Total=2.0in Tight
+  Slider: H=1.1in V=1.2in Total=1.6in Tight
+  Curveball: H=0.8in V=1.1in Total=1.4in Tight
+  Cutter: H=0.6in V=1.2in Total=1.4in Tight
+  Changeup: H=0.7in V=1.3in Total=1.5in Tight
+
+=== TUNNELING ANALYSIS ===
+  Cutter/Changeup: RelSim=0.5in PlateSep=18.1in Tunnel=37.8 (GREEN) VeloGap=4.1mph
+  Slider/Changeup: RelSim=0.6in PlateSep=19.8in Tunnel=34.3 (GREEN) VeloGap=0.2mph
+  4-Seam/Curveball: RelSim=2.3in PlateSep=33.4in Tunnel=14.3 (GREEN) VeloGap=19.7mph
+  Slider/Cutter: RelSim=0.9in PlateSep=6.3in Tunnel=7.3 (GREEN) VeloGap=3.9mph
+  4-Seam/Slider: RelSim=3.2in PlateSep=20.0in Tunnel=6.3 (GREEN) VeloGap=9.4mph
+  4-Seam/Cutter: RelSim=2.4in PlateSep=14.7in Tunnel=6.2 (GREEN) VeloGap=5.5mph
+  Curveball/Changeup: RelSim=5.2in PlateSep=31.2in Tunnel=6.1 (GREEN) VeloGap=10.2mph
+  4-Seam/Changeup: RelSim=2.8in PlateSep=12.9in Tunnel=4.6 (GREEN) VeloGap=9.6mph
+  Curveball/Cutter: RelSim=4.7in PlateSep=19.4in Tunnel=4.1 (GREEN) VeloGap=14.3mph
+  Slider/Curveball: RelSim=5.5in PlateSep=13.4in Tunnel=2.4 (YELLOW) VeloGap=10.4mph
+Best Tunnel: Cutter/Changeup (score: 37.8)
+
+=== GAME SCORE ===
+Game Score: 53
+K: 0 H: 3 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Díaz, Edwin — triple (WP 154.0%)
+  UP Inn 9: Díaz, Edwin — triple (WP 119.1%)
+  UP Inn 6: Holderman, Colin — double (WP 141.9%)
+  DOWN Inn 11: Shugart, Chase — home_run (WP 22.4%)
+  DOWN Inn 8: Alvarado, José — double (WP 43.1%)
+  DOWN Inn 10: Dreyer, Jack — grounded_into_double_play (WP 136.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 35
+Hits: 9 (26%)
+Pull: 8 Center: 20 Oppo: 7
+
+=== PITCH RUN VALUE ===
+  4-Seam: -1.901 total (-0.0514 per pitch, 37 pitches)
+  Slider: 1.237 total (0.0884 per pitch, 14 pitches)
+  Curveball: 0.219 total (0.0182 per pitch, 12 pitches)
+  Cutter: 1.097 total (0.0997 per pitch, 11 pitches)
+  Changeup: -0.47 total (-0.047 per pitch, 10 pitches)
+Most Effective: 4-Seam
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Estrada, Lazaro — 9 pitches
+  Cutter: 4 (44.4%) velo=86.7 whiff=50.0% csw=50.0% grade=A
+  Curveball: 4 (44.4%) velo=76.0 whiff=0.0% csw=25.0% grade=D
+  4-Seam: 1 (11.1%) velo=91.7 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Varland, Louis — 32 pitches
+  Changeup: 11 (34.4%) velo=93.7 whiff=16.7% csw=18.2% grade=C
+  4-Seam: 10 (31.2%) velo=99.8 whiff=40.0% csw=30.0% grade=A
+  K-Curve: 7 (21.9%) velo=88.1 whiff=0.0% csw=0.0% grade=D
+  Slider: 4 (12.5%) velo=93.7 whiff=0.0% csw=25.0% grade=D
+  Line: 1K / 1BB / 0H / 0HR
+
+Fisher, Braydon — 19 pitches
+  Slider: 11 (57.9%) velo=87.1 whiff=50.0% csw=36.4% grade=A
+  4-Seam: 5 (26.3%) velo=93.2 whiff=0% csw=20.0% grade=D
+  Curveball: 3 (15.8%) velo=81.2 whiff=0.0% csw=33.3% grade=D
+  Line: 1K / 1BB / 1H / 0HR
+
+Waldron, Matt — 21 pitches
+  Knuckle: 9 (42.9%) velo=79.9 whiff=50.0% csw=33.3% grade=A
+  4-Seam: 5 (23.8%) velo=92.1 whiff=0.0% csw=0.0% grade=D
+  Cutter: 4 (19.0%) velo=88.0 whiff=0% csw=75.0% grade=D
+  Sweeper: 2 (9.5%) velo=80.2 whiff=0.0% csw=0.0% grade=D
+  Sinker: 1 (4.8%) velo=91.2 whiff=0% csw=0.0% grade=D
+  Line: 0K / 1BB / 0H / 0HR
+
+Miles, Spencer — 14 pitches
+  Sinker: 6 (42.9%) velo=96.8 whiff=0.0% csw=16.7% grade=D
+  Curveball: 4 (28.6%) velo=80.4 whiff=0.0% csw=25.0% grade=D
+  Slider: 3 (21.4%) velo=88.5 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 1 (7.1%) velo=95.6 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 3H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-08.png
+  zone_2026-08-08.png
+  batted_balls_2026-08-08.png
+  velocity_2026-08-08.png
+  release_2026-08-08.png
+  gamescore_2026-08-08.png
+  wpa_2026-08-08.png
+  spray_2026-08-08.png
+  runvalue_2026-08-08.png

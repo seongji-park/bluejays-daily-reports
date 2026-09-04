@@ -1,0 +1,180 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-03
+Opponent: HOU
+Result: W 3-1
+Starter: Bieber, Shane
+Spotlight: None
+Season Record: 52-59
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 2356
+Blue Jays pitching data: 143 pitches
+Blue Jays batting data: 119 pitches
+Bieber, Shane: 87 pitches
+
+=== All Blue Jays pitchers ===
+  Rogers, Tyler: 12 pitches
+  Little, Brendon: 21 pitches
+  Fisher, Braydon: 23 pitches
+  Bieber, Shane: 87 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         23   26.4%   92.5    0.0%   17.4%     0.0%       D
+K-Curve        22   25.3%   82.4   23.1%   31.8%    50.0%       B
+Slider         16   18.4%   85.1   50.0%   37.5%    38.5%       A
+Cutter         10   11.5%   87.4   12.5%   10.0%    50.0%       C
+Changeup        9   10.3%   88.5    0.0%    0.0%    20.0%       D
+Sinker          7    8.0%   92.0    0.0%    0.0%    75.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-10.4 V=17.7 (23 pitches)
+  K-Curve: H=6.3 V=-12.3 (22 pitches)
+  Slider: H=1.0 V=-2.2 (16 pitches)
+  Cutter: H=1.2 V=7.8 (10 pitches)
+  Changeup: H=-10.4 V=1.2 (9 pitches)
+  Sinker: H=-15.4 V=11.9 (7 pitches)
+
+=== vs LHB/RHB ===
+  L: 34 pitches, avg velo 87.9, 1 swinging strikes, whiff/pitch 2.9%
+  R: 53 pitches, avg velo 87.4, 6 swinging strikes, whiff/pitch 11.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (28 pitches):
+    4-Seam: 28.6%
+    K-Curve: 25.0%
+    Cutter: 21.4%
+    Slider: 10.7%
+    Sinker: 7.1%
+    Changeup: 7.1%
+  Ahead (23 pitches):
+    Slider: 26.1%
+    4-Seam: 26.1%
+    K-Curve: 21.7%
+    Sinker: 8.7%
+    Cutter: 8.7%
+    Changeup: 8.7%
+  Behind (18 pitches):
+    K-Curve: 22.2%
+    4-Seam: 22.2%
+    Changeup: 16.7%
+    Slider: 16.7%
+    Sinker: 11.1%
+    Cutter: 11.1%
+  Even (17 pitches):
+    K-Curve: 35.3%
+    4-Seam: 23.5%
+    Slider: 23.5%
+    Changeup: 11.8%
+    Sinker: 5.9%
+  Full count (3-2) (1 pitches):
+    4-Seam: 100.0%
+
+=== STRIKEOUT PITCHES (6 K's) ===
+  Slider: 4
+  K-Curve: 2
+
+=== TOP OPPOSING BATTERS ===
+  altuve, josé: 14 pitches, 1 hits, 0 K, 0 BB, avg EV 80.2
+  varsho, daulton: 13 pitches, 1 hits, 1 K, 0 BB, avg EV 90.3
+  trammell, taylor: 13 pitches, 0 hits, 1 K, 0 BB, avg EV 84.3
+  paredes, isaac: 13 pitches, 0 hits, 1 K, 1 BB, avg EV 83.1
+  peña, jeremy: 10 pitches, 1 hits, 1 K, 0 BB, avg EV 65.3
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 33
+Avg EV: 85.2 mph
+Avg LA: 10.5
+Hard hit (95+): 9/33 (27%)
+
+=== VELOCITY TREND ===
+  4-Seam: 92.8 -> 93.0 mph (+0.2)
+  K-Curve: 82.5 -> 82.4 mph (-0.1)
+  Slider: 85.3 -> 85.0 mph (-0.3)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.9in V=0.6in Total=1.1in Tight
+  K-Curve: H=0.6in V=0.5in Total=0.8in Tight
+  Slider: H=0.6in V=0.4in Total=0.7in Tight
+  Cutter: H=0.9in V=0.4in Total=1.0in Tight
+  Changeup: H=0.7in V=0.3in Total=0.8in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=0.2in PlateSep=34.4in Tunnel=162.2 (GREEN) VeloGap=10.1mph
+  Slider/Sinker: RelSim=0.4in PlateSep=21.7in Tunnel=51.1 (GREEN) VeloGap=7.0mph
+  K-Curve/Sinker: RelSim=1.1in PlateSep=32.6in Tunnel=30.1 (GREEN) VeloGap=9.6mph
+  Cutter/Sinker: RelSim=0.7in PlateSep=17.2in Tunnel=24.3 (GREEN) VeloGap=4.7mph
+  4-Seam/Slider: RelSim=1.0in PlateSep=22.9in Tunnel=22.6 (GREEN) VeloGap=7.5mph
+  K-Curve/Cutter: RelSim=1.3in PlateSep=20.7in Tunnel=16.5 (GREEN) VeloGap=4.9mph
+  K-Curve/Slider: RelSim=0.8in PlateSep=11.4in Tunnel=14.1 (GREEN) VeloGap=2.6mph
+  Changeup/Sinker: RelSim=0.9in PlateSep=11.9in Tunnel=12.6 (GREEN) VeloGap=3.5mph
+  4-Seam/Cutter: RelSim=1.4in PlateSep=15.3in Tunnel=11.3 (GREEN) VeloGap=5.2mph
+  K-Curve/Changeup: RelSim=2.0in PlateSep=21.5in Tunnel=10.7 (GREEN) VeloGap=6.1mph
+  Cutter/Changeup: RelSim=1.3in PlateSep=13.4in Tunnel=10.4 (GREEN) VeloGap=1.1mph
+  Slider/Cutter: RelSim=1.0in PlateSep=10.0in Tunnel=9.8 (GREEN) VeloGap=2.3mph
+  Slider/Changeup: RelSim=1.3in PlateSep=11.9in Tunnel=9.5 (GREEN) VeloGap=3.4mph
+  4-Seam/Changeup: RelSim=2.2in PlateSep=16.5in Tunnel=7.5 (GREEN) VeloGap=4.0mph
+  4-Seam/Sinker: RelSim=1.3in PlateSep=7.7in Tunnel=6.1 (GREEN) VeloGap=0.5mph
+Best Tunnel: 4-Seam/K-Curve (score: 162.2)
+
+=== GAME SCORE ===
+Game Score: 58
+K: 0 H: 1 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 7: Cosgrove, Tom — home_run (WP 126.5%)
+  UP Inn 7: Soriano, George — home_run (WP 182.1%)
+  UP Inn 4: King, Michael — home_run (WP 60.7%)
+  DOWN Inn 8: Chivilli, Angel — home_run (WP 198.0%)
+  DOWN Inn 3: Sproat, Brandon — double (WP 144.1%)
+  DOWN Inn 8: Yarbrough, Ryan — triple (WP 225.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 26
+Hits: 10 (38%)
+Pull: 4 Center: 19 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.053 total (0.0023 per pitch, 23 pitches)
+  K-Curve: 0.332 total (0.0151 per pitch, 22 pitches)
+  Slider: -0.507 total (-0.0317 per pitch, 16 pitches)
+  Cutter: -0.169 total (-0.0169 per pitch, 10 pitches)
+  Changeup: -0.342 total (-0.038 per pitch, 9 pitches)
+  Sinker: 0.48 total (0.0686 per pitch, 7 pitches)
+Most Effective: Slider
+Least Effective: Sinker
+
+=== BULLPEN DETAILED ===
+Rogers, Tyler — 12 pitches
+  Sinker: 8 (66.7%) velo=83.3 whiff=0.0% csw=0.0% grade=D
+  Slider: 4 (33.3%) velo=73.4 whiff=0% csw=25.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Little, Brendon — 21 pitches
+  K-Curve: 11 (52.4%) velo=87.0 whiff=71.4% csw=63.6% grade=A
+  Slider: 6 (28.6%) velo=90.6 whiff=66.7% csw=50.0% grade=A
+  Sinker: 3 (14.3%) velo=96.1 whiff=0% csw=0.0% grade=D
+  4-Seam: 1 (4.8%) velo=97.1 whiff=0% csw=0.0% grade=D
+  Line: 4K / 1BB / 0H / 0HR
+
+Fisher, Braydon — 23 pitches
+  Slider: 10 (43.5%) velo=87.3 whiff=20.0% csw=20.0% grade=B
+  Curveball: 8 (34.8%) velo=80.9 whiff=0.0% csw=12.5% grade=D
+  4-Seam: 1 (4.3%) velo=95.3 whiff=0% csw=0.0% grade=D
+  Line: 0K / 1BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-03.png
+  zone_2026-08-03.png
+  batted_balls_2026-08-03.png
+  velocity_2026-08-03.png
+  release_2026-08-03.png
+  gamescore_2026-08-03.png
+  wpa_2026-08-03.png
+  spray_2026-08-03.png
+  runvalue_2026-08-03.png

@@ -1,0 +1,139 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-05
+Opponent: SEA
+Result: L 0-4
+Starter: Yesavage, Trey
+Spotlight: None
+Season Record: 42-46
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4568
+Blue Jays pitching data: 134 pitches
+Blue Jays batting data: 114 pitches
+Yesavage, Trey: 96 pitches
+
+=== All Blue Jays pitchers ===
+  Fluharty, Mason: 32 pitches
+  Rogers, Tyler: 6 pitches
+  Yesavage, Trey: 96 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         48   50.0%   94.2   28.0%   33.3%    25.0%       B
+Splitter       26   27.1%   82.4   22.2%   19.2%    22.2%       B
+Slider         22   22.9%   86.5   12.5%   40.9%     0.0%       C
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-4.9 V=18.5 (48 pitches)
+  Splitter: H=-11.8 V=5.7 (26 pitches)
+  Slider: H=-3.9 V=5.2 (22 pitches)
+
+=== vs LHB/RHB ===
+  L: 69 pitches, avg velo 89.3, 8 swinging strikes, whiff/pitch 11.6%
+  R: 27 pitches, avg velo 89.1, 2 swinging strikes, whiff/pitch 7.4%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (24 pitches):
+    4-Seam: 45.8%
+    Slider: 33.3%
+    Splitter: 20.8%
+  Ahead (34 pitches):
+    Splitter: 44.1%
+    4-Seam: 38.2%
+    Slider: 17.6%
+  Behind (23 pitches):
+    4-Seam: 65.2%
+    Slider: 26.1%
+    Splitter: 8.7%
+  Even (12 pitches):
+    4-Seam: 50.0%
+    Splitter: 33.3%
+    Slider: 16.7%
+  Full count (3-2) (3 pitches):
+    4-Seam: 100.0%
+
+=== STRIKEOUT PITCHES (7 K's) ===
+  4-Seam: 5
+  Splitter: 1
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  crawford, j. p.: 15 pitches, 0 hits, 0 K, 2 BB, avg EV 87.6
+  raley, luke: 14 pitches, 1 hits, 1 K, 0 BB, avg EV 95.8
+  young, cole: 13 pitches, 0 hits, 0 K, 0 BB, avg EV 73.9
+  garver, mitch: 11 pitches, 1 hits, 1 K, 0 BB, avg EV 102.0
+  raleigh, cal: 10 pitches, 0 hits, 2 K, 0 BB, avg EV 82.4
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 27
+Avg EV: 82.3 mph
+Avg LA: 19.1
+Hard hit (95+): 4/27 (15%)
+
+=== VELOCITY TREND ===
+  4-Seam: 93.9 -> 94.4 mph (+0.4)
+  Splitter: 82.5 -> 81.9 mph (-0.6)
+  Slider: 86.6 -> 86.4 mph (-0.2)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.4in V=0.9in Total=1.7in Tight
+  Splitter: H=1.5in V=0.9in Total=1.7in Tight
+  Slider: H=1.1in V=0.8in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  Splitter/Slider: RelSim=0.7in PlateSep=7.9in Tunnel=12.0 (GREEN) VeloGap=4.0mph
+  4-Seam/Splitter: RelSim=1.5in PlateSep=14.6in Tunnel=9.5 (GREEN) VeloGap=11.8mph
+  4-Seam/Slider: RelSim=2.1in PlateSep=13.4in Tunnel=6.5 (GREEN) VeloGap=7.8mph
+Best Tunnel: Splitter/Slider (score: 12.0)
+
+=== GAME SCORE ===
+Game Score: 63
+K: 1 H: 0 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Smith, Dylan — home_run (WP 143.9%)
+  UP Inn 5: Fedde, Erick — home_run (WP 193.8%)
+  UP Inn 6: Svanson, Matt — fielders_choice (WP 218.9%)
+  DOWN Inn 6: Ferguson, Tyler — home_run (WP 229.5%)
+  DOWN Inn 7: Rodriguez, Eduardo — home_run (WP 164.7%)
+  DOWN Inn 3: Johnson, Ryan — home_run (WP 132.8%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 21
+Hits: 6 (29%)
+Pull: 8 Center: 10 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.712 total (0.0148 per pitch, 48 pitches)
+  Splitter: -0.344 total (-0.0132 per pitch, 26 pitches)
+  Slider: -1.336 total (-0.0607 per pitch, 22 pitches)
+Most Effective: Slider
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Fluharty, Mason — 32 pitches
+  Cutter: 20 (62.5%) velo=90.7 whiff=10.0% csw=25.0% grade=C
+  Sweeper: 10 (31.2%) velo=81.6 whiff=33.3% csw=30.0% grade=A
+  Changeup: 2 (6.2%) velo=88.4 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 3H / 0HR
+
+Rogers, Tyler — 6 pitches
+  Sinker: 5 (83.3%) velo=84.2 whiff=25.0% csw=40.0% grade=B
+  Slider: 1 (16.7%) velo=74.2 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-05.png
+  zone_2026-07-05.png
+  batted_balls_2026-07-05.png
+  velocity_2026-07-05.png
+  release_2026-07-05.png
+  gamescore_2026-07-05.png
+  wpa_2026-07-05.png
+  spray_2026-07-05.png
+  runvalue_2026-07-05.png

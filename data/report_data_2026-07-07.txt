@@ -1,0 +1,159 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-07
+Opponent: SF
+Result: W 9-3
+Starter: Miles, Spencer
+Spotlight: None
+Season Record: 42-48
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4803
+Blue Jays pitching data: 135 pitches
+Blue Jays batting data: 143 pitches
+Miles, Spencer: 55 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 19 pitches
+  Fluharty, Mason: 12 pitches
+  Hoffman, Jeff: 8 pitches
+  Corbin, Patrick: 41 pitches
+  Miles, Spencer: 55 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Sinker         29   52.7%   96.0    0.0%   24.1%    14.3%       D
+Curveball      15   27.3%   80.7    0.0%   20.0%     0.0%       D
+Slider          9   16.4%   87.0   33.3%   66.7%    33.3%       A
+4-Seam          2    3.6%   97.2    0.0%    0.0%    50.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Sinker: H=-15.4 V=8.1 (29 pitches)
+  Curveball: H=14.6 V=-8.5 (15 pitches)
+  Slider: H=4.4 V=1.3 (9 pitches)
+  4-Seam: H=-9.2 V=13.9 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 32 pitches, avg velo 90.2, 0 swinging strikes, whiff/pitch 0.0%
+  R: 23 pitches, avg velo 90.6, 1 swinging strikes, whiff/pitch 4.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (18 pitches):
+    Sinker: 50.0%
+    Curveball: 27.8%
+    Slider: 22.2%
+  Ahead (20 pitches):
+    Curveball: 40.0%
+    Sinker: 35.0%
+    Slider: 15.0%
+    4-Seam: 10.0%
+  Behind (10 pitches):
+    Sinker: 80.0%
+    Curveball: 10.0%
+    Slider: 10.0%
+  Even (6 pitches):
+    Sinker: 66.7%
+    Curveball: 16.7%
+    Slider: 16.7%
+  Full count (3-2) (1 pitches):
+    Sinker: 100.0%
+
+=== STRIKEOUT PITCHES (1 K's) ===
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  arráez, luis: 9 pitches, 1 hits, 0 K, 0 BB, avg EV 91.8
+  adames, willy: 8 pitches, 1 hits, 1 K, 0 BB, avg EV 85.1
+  ramos, heliot: 7 pitches, 1 hits, 0 K, 0 BB, avg EV 81.6
+  lee, jung hoo: 7 pitches, 0 hits, 0 K, 0 BB, avg EV 87.1
+  cavanaugh, drew: 6 pitches, 0 hits, 0 K, 0 BB, avg EV 81.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 21
+Avg EV: 84.8 mph
+Avg LA: 15.0
+Hard hit (95+): 5/21 (24%)
+
+=== VELOCITY TREND ===
+  Sinker: 96.4 -> 95.6 mph (-0.9)
+  Curveball: 80.8 -> 81.4 mph (+0.6)
+  Slider: 86.5 -> 86.4 mph (-0.1)
+
+=== RELEASE POINT SPREAD ===
+  Sinker: H=0.8in V=0.8in Total=1.1in Tight
+  Curveball: H=1.0in V=0.7in Total=1.2in Tight
+  Slider: H=0.9in V=0.5in Total=1.0in Tight
+
+=== TUNNELING ANALYSIS ===
+  Curveball/Slider: RelSim=0.5in PlateSep=14.2in Tunnel=26.0 (GREEN) VeloGap=6.3mph
+  Sinker/Curveball: RelSim=2.5in PlateSep=34.3in Tunnel=13.5 (GREEN) VeloGap=15.2mph
+  Sinker/Slider: RelSim=2.0in PlateSep=20.9in Tunnel=10.4 (GREEN) VeloGap=8.9mph
+Best Tunnel: Curveball/Slider (score: 26.0)
+
+=== GAME SCORE ===
+Game Score: 54
+K: 2 H: 2 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Speier, Gabe — home_run (WP 184.9%)
+  UP Inn 1: Lugo, Seth — single (WP 205.6%)
+  UP Inn 1: Gallen, Zac — home_run (WP 101.3%)
+  DOWN Inn 8: Dreyer, Jack — sac_bunt (WP 261.0%)
+  DOWN Inn 3: Seymour, Ian — home_run (WP 216.9%)
+  DOWN Inn 8: Faucher, Calvin — nan (WP 203.2%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 29
+Hits: 9 (31%)
+Pull: 5 Center: 17 Oppo: 7
+
+=== PITCH RUN VALUE ===
+  Sinker: -0.449 total (-0.0155 per pitch, 29 pitches)
+  Curveball: 1.109 total (0.0739 per pitch, 15 pitches)
+  Slider: -0.778 total (-0.0864 per pitch, 9 pitches)
+  4-Seam: 0.463 total (0.2315 per pitch, 2 pitches)
+Most Effective: Slider
+Least Effective: Curveball
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 19 pitches
+  K-Curve: 9 (47.4%) velo=87.6 whiff=40.0% csw=33.3% grade=A
+  4-Seam: 5 (26.3%) velo=98.1 whiff=33.3% csw=20.0% grade=A
+  Changeup: 3 (15.8%) velo=92.5 whiff=100.0% csw=33.3% grade=A
+  Slider: 2 (10.5%) velo=91.4 whiff=0.0% csw=50.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Fluharty, Mason — 12 pitches
+  Sweeper: 7 (58.3%) velo=83.7 whiff=50.0% csw=42.9% grade=A
+  Cutter: 4 (33.3%) velo=91.0 whiff=33.3% csw=50.0% grade=A
+  Changeup: 1 (8.3%) velo=88.2 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Hoffman, Jeff — 8 pitches
+  Slider: 5 (62.5%) velo=85.5 whiff=100.0% csw=60.0% grade=A
+  4-Seam: 3 (37.5%) velo=96.7 whiff=0.0% csw=33.3% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Corbin, Patrick — 41 pitches
+  Slider: 17 (41.5%) velo=79.5 whiff=57.1% csw=47.1% grade=A
+  Sinker: 8 (19.5%) velo=90.6 whiff=0.0% csw=12.5% grade=D
+  4-Seam: 7 (17.1%) velo=90.9 whiff=0.0% csw=28.6% grade=D
+  Changeup: 4 (9.8%) velo=78.6 whiff=0.0% csw=25.0% grade=D
+  Cutter: 3 (7.3%) velo=86.1 whiff=0.0% csw=0.0% grade=D
+  Curveball: 2 (4.9%) velo=71.4 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 2H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-07.png
+  zone_2026-07-07.png
+  batted_balls_2026-07-07.png
+  velocity_2026-07-07.png
+  release_2026-07-07.png
+  gamescore_2026-07-07.png
+  wpa_2026-07-07.png
+  spray_2026-07-07.png
+  runvalue_2026-07-07.png

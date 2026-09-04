@@ -1,0 +1,147 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-09-01
+Opponent: CLE
+Result: L 1-6
+Starter: Miles, Spencer
+Spotlight: None
+Season Record: 68-69
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4681
+Blue Jays pitching data: 141 pitches
+Blue Jays batting data: 124 pitches
+Miles, Spencer: 16 pitches
+
+=== All Blue Jays pitchers ===
+  Lorenzen, Michael: 20 pitches
+  Mantiply, Joe: 22 pitches
+  Arrighetti, Spencer: 62 pitches
+  Tiedemann, Ricky: 21 pitches
+  Miles, Spencer: 16 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Sinker         10   62.5%   98.8    0.0%   10.0%     0.0%       D
+Curveball       3   18.8%   82.1    0.0%   33.3%    50.0%       D
+4-Seam          2   12.5%   97.3    0.0%    0.0%     0.0%       D
+Slider          1    6.2%   86.2    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Sinker: H=-15.4 V=7.3 (10 pitches)
+  Curveball: H=12.8 V=-10.5 (3 pitches)
+  4-Seam: H=-9.9 V=13.0 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 13 pitches, avg velo 95.4, 0 swinging strikes, whiff/pitch 0.0%
+  R: 3 pitches, avg velo 91.8, 0 swinging strikes, whiff/pitch 0.0%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (4 pitches):
+    Sinker: 75.0%
+    Curveball: 25.0%
+  Ahead (8 pitches):
+    Sinker: 50.0%
+    4-Seam: 25.0%
+    Curveball: 12.5%
+    Slider: 12.5%
+  Behind (1 pitches):
+    Sinker: 100.0%
+  Even (3 pitches):
+    Sinker: 66.7%
+    Curveball: 33.3%
+
+=== STRIKEOUT PITCHES (0 K's) ===
+
+=== TOP OPPOSING BATTERS ===
+  delauter, chase: 6 pitches, 0 hits, 0 K, 0 BB, avg EV 85.5
+  kwan, steven: 4 pitches, 0 hits, 0 K, 0 BB, avg EV 76.8
+  ramírez, josé: 3 pitches, 1 hits, 0 K, 0 BB, avg EV 99.7
+  adell, jo: 3 pitches, 0 hits, 0 K, 0 BB, avg EV 82.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 10
+Avg EV: 84.6 mph
+Avg LA: 13.0
+Hard hit (95+): 2/10 (20%)
+
+=== VELOCITY TREND ===
+
+=== RELEASE POINT SPREAD ===
+  Sinker: H=0.5in V=0.8in Total=1.0in Tight
+  Curveball: H=0.3in V=0.5in Total=0.6in Tight
+
+=== TUNNELING ANALYSIS ===
+  Sinker/Curveball: RelSim=2.7in PlateSep=33.3in Tunnel=12.5 (GREEN) VeloGap=16.7mph
+Best Tunnel: Sinker/Curveball (score: 12.5)
+
+=== GAME SCORE ===
+Game Score: 52
+K: 0 H: 0 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Seymour, Carson — field_error (WP 208.8%)
+  UP Inn 6: Cole, Gerrit — triple (WP 217.1%)
+  UP Inn 7: De León, Luis — home_run (WP 106.8%)
+  DOWN Inn 6: Palencia, Daniel — home_run (WP 249.1%)
+  DOWN Inn 2: Skenes, Paul — home_run (WP 190.3%)
+  DOWN Inn 8: Weaver, Luke — single (WP 216.2%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 28
+Hits: 8 (29%)
+Pull: 5 Center: 20 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  Sinker: -0.216 total (-0.0216 per pitch, 10 pitches)
+  Curveball: -0.278 total (-0.0927 per pitch, 3 pitches)
+  4-Seam: 0.028 total (0.014 per pitch, 2 pitches)
+  Slider: 0.0 total (0.0 per pitch, 1 pitches)
+Most Effective: Curveball
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Lorenzen, Michael — 20 pitches
+  Changeup: 7 (35.0%) velo=85.1 whiff=0% csw=14.3% grade=D
+  4-Seam: 4 (20.0%) velo=93.8 whiff=0.0% csw=50.0% grade=D
+  Cutter: 3 (15.0%) velo=90.3 whiff=0.0% csw=0.0% grade=D
+  Curveball: 3 (15.0%) velo=82.9 whiff=0.0% csw=0.0% grade=D
+  Sinker: 2 (10.0%) velo=94.6 whiff=0.0% csw=0.0% grade=D
+  Slider: 1 (5.0%) velo=87.7 whiff=0% csw=0.0% grade=D
+  Line: 0K / 0BB / 2H / 1HR
+
+Mantiply, Joe — 22 pitches
+  Curveball: 9 (40.9%) velo=79.3 whiff=50.0% csw=44.4% grade=A
+  Sinker: 9 (40.9%) velo=87.8 whiff=0.0% csw=22.2% grade=D
+  Changeup: 4 (18.2%) velo=80.3 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 3H / 1HR
+
+Arrighetti, Spencer — 62 pitches
+  4-Seam: 20 (32.3%) velo=93.3 whiff=20.0% csw=30.0% grade=B
+  Curveball: 19 (30.6%) velo=76.7 whiff=20.0% csw=26.3% grade=B
+  Cutter: 9 (14.5%) velo=89.1 whiff=0.0% csw=11.1% grade=D
+  Sinker: 7 (11.3%) velo=93.0 whiff=33.3% csw=42.9% grade=A
+  Changeup: 4 (6.5%) velo=85.6 whiff=25.0% csw=25.0% grade=B
+  Sweeper: 3 (4.8%) velo=80.8 whiff=0% csw=33.3% grade=D
+  Line: 2K / 1BB / 2H / 1HR
+
+Tiedemann, Ricky — 21 pitches
+  Sweeper: 12 (57.1%) velo=83.9 whiff=33.3% csw=25.0% grade=A
+  4-Seam: 7 (33.3%) velo=95.2 whiff=0.0% csw=14.3% grade=D
+  Changeup: 2 (9.5%) velo=86.1 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 2BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-09-01.png
+  zone_2026-09-01.png
+  batted_balls_2026-09-01.png
+  velocity_2026-09-01.png
+  release_2026-09-01.png
+  gamescore_2026-09-01.png
+  wpa_2026-09-01.png
+  spray_2026-09-01.png
+  runvalue_2026-09-01.png

@@ -1,0 +1,177 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-04
+Opponent: SEA
+Result: L 0-11
+Starter: Bieber, Shane
+Spotlight: None
+Season Record: 42-45
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4438
+Blue Jays pitching data: 162 pitches
+Blue Jays batting data: 111 pitches
+Bieber, Shane: 89 pitches
+
+=== All Blue Jays pitchers ===
+  Straw, Myles: 10 pitches
+  Fisher, Braydon: 17 pitches
+  Nance, Tommy: 13 pitches
+  Macko, Adam: 33 pitches
+  Bieber, Shane: 89 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         35   39.3%   91.9    9.1%   25.7%    23.8%       D
+Changeup       27   30.3%   88.0   27.3%   25.9%    31.6%       B
+K-Curve        13   14.6%   82.5   40.0%   38.5%    33.3%       A
+Cutter          9   10.1%   87.1   20.0%   22.2%    25.0%       B
+Slider          5    5.6%   85.0   60.0%   60.0%   100.0%       A
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-11.4 V=17.1 (35 pitches)
+  Changeup: H=-14.7 V=2.2 (27 pitches)
+  K-Curve: H=4.9 V=-10.3 (13 pitches)
+  Cutter: H=-0.3 V=10.2 (9 pitches)
+  Slider: H=0.7 V=-1.7 (5 pitches)
+
+=== vs LHB/RHB ===
+  L: 71 pitches, avg velo 88.5, 7 swinging strikes, whiff/pitch 9.9%
+  R: 18 pitches, avg velo 88.5, 3 swinging strikes, whiff/pitch 16.7%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (21 pitches):
+    4-Seam: 38.1%
+    Changeup: 28.6%
+    Cutter: 19.0%
+    K-Curve: 9.5%
+    Slider: 4.8%
+  Ahead (14 pitches):
+    Changeup: 35.7%
+    Slider: 28.6%
+    K-Curve: 14.3%
+    4-Seam: 14.3%
+    Cutter: 7.1%
+  Behind (30 pitches):
+    4-Seam: 46.7%
+    Changeup: 30.0%
+    K-Curve: 13.3%
+    Cutter: 10.0%
+  Even (20 pitches):
+    4-Seam: 50.0%
+    Changeup: 25.0%
+    K-Curve: 20.0%
+    Cutter: 5.0%
+  Full count (3-2) (4 pitches):
+    Changeup: 50.0%
+    K-Curve: 25.0%
+    4-Seam: 25.0%
+
+=== STRIKEOUT PITCHES (3 K's) ===
+  Slider: 1
+  Changeup: 1
+  4-Seam: 1
+
+=== TOP OPPOSING BATTERS ===
+  crawford, j. p.: 13 pitches, 0 hits, 1 K, 1 BB, avg EV 100.7
+  arozarena, randy: 13 pitches, 2 hits, 0 K, 1 BB, avg EV 93.3
+  canzone, dominic: 11 pitches, 1 hits, 0 K, 1 BB, avg EV 90.6
+  raleigh, cal: 10 pitches, 0 hits, 0 K, 0 BB, avg EV 98.8
+  young, cole: 10 pitches, 1 hits, 1 K, 0 BB, avg EV 93.8
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 21
+Avg EV: 87.6 mph
+Avg LA: 15.4
+Hard hit (95+): 7/21 (33%)
+
+=== VELOCITY TREND ===
+  4-Seam: 92.2 -> 91.1 mph (-1.1)
+  Changeup: 88.1 -> 87.3 mph (-0.8)
+  K-Curve: 82.5 -> 82.7 mph (+0.2)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.9in V=0.5in Total=1.0in Tight
+  Changeup: H=0.6in V=0.5in Total=0.8in Tight
+  K-Curve: H=0.8in V=0.4in Total=0.9in Tight
+  Cutter: H=1.1in V=0.5in Total=1.2in Tight
+  Slider: H=0.4in V=0.4in Total=0.6in Tight
+
+=== TUNNELING ANALYSIS ===
+  Changeup/Cutter: RelSim=0.2in PlateSep=16.5in Tunnel=107.1 (GREEN) VeloGap=0.8mph
+  4-Seam/K-Curve: RelSim=0.4in PlateSep=31.9in Tunnel=76.8 (GREEN) VeloGap=9.4mph
+  Changeup/Slider: RelSim=0.4in PlateSep=15.9in Tunnel=43.6 (GREEN) VeloGap=2.9mph
+  Cutter/Slider: RelSim=0.5in PlateSep=12.0in Tunnel=23.7 (GREEN) VeloGap=2.1mph
+  Changeup/K-Curve: RelSim=1.4in PlateSep=23.3in Tunnel=16.2 (GREEN) VeloGap=5.4mph
+  4-Seam/Slider: RelSim=1.4in PlateSep=22.3in Tunnel=15.6 (GREEN) VeloGap=6.9mph
+  K-Curve/Cutter: RelSim=1.5in PlateSep=21.2in Tunnel=14.3 (GREEN) VeloGap=4.6mph
+  4-Seam/Changeup: RelSim=1.6in PlateSep=15.3in Tunnel=9.7 (GREEN) VeloGap=4.0mph
+  4-Seam/Cutter: RelSim=1.6in PlateSep=13.0in Tunnel=8.2 (GREEN) VeloGap=4.8mph
+  K-Curve/Slider: RelSim=1.2in PlateSep=9.6in Tunnel=7.9 (GREEN) VeloGap=2.5mph
+Best Tunnel: Changeup/Cutter (score: 107.1)
+
+=== GAME SCORE ===
+Game Score: 42
+K: 2 H: 3 HR: 0 BB/HBP: 3
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Legumina, Casey — home_run (WP 221.5%)
+  UP Inn 2: Bieber, Shane — home_run (WP 269.4%)
+  UP Inn 1: Woodruff, Brandon — home_run (WP 54.8%)
+  DOWN Inn 8: Herrin, Tim — home_run (WP 203.4%)
+  DOWN Inn 1: Greene, Hunter — home_run (WP 155.2%)
+  DOWN Inn 4: Wacha, Michael — home_run (WP 252.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 26
+Hits: 11 (42%)
+Pull: 6 Center: 16 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  4-Seam: -0.207 total (-0.0059 per pitch, 35 pitches)
+  Changeup: 0.497 total (0.0184 per pitch, 27 pitches)
+  K-Curve: -0.544 total (-0.0418 per pitch, 13 pitches)
+  Cutter: 0.74 total (0.0822 per pitch, 9 pitches)
+  Slider: 1.725 total (0.345 per pitch, 5 pitches)
+Most Effective: K-Curve
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Straw, Myles — 10 pitches
+  EP: 9 (90.0%) velo=40.8 whiff=40.0% csw=33.3% grade=A
+  FA: 1 (10.0%) velo=61.3 whiff=0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Fisher, Braydon — 17 pitches
+  Slider: 8 (47.1%) velo=88.6 whiff=66.7% csw=50.0% grade=A
+  Curveball: 6 (35.3%) velo=83.6 whiff=50.0% csw=50.0% grade=A
+  4-Seam: 3 (17.6%) velo=96.1 whiff=0.0% csw=0.0% grade=D
+  Line: 3K / 0BB / 0H / 0HR
+
+Nance, Tommy — 13 pitches
+  Slider: 5 (38.5%) velo=87.6 whiff=25.0% csw=20.0% grade=B
+  Curveball: 5 (38.5%) velo=84.4 whiff=0.0% csw=0.0% grade=D
+  Sinker: 3 (23.1%) velo=94.0 whiff=50.0% csw=33.3% grade=A
+  Line: 1K / 0BB / 2H / 1HR
+
+Macko, Adam — 33 pitches
+  Slider: 14 (42.4%) velo=85.5 whiff=37.5% csw=35.7% grade=A
+  4-Seam: 13 (39.4%) velo=94.2 whiff=55.6% csw=38.5% grade=A
+  Changeup: 4 (12.1%) velo=84.3 whiff=100.0% csw=50.0% grade=A
+  K-Curve: 2 (6.1%) velo=80.2 whiff=0% csw=0.0% grade=D
+  Line: 2K / 1BB / 3H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-04.png
+  zone_2026-07-04.png
+  batted_balls_2026-07-04.png
+  velocity_2026-07-04.png
+  release_2026-07-04.png
+  gamescore_2026-07-04.png
+  wpa_2026-07-04.png
+  spray_2026-07-04.png
+  runvalue_2026-07-04.png

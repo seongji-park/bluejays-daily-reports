@@ -1,0 +1,157 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-18
+Opponent: TB
+Result: W 10-5
+Starter: Soriano, José
+Spotlight: None
+Season Record: 61-64
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4289
+Blue Jays pitching data: 129 pitches
+Blue Jays batting data: 157 pitches
+Soriano, José: 91 pitches
+
+=== All Blue Jays pitchers ===
+  Miles, Spencer: 10 pitches
+  Waldron, Matt: 26 pitches
+  Fluharty, Mason: 2 pitches
+  Soriano, José: 91 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Sinker         33   36.3%   94.9    0.0%   30.3%    12.5%       D
+4-Seam         21   23.1%   95.4   18.2%   28.6%     0.0%       C
+K-Curve        18   19.8%   84.1   14.3%   27.8%    20.0%       C
+Splitter       17   18.7%   91.3   33.3%   17.6%    23.1%       A
+Slider          2    2.2%   87.8    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Sinker: H=-16.8 V=6.3 (33 pitches)
+  4-Seam: H=-10.2 V=14.7 (21 pitches)
+  K-Curve: H=15.7 V=-8.2 (18 pitches)
+  Splitter: H=-15.1 V=3.0 (17 pitches)
+  Slider: H=1.6 V=0.7 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 62 pitches, avg velo 92.3, 5 swinging strikes, whiff/pitch 8.1%
+  R: 29 pitches, avg velo 91.5, 0 swinging strikes, whiff/pitch 0.0%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (25 pitches):
+    Sinker: 32.0%
+    Splitter: 28.0%
+    K-Curve: 28.0%
+    4-Seam: 12.0%
+  Ahead (17 pitches):
+    K-Curve: 35.3%
+    4-Seam: 29.4%
+    Splitter: 23.5%
+    Sinker: 11.8%
+  Behind (33 pitches):
+    Sinker: 51.5%
+    4-Seam: 18.2%
+    Splitter: 12.1%
+    K-Curve: 12.1%
+    Slider: 6.1%
+  Even (13 pitches):
+    4-Seam: 53.8%
+    Sinker: 23.1%
+    Splitter: 15.4%
+    K-Curve: 7.7%
+  Full count (3-2) (3 pitches):
+    Sinker: 100.0%
+
+=== STRIKEOUT PITCHES (2 K's) ===
+  Splitter: 1
+  Sinker: 1
+
+=== TOP OPPOSING BATTERS ===
+  hicks, liam: 14 pitches, 0 hits, 0 K, 0 BB, avg EV 85.9
+  díaz, yandy: 12 pitches, 1 hits, 0 K, 0 BB, avg EV 87.7
+  walls, taylor: 12 pitches, 1 hits, 1 K, 0 BB, avg EV 91.8
+  aranda, jonathan: 10 pitches, 1 hits, 1 K, 0 BB, avg EV 100.9
+  mullins, cedric: 9 pitches, 1 hits, 0 K, 0 BB, avg EV 80.5
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 27
+Avg EV: 88.1 mph
+Avg LA: 6.3
+Hard hit (95+): 8/27 (30%)
+
+=== VELOCITY TREND ===
+  Sinker: 95.2 -> 93.8 mph (-1.4)
+  4-Seam: 95.2 -> 94.2 mph (-1.0)
+  K-Curve: 84.4 -> 83.6 mph (-0.8)
+
+=== RELEASE POINT SPREAD ===
+  Sinker: H=1.5in V=0.9in Total=1.8in Tight
+  4-Seam: H=1.5in V=0.7in Total=1.7in Tight
+  K-Curve: H=1.7in V=0.8in Total=1.9in Tight
+  Splitter: H=1.3in V=1.1in Total=1.7in Tight
+
+=== TUNNELING ANALYSIS ===
+  Sinker/K-Curve: RelSim=1.7in PlateSep=35.6in Tunnel=21.4 (GREEN) VeloGap=10.8mph
+  4-Seam/Splitter: RelSim=0.8in PlateSep=12.7in Tunnel=16.6 (GREEN) VeloGap=4.1mph
+  4-Seam/K-Curve: RelSim=2.8in PlateSep=34.6in Tunnel=12.5 (GREEN) VeloGap=11.3mph
+  K-Curve/Splitter: RelSim=3.1in PlateSep=32.7in Tunnel=10.7 (GREEN) VeloGap=7.2mph
+  Sinker/4-Seam: RelSim=1.2in PlateSep=10.7in Tunnel=9.1 (GREEN) VeloGap=0.5mph
+  Sinker/Splitter: RelSim=1.4in PlateSep=3.7in Tunnel=2.6 (YELLOW) VeloGap=3.6mph
+Best Tunnel: Sinker/K-Curve (score: 21.4)
+
+=== GAME SCORE ===
+Game Score: 54
+K: 1 H: 4 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Harris, Hogan — single (WP 85.7%)
+  UP Inn 9: Richards, Trevor — single (WP 63.3%)
+  UP Inn 9: Alvarado, Elvis — single (WP 115.5%)
+  DOWN Inn 3: Suarez, Ranger — home_run (WP 126.0%)
+  DOWN Inn 7: Walker, Josh — single (WP 148.3%)
+  DOWN Inn 3: Feltner, Ryan — home_run (WP 100.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 35
+Hits: 13 (37%)
+Pull: 2 Center: 26 Oppo: 7
+
+=== PITCH RUN VALUE ===
+  Sinker: 1.139 total (0.0345 per pitch, 33 pitches)
+  4-Seam: -0.84 total (-0.04 per pitch, 21 pitches)
+  K-Curve: 0.856 total (0.0476 per pitch, 18 pitches)
+  Splitter: -0.778 total (-0.0458 per pitch, 17 pitches)
+  Slider: 0.21 total (0.105 per pitch, 2 pitches)
+Most Effective: 4-Seam
+Least Effective: Sinker
+
+=== BULLPEN DETAILED ===
+Miles, Spencer — 10 pitches
+  Sinker: 7 (70.0%) velo=97.9 whiff=0.0% csw=42.9% grade=D
+  Curveball: 1 (10.0%) velo=83.0 whiff=100.0% csw=100.0% grade=A
+  Slider: 1 (10.0%) velo=87.3 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 1 (10.0%) velo=97.2 whiff=0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Waldron, Matt — 26 pitches
+  Knuckle: 10 (38.5%) velo=82.0 whiff=0.0% csw=20.0% grade=D
+  Sinker: 7 (26.9%) velo=91.2 whiff=0.0% csw=14.3% grade=D
+  Cutter: 7 (26.9%) velo=87.8 whiff=20.0% csw=28.6% grade=B
+  Sweeper: 2 (7.7%) velo=80.4 whiff=0% csw=0.0% grade=D
+  Line: 1K / 0BB / 4H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-18.png
+  zone_2026-08-18.png
+  batted_balls_2026-08-18.png
+  velocity_2026-08-18.png
+  release_2026-08-18.png
+  gamescore_2026-08-18.png
+  wpa_2026-08-18.png
+  spray_2026-08-18.png
+  runvalue_2026-08-18.png

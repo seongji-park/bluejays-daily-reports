@@ -1,0 +1,146 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-06-30
+Opponent: NYM
+Result: L 0-3
+Starter: Gausman, Kevin
+Spotlight: None
+Season Record: 40-44
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4363
+Blue Jays pitching data: 145 pitches
+Blue Jays batting data: 130 pitches
+Gausman, Kevin: 96 pitches
+
+=== All Blue Jays pitchers ===
+  Macko, Adam: 3 pitches
+  Nance, Tommy: 32 pitches
+  Fluharty, Mason: 14 pitches
+  Gausman, Kevin: 96 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         52   54.2%   94.6   12.0%   32.7%    12.5%       C
+Splitter       33   34.4%   84.5   35.3%   21.2%    40.0%       A
+Slider         11   11.5%   84.1   71.4%   54.5%    50.0%       A
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-11.3 V=17.1 (52 pitches)
+  Splitter: H=-14.6 V=3.6 (33 pitches)
+  Slider: H=1.2 V=2.2 (11 pitches)
+
+=== vs LHB/RHB ===
+  L: 67 pitches, avg velo 90.0, 8 swinging strikes, whiff/pitch 11.9%
+  R: 29 pitches, avg velo 89.8, 6 swinging strikes, whiff/pitch 20.7%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (25 pitches):
+    4-Seam: 64.0%
+    Splitter: 28.0%
+    Slider: 8.0%
+  Ahead (39 pitches):
+    4-Seam: 46.2%
+    Splitter: 41.0%
+    Slider: 12.8%
+  Behind (14 pitches):
+    4-Seam: 50.0%
+    Splitter: 35.7%
+    Slider: 14.3%
+  Even (15 pitches):
+    4-Seam: 66.7%
+    Splitter: 20.0%
+    Slider: 13.3%
+  Full count (3-2) (3 pitches):
+    Splitter: 66.7%
+    4-Seam: 33.3%
+
+=== STRIKEOUT PITCHES (7 K's) ===
+  Splitter: 3
+  Slider: 2
+  4-Seam: 2
+
+=== TOP OPPOSING BATTERS ===
+  soto, juan: 15 pitches, 0 hits, 0 K, 2 BB, avg EV 94.8
+  lindor, francisco: 13 pitches, 0 hits, 1 K, 0 BB, avg EV 90.0
+  álvarez, francisco: 13 pitches, 1 hits, 2 K, 0 BB, avg EV 88.6
+  benge, carson: 11 pitches, 1 hits, 0 K, 0 BB, avg EV 79.3
+  ewing, a. j.: 11 pitches, 0 hits, 2 K, 0 BB, avg EV 79.5
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 32
+Avg EV: 87.1 mph
+Avg LA: 17.6
+Hard hit (95+): 13/32 (41%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.5 -> 93.6 mph (-0.9)
+  Splitter: 85.0 -> 82.7 mph (-2.3)
+  Slider: 84.8 -> 82.6 mph (-2.2)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=0.9in V=0.9in Total=1.3in Tight
+  Splitter: H=0.9in V=1.1in Total=1.4in Tight
+  Slider: H=1.0in V=0.9in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  Splitter/Slider: RelSim=1.2in PlateSep=15.9in Tunnel=13.7 (GREEN) VeloGap=0.4mph
+  4-Seam/Slider: RelSim=1.8in PlateSep=19.5in Tunnel=10.6 (GREEN) VeloGap=10.5mph
+  4-Seam/Splitter: RelSim=2.9in PlateSep=13.9in Tunnel=4.9 (GREEN) VeloGap=10.0mph
+Best Tunnel: Splitter/Slider (score: 13.7)
+
+=== GAME SCORE ===
+Game Score: 61
+K: 1 H: 1 HR: 1 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 4: Ryan, Joe — home_run (WP -145.7%)
+  UP Inn 1: Roupp, Landen — home_run (WP 44.8%)
+  UP Inn 2: Chandler, Bubba — single (WP -161.8%)
+  DOWN Inn 4: Pérez, Martín — home_run (WP -52.2%)
+  DOWN Inn 3: Springs, Jeffrey — home_run (WP 9.9%)
+  DOWN Inn 3: Gordon, Tanner — home_run (WP -189.4%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 23
+Hits: 7 (30%)
+Pull: 5 Center: 18 Oppo: 0
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.482 total (0.0093 per pitch, 52 pitches)
+  Splitter: -1.272 total (-0.0385 per pitch, 33 pitches)
+  Slider: -0.571 total (-0.0519 per pitch, 11 pitches)
+Most Effective: Splitter
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Macko, Adam — 3 pitches
+  Slider: 3 (100.0%) velo=84.7 whiff=100.0% csw=100.0% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+Nance, Tommy — 32 pitches
+  Slider: 16 (50.0%) velo=88.8 whiff=40.0% csw=31.2% grade=A
+  Curveball: 10 (31.2%) velo=84.8 whiff=0.0% csw=30.0% grade=D
+  Sinker: 6 (18.8%) velo=94.8 whiff=0.0% csw=16.7% grade=D
+  Line: 2K / 1BB / 1H / 0HR
+
+Fluharty, Mason — 14 pitches
+  Cutter: 7 (50.0%) velo=91.1 whiff=33.3% csw=57.1% grade=A
+  Sweeper: 5 (35.7%) velo=82.1 whiff=0.0% csw=0.0% grade=D
+  Changeup: 2 (14.3%) velo=88.8 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 1H / 1HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-06-30.png
+  zone_2026-06-30.png
+  batted_balls_2026-06-30.png
+  velocity_2026-06-30.png
+  release_2026-06-30.png
+  gamescore_2026-06-30.png
+  wpa_2026-06-30.png
+  spray_2026-06-30.png
+  runvalue_2026-06-30.png

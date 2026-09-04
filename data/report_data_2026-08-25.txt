@@ -1,0 +1,185 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-08-25
+Opponent: KC
+Result: L 3-5
+Starter: Scherzer, Max
+Spotlight: None
+Season Record: 64-67
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4556
+Blue Jays pitching data: 178 pitches
+Blue Jays batting data: 149 pitches
+Scherzer, Max: 92 pitches
+
+=== All Blue Jays pitchers ===
+  Rogers, Tyler: 18 pitches
+  Little, Brendon: 21 pitches
+  Sewald, Paul: 22 pitches
+  Fluharty, Mason: 13 pitches
+  Fisher, Braydon: 12 pitches
+  Scherzer, Max: 92 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         42   45.7%   93.5   11.1%   21.4%     5.9%       C
+Changeup       18   19.6%   84.3    0.0%   22.2%     8.3%       D
+Curveball      13   14.1%   75.0   60.0%   38.5%    33.3%       A
+Slider         11   12.0%   85.6   16.7%   18.2%    20.0%       C
+Cutter          8    8.7%   87.8   50.0%   37.5%    20.0%       A
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-8.7 V=16.1 (42 pitches)
+  Changeup: H=-13.8 V=4.5 (18 pitches)
+  Curveball: H=13.7 V=-8.3 (13 pitches)
+  Slider: H=4.4 V=2.0 (11 pitches)
+  Cutter: H=4.2 V=8.7 (8 pitches)
+
+=== vs LHB/RHB ===
+  L: 63 pitches, avg velo 87.2, 5 swinging strikes, whiff/pitch 7.9%
+  R: 29 pitches, avg velo 88.5, 2 swinging strikes, whiff/pitch 6.9%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (23 pitches):
+    4-Seam: 52.2%
+    Curveball: 17.4%
+    Changeup: 13.0%
+    Slider: 13.0%
+    Cutter: 4.3%
+  Ahead (23 pitches):
+    4-Seam: 30.4%
+    Changeup: 30.4%
+    Slider: 13.0%
+    Cutter: 13.0%
+    Curveball: 13.0%
+  Behind (28 pitches):
+    4-Seam: 53.6%
+    Curveball: 14.3%
+    Slider: 10.7%
+    Changeup: 10.7%
+    Cutter: 10.7%
+  Even (12 pitches):
+    4-Seam: 50.0%
+    Changeup: 25.0%
+    Curveball: 8.3%
+    Slider: 8.3%
+    Cutter: 8.3%
+  Full count (3-2) (6 pitches):
+    Changeup: 33.3%
+    4-Seam: 33.3%
+    Slider: 16.7%
+    Curveball: 16.7%
+
+=== STRIKEOUT PITCHES (4 K's) ===
+  Cutter: 1
+  Changeup: 1
+  4-Seam: 1
+  Curveball: 1
+
+=== TOP OPPOSING BATTERS ===
+  massey, michael: 13 pitches, 0 hits, 0 K, 1 BB, avg EV 78.9
+  jensen, carter: 13 pitches, 1 hits, 1 K, 1 BB, avg EV 87.5
+  pérez, salvador: 11 pitches, 1 hits, 0 K, 0 BB, avg EV 84.7
+  collins, isaac: 11 pitches, 1 hits, 0 K, 1 BB, avg EV 103.7
+  witt, bobby: 10 pitches, 0 hits, 0 K, 1 BB, avg EV 81.9
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 26
+Avg EV: 85.7 mph
+Avg LA: 19.0
+Hard hit (95+): 7/26 (27%)
+
+=== VELOCITY TREND ===
+  4-Seam: 94.1 -> 93.3 mph (-0.7)
+  Changeup: 84.8 -> 84.2 mph (-0.6)
+  Curveball: 75.2 -> 74.6 mph (-0.6)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.0in V=1.5in Total=1.8in Tight
+  Changeup: H=0.9in V=0.8in Total=1.2in Tight
+  Curveball: H=1.0in V=0.8in Total=1.3in Tight
+  Slider: H=0.8in V=1.4in Total=1.6in Tight
+  Cutter: H=0.6in V=0.6in Total=0.8in Tight
+
+=== TUNNELING ANALYSIS ===
+  Changeup/Slider: RelSim=0.6in PlateSep=18.3in Tunnel=30.5 (GREEN) VeloGap=1.3mph
+  4-Seam/Curveball: RelSim=1.9in PlateSep=33.2in Tunnel=17.5 (GREEN) VeloGap=18.5mph
+  Changeup/Cutter: RelSim=1.1in PlateSep=18.4in Tunnel=16.5 (GREEN) VeloGap=3.5mph
+  Slider/Cutter: RelSim=0.7in PlateSep=6.7in Tunnel=10.2 (GREEN) VeloGap=2.2mph
+  4-Seam/Cutter: RelSim=1.6in PlateSep=14.9in Tunnel=9.3 (GREEN) VeloGap=5.8mph
+  4-Seam/Slider: RelSim=2.2in PlateSep=19.3in Tunnel=8.6 (GREEN) VeloGap=7.9mph
+  Changeup/Curveball: RelSim=4.4in PlateSep=30.3in Tunnel=6.9 (GREEN) VeloGap=9.3mph
+  Curveball/Cutter: RelSim=3.5in PlateSep=19.5in Tunnel=5.6 (GREEN) VeloGap=12.8mph
+  4-Seam/Changeup: RelSim=2.5in PlateSep=12.7in Tunnel=5.0 (GREEN) VeloGap=9.2mph
+  Curveball/Slider: RelSim=4.1in PlateSep=13.9in Tunnel=3.4 (GREEN) VeloGap=10.6mph
+Best Tunnel: Changeup/Slider (score: 30.5)
+
+=== GAME SCORE ===
+Game Score: 50
+K: 0 H: 2 HR: 0 BB/HBP: 5
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Webb, Jacob — home_run (WP 84.9%)
+  UP Inn 10: Olds, Wyatt — strikeout (WP 174.6%)
+  UP Inn 5: Seymour, Ian — home_run (WP 258.1%)
+  DOWN Inn 9: Miller, Mason — home_run (WP 93.8%)
+  DOWN Inn 11: Gibson, Cade — home_run (WP 158.8%)
+  DOWN Inn 9: Warren, Austin — double (WP 200.6%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 28
+Hits: 10 (36%)
+Pull: 5 Center: 20 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  4-Seam: -0.049 total (-0.0012 per pitch, 42 pitches)
+  Changeup: 0.207 total (0.0115 per pitch, 18 pitches)
+  Curveball: -0.531 total (-0.0408 per pitch, 13 pitches)
+  Slider: 0.173 total (0.0157 per pitch, 11 pitches)
+  Cutter: -0.127 total (-0.0159 per pitch, 8 pitches)
+Most Effective: Curveball
+Least Effective: Changeup
+
+=== BULLPEN DETAILED ===
+Rogers, Tyler — 18 pitches
+  Sinker: 12 (66.7%) velo=83.5 whiff=20.0% csw=25.0% grade=B
+  Slider: 6 (33.3%) velo=73.7 whiff=25.0% csw=16.7% grade=B
+  Line: 1K / 0BB / 3H / 0HR
+
+Little, Brendon — 21 pitches
+  4-Seam: 10 (47.6%) velo=95.4 whiff=50.0% csw=40.0% grade=A
+  Slider: 7 (33.3%) velo=87.9 whiff=100.0% csw=57.1% grade=A
+  K-Curve: 4 (19.0%) velo=86.0 whiff=100.0% csw=25.0% grade=A
+  Line: 3K / 1BB / 0H / 0HR
+
+Sewald, Paul — 22 pitches
+  4-Seam: 14 (63.6%) velo=91.2 whiff=28.6% csw=28.6% grade=B
+  Sweeper: 8 (36.4%) velo=83.2 whiff=0.0% csw=37.5% grade=D
+  Line: 1K / 2BB / 1H / 0HR
+
+Fluharty, Mason — 13 pitches
+  Sweeper: 7 (53.8%) velo=82.7 whiff=25.0% csw=14.3% grade=B
+  Cutter: 2 (15.4%) velo=91.2 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Fisher, Braydon — 12 pitches
+  Curveball: 7 (58.3%) velo=79.5 whiff=0.0% csw=14.3% grade=D
+  Slider: 3 (25.0%) velo=86.5 whiff=0.0% csw=33.3% grade=D
+  4-Seam: 2 (16.7%) velo=93.4 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 2H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-08-25.png
+  zone_2026-08-25.png
+  batted_balls_2026-08-25.png
+  velocity_2026-08-25.png
+  release_2026-08-25.png
+  gamescore_2026-08-25.png
+  wpa_2026-08-25.png
+  spray_2026-08-25.png
+  runvalue_2026-08-25.png

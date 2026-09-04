@@ -1,0 +1,166 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-07-20
+Opponent: TB
+Result: L 1-7
+Starter: Cease, Dylan
+Spotlight: None
+Season Record: 46-52
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4396
+Blue Jays pitching data: 149 pitches
+Blue Jays batting data: 122 pitches
+Cease, Dylan: 101 pitches
+
+=== All Blue Jays pitchers ===
+  Little, Brendon: 32 pitches
+  Fisher, Braydon: 16 pitches
+  Cease, Dylan: 101 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         34   33.7%   96.9   11.1%   14.7%    30.0%       C
+Slider         32   31.7%   89.3   47.4%   43.8%    57.9%       A
+K-Curve        15   14.9%   82.4   16.7%   33.3%    37.5%       C
+Changeup       14   13.9%   79.8   20.0%   14.3%     0.0%       B
+Sinker          5    5.0%   96.1    0.0%   20.0%    50.0%       D
+Sweeper         1    1.0%   82.7    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-3.9 V=18.0 (34 pitches)
+  Slider: H=1.0 V=4.4 (32 pitches)
+  K-Curve: H=1.5 V=-12.7 (15 pitches)
+  Changeup: H=-9.1 V=15.6 (14 pitches)
+  Sinker: H=-11.4 V=14.3 (5 pitches)
+
+=== vs LHB/RHB ===
+  L: 72 pitches, avg velo 89.2, 11 swinging strikes, whiff/pitch 15.3%
+  R: 29 pitches, avg velo 91.4, 2 swinging strikes, whiff/pitch 6.9%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (26 pitches):
+    4-Seam: 34.6%
+    K-Curve: 34.6%
+    Slider: 19.2%
+    Sweeper: 3.8%
+    Changeup: 3.8%
+    Sinker: 3.8%
+  Ahead (32 pitches):
+    Slider: 37.5%
+    4-Seam: 28.1%
+    Changeup: 25.0%
+    K-Curve: 9.4%
+  Behind (20 pitches):
+    Slider: 45.0%
+    4-Seam: 30.0%
+    K-Curve: 15.0%
+    Changeup: 10.0%
+  Even (22 pitches):
+    4-Seam: 45.5%
+    Slider: 22.7%
+    Sinker: 18.2%
+    Changeup: 13.6%
+  Full count (3-2) (1 pitches):
+    Slider: 100.0%
+
+=== STRIKEOUT PITCHES (7 K's) ===
+  Slider: 3
+  K-Curve: 1
+  Changeup: 1
+  4-Seam: 1
+  Sinker: 1
+
+=== TOP OPPOSING BATTERS ===
+  aranda, jonathan: 16 pitches, 1 hits, 1 K, 0 BB, avg EV 85.6
+  simpson, chandler: 16 pitches, 0 hits, 1 K, 1 BB, avg EV 76.2
+  mesa, victor: 14 pitches, 1 hits, 2 K, 0 BB, avg EV 79.8
+  palacios, richie: 13 pitches, 0 hits, 2 K, 0 BB, avg EV 76.6
+  díaz, yandy: 11 pitches, 0 hits, 0 K, 0 BB, avg EV 80.0
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 36
+Avg EV: 81.6 mph
+Avg LA: 14.6
+Hard hit (95+): 6/36 (17%)
+
+=== VELOCITY TREND ===
+  4-Seam: 97.5 -> 96.4 mph (-1.0)
+  Slider: 89.1 -> 89.4 mph (+0.3)
+  K-Curve: 82.6 -> 81.2 mph (-1.5)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=2.3in V=0.7in Total=2.4in Tight
+  Slider: H=2.7in V=0.8in Total=2.8in Tight
+  K-Curve: H=1.6in V=1.0in Total=1.9in Tight
+  Changeup: H=1.9in V=0.8in Total=2.1in Tight
+  Sinker: H=2.0in V=0.8in Total=2.1in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/K-Curve: RelSim=0.6in PlateSep=31.1in Tunnel=54.4 (GREEN) VeloGap=14.6mph
+  K-Curve/Changeup: RelSim=2.0in PlateSep=30.2in Tunnel=15.4 (GREEN) VeloGap=2.6mph
+  Slider/K-Curve: RelSim=1.3in PlateSep=17.0in Tunnel=13.1 (GREEN) VeloGap=6.9mph
+  4-Seam/Slider: RelSim=1.2in PlateSep=14.5in Tunnel=12.4 (GREEN) VeloGap=7.6mph
+  K-Curve/Sinker: RelSim=2.6in PlateSep=29.9in Tunnel=11.5 (GREEN) VeloGap=13.7mph
+  Slider/Changeup: RelSim=3.0in PlateSep=15.2in Tunnel=5.1 (GREEN) VeloGap=9.5mph
+  Slider/Sinker: RelSim=3.7in PlateSep=15.9in Tunnel=4.3 (GREEN) VeloGap=6.8mph
+  Changeup/Sinker: RelSim=0.9in PlateSep=2.6in Tunnel=2.9 (YELLOW) VeloGap=16.3mph
+  4-Seam/Sinker: RelSim=3.1in PlateSep=8.4in Tunnel=2.7 (YELLOW) VeloGap=0.8mph
+  4-Seam/Changeup: RelSim=2.5in PlateSep=5.7in Tunnel=2.3 (YELLOW) VeloGap=17.1mph
+Best Tunnel: 4-Seam/K-Curve (score: 54.4)
+
+=== GAME SCORE ===
+Game Score: 56
+K: 1 H: 2 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: O'Brien, Riley — double (WP 169.6%)
+  UP Inn 8: Finnegan, Kyle — home_run (WP 36.4%)
+  UP Inn 8: Wells, Tyler — home_run (WP 50.5%)
+  DOWN Inn 9: Lange, Alex — home_run (WP 59.9%)
+  DOWN Inn 5: deGrom, Jacob — double (WP 305.0%)
+  DOWN Inn 7: Ginkel, Kevin — single (WP -44.6%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 29
+Hits: 13 (45%)
+Pull: 4 Center: 19 Oppo: 6
+
+=== PITCH RUN VALUE ===
+  4-Seam: 0.706 total (0.0208 per pitch, 34 pitches)
+  Slider: -1.968 total (-0.0615 per pitch, 32 pitches)
+  K-Curve: 1.795 total (0.1197 per pitch, 15 pitches)
+  Changeup: -0.34 total (-0.0243 per pitch, 14 pitches)
+  Sinker: 1.704 total (0.3408 per pitch, 5 pitches)
+  Sweeper: 0.043 total (0.043 per pitch, 1 pitches)
+Most Effective: Slider
+Least Effective: K-Curve
+
+=== BULLPEN DETAILED ===
+Little, Brendon — 32 pitches
+  Slider: 11 (34.4%) velo=89.5 whiff=57.1% csw=54.5% grade=A
+  Sinker: 9 (28.1%) velo=95.9 whiff=0.0% csw=22.2% grade=D
+  K-Curve: 6 (18.8%) velo=86.5 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 2 (6.2%) velo=96.4 whiff=100.0% csw=50.0% grade=A
+  Line: 1K / 0BB / 4H / 1HR
+
+Fisher, Braydon — 16 pitches
+  Slider: 10 (62.5%) velo=87.3 whiff=33.3% csw=40.0% grade=A
+  4-Seam: 3 (18.8%) velo=94.7 whiff=33.3% csw=33.3% grade=A
+  Curveball: 3 (18.8%) velo=81.3 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 0BB / 2H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-07-20.png
+  zone_2026-07-20.png
+  batted_balls_2026-07-20.png
+  velocity_2026-07-20.png
+  release_2026-07-20.png
+  gamescore_2026-07-20.png
+  wpa_2026-07-20.png
+  spray_2026-07-20.png
+  runvalue_2026-07-20.png
