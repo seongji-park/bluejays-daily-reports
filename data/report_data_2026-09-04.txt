@@ -1,0 +1,176 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-09-04
+Opponent: KC
+Result: W 9-2
+Starter: Taillon, Jameson
+Spotlight: None
+Season Record: 70-70
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4590
+Blue Jays pitching data: 130 pitches
+Blue Jays batting data: 134 pitches
+Taillon, Jameson: 29 pitches
+
+=== All Blue Jays pitchers ===
+  Lorenzen, Michael: 33 pitches
+  Little, Brendon: 31 pitches
+  Fisher, Braydon: 14 pitches
+  Mantiply, Joe: 23 pitches
+  Taillon, Jameson: 29 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Cutter         11   37.9%   86.8   12.5%    9.1%    40.0%       C
+Curveball       5   17.2%   79.3    0.0%   20.0%     0.0%       D
+4-Seam          5   17.2%   90.6    0.0%   40.0%     0.0%       D
+Sinker          3   10.3%   90.6    0.0%   33.3%     0.0%       D
+Sweeper         3   10.3%   79.7    0.0%   33.3%     0.0%       D
+Changeup        2    6.9%   86.2    0.0%   50.0%   100.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Cutter: H=6.2 V=8.0 (11 pitches)
+  Curveball: H=7.4 V=-10.3 (5 pitches)
+  4-Seam: H=-5.1 V=17.1 (5 pitches)
+  Sinker: H=-11.2 V=14.0 (3 pitches)
+  Sweeper: H=16.6 V=-1.7 (3 pitches)
+  Changeup: H=-13.6 V=4.9 (2 pitches)
+
+=== vs LHB/RHB ===
+  L: 16 pitches, avg velo 85.7, 1 swinging strikes, whiff/pitch 6.2%
+  R: 13 pitches, avg velo 85.9, 0 swinging strikes, whiff/pitch 0.0%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (8 pitches):
+    4-Seam: 50.0%
+    Curveball: 25.0%
+    Sinker: 25.0%
+  Ahead (6 pitches):
+    Cutter: 33.3%
+    Changeup: 33.3%
+    Sweeper: 16.7%
+    Curveball: 16.7%
+  Behind (9 pitches):
+    Cutter: 55.6%
+    Sinker: 11.1%
+    Sweeper: 11.1%
+    4-Seam: 11.1%
+    Curveball: 11.1%
+  Even (6 pitches):
+    Cutter: 66.7%
+    Sweeper: 16.7%
+    Curveball: 16.7%
+
+=== STRIKEOUT PITCHES (1 K's) ===
+  Changeup: 1
+
+=== TOP OPPOSING BATTERS ===
+  caglianone, jac: 6 pitches, 0 hits, 0 K, 0 BB, avg EV 85.8
+  witt, bobby: 5 pitches, 1 hits, 0 K, 0 BB, avg EV 91.1
+  jensen, carter: 5 pitches, 0 hits, 1 K, 0 BB, avg EV 69.6
+  pérez, salvador: 4 pitches, 0 hits, 0 K, 0 BB, avg EV 104.5
+  loftin, nick: 4 pitches, 0 hits, 0 K, 0 BB, avg EV 98.9
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 11
+Avg EV: 89.9 mph
+Avg LA: 12.4
+Hard hit (95+): 5/11 (45%)
+
+=== VELOCITY TREND ===
+  Cutter: 86.7 -> 87.0 mph (+0.3)
+  Curveball: 79.6 -> 77.8 mph (-1.9)
+  4-Seam: 91.5 -> 89.2 mph (-2.3)
+
+=== RELEASE POINT SPREAD ===
+  Cutter: H=1.1in V=0.9in Total=1.4in Tight
+  Curveball: H=0.4in V=0.4in Total=0.6in Tight
+  4-Seam: H=1.0in V=0.5in Total=1.2in Tight
+  Sinker: H=1.0in V=0.5in Total=1.1in Tight
+  Sweeper: H=1.3in V=0.2in Total=1.4in Tight
+
+=== TUNNELING ANALYSIS ===
+  4-Seam/Sweeper: RelSim=0.2in PlateSep=28.7in Tunnel=126.5 (GREEN) VeloGap=10.9mph
+  Cutter/Curveball: RelSim=1.0in PlateSep=18.3in Tunnel=19.0 (GREEN) VeloGap=7.5mph
+  Curveball/4-Seam: RelSim=1.6in PlateSep=30.1in Tunnel=18.9 (GREEN) VeloGap=11.3mph
+  Cutter/4-Seam: RelSim=0.8in PlateSep=14.5in Tunnel=17.2 (GREEN) VeloGap=3.8mph
+  Cutter/Sweeper: RelSim=0.9in PlateSep=14.2in Tunnel=15.6 (GREEN) VeloGap=7.1mph
+  Curveball/Sinker: RelSim=2.9in PlateSep=30.6in Tunnel=10.6 (GREEN) VeloGap=11.4mph
+  Sinker/Sweeper: RelSim=3.1in PlateSep=31.9in Tunnel=10.3 (GREEN) VeloGap=10.9mph
+  Curveball/Sweeper: RelSim=1.5in PlateSep=12.6in Tunnel=8.3 (GREEN) VeloGap=0.4mph
+  Cutter/Sinker: RelSim=2.4in PlateSep=18.4in Tunnel=7.8 (GREEN) VeloGap=3.9mph
+  4-Seam/Sinker: RelSim=2.9in PlateSep=6.8in Tunnel=2.3 (YELLOW) VeloGap=0.1mph
+Best Tunnel: 4-Seam/Sweeper (score: 126.5)
+
+=== GAME SCORE ===
+Game Score: 50
+K: 1 H: 1 HR: 0 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 10: Blackburn, Paul — home_run (WP -11.2%)
+  UP Inn 10: Jansen, Kenley — single (WP 59.8%)
+  UP Inn 9: Sommers, Drew — home_run (WP 112.6%)
+  DOWN Inn 9: Romano, Jordan — home_run (WP 132.8%)
+  DOWN Inn 5: Moll, Sam — triple (WP 149.7%)
+  DOWN Inn 10: Miller, Mason — single (WP 9.8%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 26
+Hits: 6 (23%)
+Pull: 5 Center: 17 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  Cutter: 0.638 total (0.058 per pitch, 11 pitches)
+  Curveball: -0.161 total (-0.0322 per pitch, 5 pitches)
+  4-Seam: 0.322 total (0.0644 per pitch, 5 pitches)
+  Sinker: -0.31 total (-0.1033 per pitch, 3 pitches)
+  Sweeper: 0.033 total (0.011 per pitch, 3 pitches)
+  Changeup: -0.187 total (-0.0935 per pitch, 2 pitches)
+Most Effective: Sinker
+Least Effective: Cutter
+
+=== BULLPEN DETAILED ===
+Lorenzen, Michael — 33 pitches
+  4-Seam: 9 (27.3%) velo=95.8 whiff=0.0% csw=22.2% grade=D
+  Cutter: 9 (27.3%) velo=91.6 whiff=14.3% csw=22.2% grade=C
+  Sweeper: 5 (15.2%) velo=85.3 whiff=100.0% csw=100.0% grade=A
+  Sinker: 4 (12.1%) velo=95.2 whiff=0.0% csw=0.0% grade=D
+  Changeup: 4 (12.1%) velo=86.5 whiff=0.0% csw=0.0% grade=D
+  Slider: 2 (6.1%) velo=89.6 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 3H / 1HR
+
+Little, Brendon — 31 pitches
+  Slider: 10 (32.3%) velo=87.8 whiff=16.7% csw=20.0% grade=C
+  4-Seam: 10 (32.3%) velo=96.3 whiff=25.0% csw=30.0% grade=B
+  K-Curve: 7 (22.6%) velo=86.1 whiff=25.0% csw=14.3% grade=B
+  Sinker: 4 (12.9%) velo=93.8 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 1BB / 0H / 0HR
+
+Fisher, Braydon — 14 pitches
+  Curveball: 5 (35.7%) velo=79.8 whiff=0.0% csw=20.0% grade=D
+  Slider: 5 (35.7%) velo=86.5 whiff=0.0% csw=20.0% grade=D
+  4-Seam: 3 (21.4%) velo=92.9 whiff=0.0% csw=0.0% grade=D
+  Cutter: 1 (7.1%) velo=93.6 whiff=0% csw=0.0% grade=D
+  Line: 0K / 1BB / 0H / 0HR
+
+Mantiply, Joe — 23 pitches
+  Sinker: 13 (56.5%) velo=88.2 whiff=0.0% csw=38.5% grade=D
+  Curveball: 8 (34.8%) velo=80.3 whiff=0.0% csw=12.5% grade=D
+  Changeup: 2 (8.7%) velo=79.8 whiff=100.0% csw=50.0% grade=A
+  Line: 1K / 0BB / 1H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+None
+
+=== CHARTS SAVED ===
+  movement_2026-09-04.png
+  zone_2026-09-04.png
+  batted_balls_2026-09-04.png
+  velocity_2026-09-04.png
+  release_2026-09-04.png
+  gamescore_2026-09-04.png
+  wpa_2026-09-04.png
+  spray_2026-09-04.png
+  runvalue_2026-09-04.png
