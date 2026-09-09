@@ -1,0 +1,164 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-09-08
+Opponent: ATH
+Result: W 4-2
+Starter: Soriano, José
+Spotlight: Soriano, José
+Season Record: 72-72
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4472
+Blue Jays pitching data: 111 pitches
+Blue Jays batting data: 150 pitches
+Soriano, José: 89 pitches
+
+=== All Blue Jays pitchers ===
+  Miles, Spencer: 22 pitches
+  Soriano, José: 89 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Sinker         44   49.4%   96.4    8.3%   25.0%    42.1%       D
+K-Curve        20   22.5%   85.7   25.0%   30.0%    30.0%       B
+Splitter       10   11.2%   91.9    0.0%    0.0%    33.3%       D
+4-Seam          8    9.0%   97.4    0.0%   37.5%     0.0%       D
+Slider          7    7.9%   90.4    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Sinker: H=-15.1 V=5.6 (44 pitches)
+  K-Curve: H=12.1 V=-7.2 (20 pitches)
+  Splitter: H=-12.1 V=0.2 (10 pitches)
+  4-Seam: H=-9.1 V=12.9 (8 pitches)
+  Slider: H=1.4 V=3.1 (7 pitches)
+
+=== vs LHB/RHB ===
+  L: 48 pitches, avg velo 93.5, 0 swinging strikes, whiff/pitch 0.0%
+  R: 41 pitches, avg velo 92.7, 4 swinging strikes, whiff/pitch 9.8%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (27 pitches):
+    Sinker: 70.4%
+    K-Curve: 14.8%
+    Splitter: 7.4%
+    Slider: 7.4%
+  Ahead (29 pitches):
+    K-Curve: 31.0%
+    Sinker: 20.7%
+    Splitter: 20.7%
+    4-Seam: 17.2%
+    Slider: 10.3%
+  Behind (17 pitches):
+    Sinker: 64.7%
+    K-Curve: 23.5%
+    4-Seam: 5.9%
+    Slider: 5.9%
+  Even (14 pitches):
+    Sinker: 50.0%
+    K-Curve: 21.4%
+    Splitter: 14.3%
+    Slider: 7.1%
+    4-Seam: 7.1%
+  Full count (3-2) (2 pitches):
+    4-Seam: 50.0%
+    Sinker: 50.0%
+
+=== STRIKEOUT PITCHES (3 K's) ===
+  4-Seam: 2
+  K-Curve: 1
+
+=== TOP OPPOSING BATTERS ===
+  butler, lawrence: 14 pitches, 0 hits, 1 K, 0 BB, avg EV 75.5
+  williams, alika: 14 pitches, 0 hits, 0 K, 0 BB, avg EV 80.8
+  mcneil, jeff: 11 pitches, 1 hits, 0 K, 0 BB, avg EV 87.4
+  gelof, zack: 10 pitches, 0 hits, 1 K, 1 BB, avg EV 85.3
+  bolte, henry: 10 pitches, 2 hits, 1 K, 0 BB, avg EV 64.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 37
+Avg EV: 80.5 mph
+Avg LA: -2.3
+Hard hit (95+): 7/37 (19%)
+
+=== VELOCITY TREND ===
+  Sinker: 96.6 -> 95.6 mph (-0.9)
+  K-Curve: 85.4 -> 84.2 mph (-1.1)
+  Splitter: 90.8 -> 91.9 mph (+1.1)
+
+=== RELEASE POINT SPREAD ===
+  Sinker: H=1.7in V=1.0in Total=2.0in Tight
+  K-Curve: H=1.2in V=0.6in Total=1.3in Tight
+  Splitter: H=1.3in V=0.8in Total=1.5in Tight
+  4-Seam: H=1.3in V=0.7in Total=1.4in Tight
+  Slider: H=1.4in V=0.8in Total=1.6in Tight
+
+=== TUNNELING ANALYSIS ===
+  Sinker/Slider: RelSim=0.5in PlateSep=16.7in Tunnel=32.8 (GREEN) VeloGap=6.0mph
+  Sinker/K-Curve: RelSim=1.4in PlateSep=30.1in Tunnel=21.3 (GREEN) VeloGap=10.7mph
+  K-Curve/Slider: RelSim=0.9in PlateSep=14.9in Tunnel=16.2 (GREEN) VeloGap=4.7mph
+  Splitter/4-Seam: RelSim=0.9in PlateSep=13.1in Tunnel=14.8 (GREEN) VeloGap=5.5mph
+  K-Curve/4-Seam: RelSim=2.6in PlateSep=29.2in Tunnel=11.3 (GREEN) VeloGap=11.7mph
+  4-Seam/Slider: RelSim=1.7in PlateSep=14.3in Tunnel=8.5 (GREEN) VeloGap=7.0mph
+  K-Curve/Splitter: RelSim=3.1in PlateSep=25.4in Tunnel=8.1 (GREEN) VeloGap=6.2mph
+  Sinker/4-Seam: RelSim=1.2in PlateSep=9.5in Tunnel=7.7 (GREEN) VeloGap=1.0mph
+  Splitter/Slider: RelSim=2.3in PlateSep=13.8in Tunnel=6.1 (GREEN) VeloGap=1.5mph
+  Sinker/Splitter: RelSim=1.9in PlateSep=6.1in Tunnel=3.2 (GREEN) VeloGap=4.5mph
+Best Tunnel: Sinker/Slider (score: 32.8)
+
+=== GAME SCORE ===
+Game Score: 54
+K: 3 H: 0 HR: 0 BB/HBP: 1
+
+=== KEY WPA MOMENTS ===
+  UP Inn 9: Webb, Jacob — home_run (WP 356.2%)
+  UP Inn 9: Morillo, Juan — home_run (WP 407.2%)
+  UP Inn 5: Kremer, Dean — home_run (WP 388.6%)
+  DOWN Inn 11: Gose, Anthony — triple (WP 458.2%)
+  DOWN Inn 6: Anderson, Drew — home_run (WP 417.8%)
+  DOWN Inn 10: Cruz, Steven — single (WP 468.3%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 26
+Hits: 6 (23%)
+Pull: 3 Center: 22 Oppo: 1
+
+=== PITCH RUN VALUE ===
+  Sinker: 1.059 total (0.0241 per pitch, 44 pitches)
+  K-Curve: -1.389 total (-0.0694 per pitch, 20 pitches)
+  Splitter: -0.705 total (-0.0705 per pitch, 10 pitches)
+  4-Seam: 1.848 total (0.231 per pitch, 8 pitches)
+  Slider: -0.007 total (-0.001 per pitch, 7 pitches)
+Most Effective: K-Curve
+Least Effective: 4-Seam
+
+=== BULLPEN DETAILED ===
+Miles, Spencer — 22 pitches
+  Sinker: 15 (68.2%) velo=97.1 whiff=9.1% csw=20.0% grade=D
+  Curveball: 4 (18.2%) velo=82.1 whiff=33.3% csw=50.0% grade=A
+  4-Seam: 2 (9.1%) velo=96.6 whiff=50.0% csw=50.0% grade=A
+  Slider: 1 (4.5%) velo=86.7 whiff=0% csw=0.0% grade=D
+  Line: 3K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Soriano, José — 89 pitches
+  Sinker: 44 (49.4%) velo=96.4 whiff=8.3% csw=25.0% grade=D
+  K-Curve: 20 (22.5%) velo=85.7 whiff=25.0% csw=30.0% grade=B
+  Splitter: 10 (11.2%) velo=91.9 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 8 (9.0%) velo=97.4 whiff=0.0% csw=37.5% grade=D
+  Slider: 7 (7.9%) velo=90.4 whiff=0.0% csw=0.0% grade=D
+  Line: 3K / 1BB / 6H / 2HR
+  Overall Whiff: 9.1%
+  Role: CONTACT MANAGER
+
+=== CHARTS SAVED ===
+  movement_2026-09-08.png
+  zone_2026-09-08.png
+  batted_balls_2026-09-08.png
+  velocity_2026-09-08.png
+  release_2026-09-08.png
+  gamescore_2026-09-08.png
+  wpa_2026-09-08.png
+  spray_2026-09-08.png
+  runvalue_2026-09-08.png
+  spotlight_2026-09-08.png
