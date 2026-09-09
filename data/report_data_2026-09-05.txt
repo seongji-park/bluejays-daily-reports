@@ -1,0 +1,177 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-09-05
+Opponent: KC
+Result: W 4-3
+Starter: Scherzer, Max
+Spotlight: Rogers, Tyler
+Season Record: 71-70
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4450
+Blue Jays pitching data: 128 pitches
+Blue Jays batting data: 159 pitches
+Scherzer, Max: 76 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 13 pitches
+  Rogers, Tyler: 12 pitches
+  Sewald, Paul: 7 pitches
+  Fluharty, Mason: 20 pitches
+  Scherzer, Max: 76 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+4-Seam         37   48.7%   92.5   12.5%   27.0%     7.1%       C
+Curveball      15   19.7%   73.7   22.2%   26.7%    60.0%       B
+Slider          9   11.8%   85.0   50.0%   33.3%    33.3%       A
+Changeup        8   10.5%   82.9    0.0%   12.5%    20.0%       D
+Cutter          7    9.2%   87.0    0.0%   14.3%    66.7%       D
+
+=== PITCH MOVEMENT (inches) ===
+  4-Seam: H=-8.7 V=15.1 (37 pitches)
+  Curveball: H=12.4 V=-7.1 (15 pitches)
+  Slider: H=4.2 V=2.1 (9 pitches)
+  Changeup: H=-12.5 V=3.0 (8 pitches)
+  Cutter: H=3.8 V=6.7 (7 pitches)
+
+=== vs LHB/RHB ===
+  L: 44 pitches, avg velo 86.6, 1 swinging strikes, whiff/pitch 2.3%
+  R: 32 pitches, avg velo 86.1, 5 swinging strikes, whiff/pitch 15.6%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (24 pitches):
+    4-Seam: 75.0%
+    Cutter: 12.5%
+    Curveball: 12.5%
+  Ahead (24 pitches):
+    4-Seam: 33.3%
+    Changeup: 20.8%
+    Curveball: 20.8%
+    Slider: 16.7%
+    Cutter: 8.3%
+  Behind (14 pitches):
+    Curveball: 35.7%
+    4-Seam: 28.6%
+    Slider: 14.3%
+    Changeup: 14.3%
+    Cutter: 7.1%
+  Even (13 pitches):
+    4-Seam: 53.8%
+    Curveball: 15.4%
+    Slider: 15.4%
+    Changeup: 7.7%
+    Cutter: 7.7%
+  Full count (3-2) (1 pitches):
+    Slider: 100.0%
+
+=== STRIKEOUT PITCHES (2 K's) ===
+  Curveball: 1
+  Slider: 1
+
+=== TOP OPPOSING BATTERS ===
+  witt, bobby: 14 pitches, 1 hits, 1 K, 0 BB, avg EV 95.0
+  loftin, nick: 10 pitches, 0 hits, 1 K, 0 BB, avg EV 80.6
+  rojas, josh: 9 pitches, 0 hits, 0 K, 0 BB, avg EV 78.4
+  pérez, salvador: 8 pitches, 1 hits, 0 K, 0 BB, avg EV 85.2
+  massey, michael: 8 pitches, 1 hits, 0 K, 0 BB, avg EV 84.4
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 30
+Avg EV: 82.1 mph
+Avg LA: 25.4
+Hard hit (95+): 6/30 (20%)
+
+=== VELOCITY TREND ===
+  4-Seam: 93.0 -> 92.1 mph (-1.0)
+  Curveball: 73.1 -> 74.1 mph (+1.0)
+  Slider: 85.4 -> 84.5 mph (-0.9)
+
+=== RELEASE POINT SPREAD ===
+  4-Seam: H=1.4in V=1.2in Total=1.9in Tight
+  Curveball: H=0.8in V=0.8in Total=1.1in Tight
+  Slider: H=1.1in V=0.6in Total=1.2in Tight
+  Changeup: H=1.2in V=0.8in Total=1.4in Tight
+  Cutter: H=1.6in V=1.3in Total=2.1in Tight
+
+=== TUNNELING ANALYSIS ===
+  Slider/Changeup: RelSim=0.5in PlateSep=16.7in Tunnel=31.6 (GREEN) VeloGap=2.1mph
+  Changeup/Cutter: RelSim=1.0in PlateSep=16.7in Tunnel=16.9 (GREEN) VeloGap=4.2mph
+  4-Seam/Curveball: RelSim=2.3in PlateSep=30.6in Tunnel=13.6 (GREEN) VeloGap=18.8mph
+  Slider/Cutter: RelSim=0.5in PlateSep=4.7in Tunnel=9.9 (GREEN) VeloGap=2.1mph
+  4-Seam/Slider: RelSim=2.2in PlateSep=18.3in Tunnel=8.5 (GREEN) VeloGap=7.6mph
+  4-Seam/Cutter: RelSim=2.2in PlateSep=15.1in Tunnel=6.8 (GREEN) VeloGap=5.5mph
+  Curveball/Changeup: RelSim=4.6in PlateSep=26.8in Tunnel=5.8 (GREEN) VeloGap=9.2mph
+  4-Seam/Changeup: RelSim=2.4in PlateSep=12.7in Tunnel=5.3 (GREEN) VeloGap=9.7mph
+  Curveball/Cutter: RelSim=4.5in PlateSep=16.3in Tunnel=3.6 (GREEN) VeloGap=13.4mph
+  Curveball/Slider: RelSim=4.4in PlateSep=12.3in Tunnel=2.8 (YELLOW) VeloGap=11.3mph
+Best Tunnel: Slider/Changeup (score: 31.6)
+
+=== GAME SCORE ===
+Game Score: 54
+K: 2 H: 0 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 7: Beeter, Clayton — home_run (WP 173.2%)
+  UP Inn 8: Booser, Cam — double (WP 431.6%)
+  UP Inn 2: Molina, Anthony — home_run (WP 292.6%)
+  DOWN Inn 10: Latz, Jacob — home_run (WP 457.2%)
+  DOWN Inn 5: Kay, Anthony — home_run (WP 207.1%)
+  DOWN Inn 8: Rogers, Tyler — grounded_into_double_play (WP 250.5%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 28
+Hits: 7 (25%)
+Pull: 6 Center: 18 Oppo: 4
+
+=== PITCH RUN VALUE ===
+  4-Seam: -0.929 total (-0.0251 per pitch, 37 pitches)
+  Curveball: -1.559 total (-0.1039 per pitch, 15 pitches)
+  Slider: 0.187 total (0.0208 per pitch, 9 pitches)
+  Changeup: 1.314 total (0.1642 per pitch, 8 pitches)
+  Cutter: 0.76 total (0.1086 per pitch, 7 pitches)
+Most Effective: Curveball
+Least Effective: Changeup
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 13 pitches
+  4-Seam: 5 (38.5%) velo=100.0 whiff=0.0% csw=20.0% grade=D
+  K-Curve: 4 (30.8%) velo=88.6 whiff=33.3% csw=25.0% grade=A
+  Changeup: 4 (30.8%) velo=93.2 whiff=0.0% csw=25.0% grade=D
+  Line: 1K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 12 pitches
+  Sinker: 7 (58.3%) velo=83.2 whiff=0.0% csw=0.0% grade=D
+  Slider: 5 (41.7%) velo=73.1 whiff=50.0% csw=40.0% grade=A
+  Line: 0K / 0BB / 2H / 0HR
+
+Sewald, Paul — 7 pitches
+  Sweeper: 5 (71.4%) velo=83.1 whiff=0.0% csw=20.0% grade=D
+  4-Seam: 2 (28.6%) velo=92.2 whiff=50.0% csw=50.0% grade=A
+  Line: 0K / 0BB / 0H / 0HR
+
+Fluharty, Mason — 20 pitches
+  Sweeper: 11 (55.0%) velo=81.4 whiff=50.0% csw=27.3% grade=A
+  Cutter: 9 (45.0%) velo=89.6 whiff=0.0% csw=22.2% grade=D
+  Line: 2K / 1BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Rogers, Tyler — 12 pitches
+  Sinker: 7 (58.3%) velo=83.2 whiff=0.0% csw=0.0% grade=D
+  Slider: 5 (41.7%) velo=73.1 whiff=50.0% csw=40.0% grade=A
+  Line: 0K / 0BB / 2H / 0HR
+  Overall Whiff: 16.7%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-09-05.png
+  zone_2026-09-05.png
+  batted_balls_2026-09-05.png
+  velocity_2026-09-05.png
+  release_2026-09-05.png
+  gamescore_2026-09-05.png
+  wpa_2026-09-05.png
+  spray_2026-09-05.png
+  runvalue_2026-09-05.png
+  spotlight_2026-09-05.png
