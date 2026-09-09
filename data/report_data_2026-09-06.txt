@@ -1,0 +1,192 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-09-06
+Opponent: KC
+Result: L 1-6
+Starter: Arrighetti, Spencer
+Spotlight: Arrighetti, Spencer
+Season Record: 71-71
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4399
+Blue Jays pitching data: 150 pitches
+Blue Jays batting data: 137 pitches
+Arrighetti, Spencer: 91 pitches
+
+=== All Blue Jays pitchers ===
+  Mantiply, Joe: 17 pitches
+  Tiedemann, Ricky: 32 pitches
+  Fisher, Braydon: 10 pitches
+  Arrighetti, Spencer: 91 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Curveball      30   33.0%   75.7   27.3%   40.0%    26.7%       B
+Cutter         17   18.7%   87.8   25.0%   23.5%    22.2%       B
+Sweeper        16   17.6%   80.2   20.0%   18.8%    27.3%       B
+Changeup       12   13.2%   84.1   60.0%   41.7%    37.5%       A
+4-Seam         11   12.1%   91.2    0.0%   27.3%    25.0%       D
+Sinker          5    5.5%   91.8    0.0%    0.0%     0.0%       D
+
+=== PITCH MOVEMENT (inches) ===
+  Curveball: H=15.1 V=-6.7 (30 pitches)
+  Cutter: H=0.0 V=10.1 (17 pitches)
+  Sweeper: H=15.0 V=1.0 (16 pitches)
+  Changeup: H=-14.3 V=5.6 (12 pitches)
+  4-Seam: H=-11.7 V=13.5 (11 pitches)
+  Sinker: H=-15.1 V=9.5 (5 pitches)
+
+=== vs LHB/RHB ===
+  L: 41 pitches, avg velo 82.9, 7 swinging strikes, whiff/pitch 17.1%
+  R: 50 pitches, avg velo 82.4, 2 swinging strikes, whiff/pitch 4.0%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (24 pitches):
+    Curveball: 33.3%
+    Sweeper: 25.0%
+    Cutter: 16.7%
+    Changeup: 12.5%
+    4-Seam: 8.3%
+    Sinker: 4.2%
+  Ahead (30 pitches):
+    Curveball: 30.0%
+    Sweeper: 23.3%
+    Changeup: 20.0%
+    4-Seam: 13.3%
+    Cutter: 10.0%
+    Sinker: 3.3%
+  Behind (19 pitches):
+    Curveball: 57.9%
+    Cutter: 21.1%
+    Changeup: 10.5%
+    4-Seam: 5.3%
+    Sinker: 5.3%
+  Even (16 pitches):
+    Cutter: 37.5%
+    Sweeper: 18.8%
+    4-Seam: 18.8%
+    Curveball: 12.5%
+    Changeup: 6.2%
+    Sinker: 6.2%
+  Full count (3-2) (2 pitches):
+    4-Seam: 50.0%
+    Sinker: 50.0%
+
+=== STRIKEOUT PITCHES (3 K's) ===
+  Curveball: 2
+  Cutter: 1
+
+=== TOP OPPOSING BATTERS ===
+  witt, bobby: 18 pitches, 1 hits, 0 K, 1 BB, avg EV 89.8
+  pérez, salvador: 13 pitches, 1 hits, 0 K, 0 BB, avg EV 82.0
+  rojas, josh: 13 pitches, 0 hits, 1 K, 0 BB, avg EV 68.5
+  rave, john: 11 pitches, 1 hits, 1 K, 0 BB, avg EV 81.6
+  loftin, nick: 11 pitches, 2 hits, 0 K, 0 BB, avg EV 79.6
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 24
+Avg EV: 84.4 mph
+Avg LA: 19.7
+Hard hit (95+): 6/24 (25%)
+
+=== VELOCITY TREND ===
+  Curveball: 76.8 -> 75.8 mph (-1.0)
+  Cutter: 88.2 -> 87.6 mph (-0.6)
+  Sweeper: 80.8 -> 78.8 mph (-2.0)
+
+=== RELEASE POINT SPREAD ===
+  Curveball: H=1.2in V=1.0in Total=1.6in Tight
+  Cutter: H=1.7in V=0.7in Total=1.8in Tight
+  Sweeper: H=1.2in V=0.7in Total=1.4in Tight
+  Changeup: H=1.2in V=0.9in Total=1.5in Tight
+  4-Seam: H=1.1in V=1.6in Total=1.9in Tight
+
+=== TUNNELING ANALYSIS ===
+  Curveball/4-Seam: RelSim=1.1in PlateSep=33.6in Tunnel=29.9 (GREEN) VeloGap=15.6mph
+  Curveball/Sinker: RelSim=1.4in PlateSep=34.3in Tunnel=23.8 (GREEN) VeloGap=16.1mph
+  4-Seam/Sinker: RelSim=0.3in PlateSep=5.3in Tunnel=15.8 (GREEN) VeloGap=0.6mph
+  Sweeper/Changeup: RelSim=1.9in PlateSep=29.6in Tunnel=15.5 (GREEN) VeloGap=3.9mph
+  Cutter/Sinker: RelSim=1.0in PlateSep=15.2in Tunnel=15.4 (GREEN) VeloGap=4.0mph
+  Curveball/Cutter: RelSim=2.1in PlateSep=22.6in Tunnel=10.8 (GREEN) VeloGap=12.1mph
+  Sweeper/Sinker: RelSim=3.0in PlateSep=31.3in Tunnel=10.5 (GREEN) VeloGap=11.6mph
+  Cutter/4-Seam: RelSim=1.2in PlateSep=12.2in Tunnel=9.9 (GREEN) VeloGap=3.5mph
+  Sweeper/4-Seam: RelSim=3.1in PlateSep=29.5in Tunnel=9.5 (GREEN) VeloGap=11.1mph
+  Cutter/Sweeper: RelSim=2.1in PlateSep=17.5in Tunnel=8.5 (GREEN) VeloGap=7.6mph
+  Curveball/Changeup: RelSim=4.0in PlateSep=31.8in Tunnel=8.0 (GREEN) VeloGap=8.4mph
+  Cutter/Changeup: RelSim=1.9in PlateSep=15.0in Tunnel=8.0 (GREEN) VeloGap=3.7mph
+  Changeup/4-Seam: RelSim=3.1in PlateSep=8.4in Tunnel=2.7 (YELLOW) VeloGap=7.2mph
+  Curveball/Sweeper: RelSim=3.5in PlateSep=7.7in Tunnel=2.2 (YELLOW) VeloGap=4.5mph
+  Changeup/Sinker: RelSim=2.8in PlateSep=4.1in Tunnel=1.5 (RED) VeloGap=7.7mph
+Best Tunnel: Curveball/4-Seam (score: 29.9)
+
+=== GAME SCORE ===
+Game Score: 42
+K: 1 H: 0 HR: 0 BB/HBP: 4
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Seymour, Carson — home_run (WP -112.4%)
+  UP Inn 8: Dion, Will — home_run (WP -11.7%)
+  UP Inn 4: Matz, Steven — double (WP -261.5%)
+  DOWN Inn 8: McFarlane, Alex — home_run (WP -4.8%)
+  DOWN Inn 2: Bradish, Kyle — home_run (WP 160.0%)
+  DOWN Inn 9: Iglesias, Raisel — field_out (WP -48.0%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 23
+Hits: 7 (30%)
+Pull: 3 Center: 15 Oppo: 5
+
+=== PITCH RUN VALUE ===
+  Curveball: -1.357 total (-0.0452 per pitch, 30 pitches)
+  Cutter: 0.376 total (0.0221 per pitch, 17 pitches)
+  Sweeper: 1.025 total (0.0641 per pitch, 16 pitches)
+  Changeup: -0.328 total (-0.0273 per pitch, 12 pitches)
+  4-Seam: 0.495 total (0.045 per pitch, 11 pitches)
+  Sinker: 2.607 total (0.5214 per pitch, 5 pitches)
+Most Effective: Curveball
+Least Effective: Sinker
+
+=== BULLPEN DETAILED ===
+Mantiply, Joe — 17 pitches
+  Sinker: 8 (47.1%) velo=88.6 whiff=33.3% csw=37.5% grade=A
+  Curveball: 6 (35.3%) velo=79.9 whiff=25.0% csw=16.7% grade=B
+  Changeup: 3 (17.6%) velo=79.9 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 1BB / 0H / 0HR
+
+Tiedemann, Ricky — 32 pitches
+  Sweeper: 13 (40.6%) velo=82.4 whiff=50.0% csw=53.8% grade=A
+  4-Seam: 11 (34.4%) velo=96.2 whiff=50.0% csw=36.4% grade=A
+  Changeup: 5 (15.6%) velo=86.2 whiff=0.0% csw=0.0% grade=D
+  Cutter: 2 (6.2%) velo=90.8 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 3BB / 1H / 0HR
+
+Fisher, Braydon — 10 pitches
+  Slider: 6 (60.0%) velo=87.9 whiff=50.0% csw=50.0% grade=A
+  Curveball: 3 (30.0%) velo=81.1 whiff=0.0% csw=0.0% grade=D
+  4-Seam: 1 (10.0%) velo=94.7 whiff=0.0% csw=0.0% grade=D
+  Line: 1K / 1BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Arrighetti, Spencer — 91 pitches
+  Curveball: 30 (33.0%) velo=75.7 whiff=27.3% csw=40.0% grade=B
+  Cutter: 17 (18.7%) velo=87.8 whiff=25.0% csw=23.5% grade=B
+  Sweeper: 16 (17.6%) velo=80.2 whiff=20.0% csw=18.8% grade=B
+  Changeup: 12 (13.2%) velo=84.1 whiff=60.0% csw=41.7% grade=A
+  4-Seam: 11 (12.1%) velo=91.2 whiff=0.0% csw=27.3% grade=D
+  Sinker: 5 (5.5%) velo=91.8 whiff=0.0% csw=0.0% grade=D
+  Line: 3K / 4BB / 6H / 2HR
+  Overall Whiff: 23.7%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-09-06.png
+  zone_2026-09-06.png
+  batted_balls_2026-09-06.png
+  velocity_2026-09-06.png
+  release_2026-09-06.png
+  gamescore_2026-09-06.png
+  wpa_2026-09-06.png
+  spray_2026-09-06.png
+  runvalue_2026-09-06.png
+  spotlight_2026-09-06.png
