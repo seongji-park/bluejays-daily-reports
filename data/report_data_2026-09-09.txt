@@ -1,0 +1,165 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-09-09
+Opponent: ATH
+Result: L 0-2
+Starter: Fisher, Braydon
+Spotlight: Lorenzen, Michael
+Season Record: 72-73
+Home/Away: AWAY
+
+=== DATA SUMMARY ===
+Total pitches in game: 4382
+Blue Jays pitching data: 119 pitches
+Blue Jays batting data: 130 pitches
+Fisher, Braydon: 18 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 18 pitches
+  Rogers, Tyler: 20 pitches
+  Mantiply, Joe: 8 pitches
+  Sewald, Paul: 6 pitches
+  Lorenzen, Michael: 49 pitches
+  Fisher, Braydon: 18 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Curveball       8   44.4%   81.6   40.0%   50.0%    75.0%       A
+Slider          6   33.3%   87.2    0.0%   16.7%    33.3%       D
+4-Seam          4   22.2%   94.5   50.0%   25.0%    33.3%       A
+
+=== PITCH MOVEMENT (inches) ===
+  Curveball: H=4.2 V=-12.0 (8 pitches)
+  Slider: H=-0.2 V=3.8 (6 pitches)
+  4-Seam: H=-4.1 V=16.5 (4 pitches)
+
+=== vs LHB/RHB ===
+  L: 9 pitches, avg velo 86.4, 0 swinging strikes, whiff/pitch 0.0%
+  R: 9 pitches, avg velo 86.2, 3 swinging strikes, whiff/pitch 33.3%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (3 pitches):
+    Slider: 66.7%
+    4-Seam: 33.3%
+  Ahead (3 pitches):
+    Curveball: 66.7%
+    4-Seam: 33.3%
+  Behind (4 pitches):
+    Slider: 50.0%
+    Curveball: 50.0%
+  Even (4 pitches):
+    Slider: 50.0%
+    Curveball: 25.0%
+    4-Seam: 25.0%
+  Full count (3-2) (4 pitches):
+    Curveball: 75.0%
+    4-Seam: 25.0%
+
+=== STRIKEOUT PITCHES (1 K's) ===
+  Curveball: 1
+
+=== TOP OPPOSING BATTERS ===
+  butler, lawrence: 9 pitches, 0 hits, 0 K, 0 BB, avg EV 75.5
+  gelof, zack: 6 pitches, 0 hits, 0 K, 0 BB, avg EV 80.1
+  bolte, henry: 3 pitches, 0 hits, 1 K, 0 BB, avg EV <NA>
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 4
+Avg EV: 76.7 mph
+Avg LA: 29.5
+Hard hit (95+): 1/4 (25%)
+
+=== VELOCITY TREND ===
+
+=== RELEASE POINT SPREAD ===
+  Curveball: H=1.8in V=0.5in Total=1.8in Tight
+  Slider: H=1.9in V=0.6in Total=2.0in Tight
+  4-Seam: H=0.4in V=0.5in Total=0.6in Tight
+
+=== TUNNELING ANALYSIS ===
+  Curveball/Slider: RelSim=0.7in PlateSep=16.4in Tunnel=22.4 (GREEN) VeloGap=5.6mph
+  Curveball/4-Seam: RelSim=2.8in PlateSep=29.7in Tunnel=10.8 (GREEN) VeloGap=12.9mph
+  Slider/4-Seam: RelSim=3.2in PlateSep=13.3in Tunnel=4.2 (GREEN) VeloGap=7.3mph
+Best Tunnel: Curveball/Slider (score: 22.4)
+
+=== GAME SCORE ===
+Game Score: 53
+K: 2 H: 4 HR: 1 BB/HBP: 0
+
+=== KEY WPA MOMENTS ===
+  UP Inn 8: Soriano, George — double (WP -223.0%)
+  UP Inn 8: Soriano, George — double (WP -182.2%)
+  UP Inn 5: Soroka, Michael — home_run (WP 69.1%)
+  DOWN Inn 8: Weaver, Luke — double_play (WP 143.0%)
+  DOWN Inn 3: Tidwell, Blade — home_run (WP -194.6%)
+  DOWN Inn 3: Bennett, Jake — home_run (WP 94.9%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 23
+Hits: 4 (17%)
+Pull: 3 Center: 17 Oppo: 3
+
+=== PITCH RUN VALUE ===
+  Curveball: -0.585 total (-0.0731 per pitch, 8 pitches)
+  Slider: 0.054 total (0.009 per pitch, 6 pitches)
+  4-Seam: -0.248 total (-0.062 per pitch, 4 pitches)
+Most Effective: Curveball
+Least Effective: Slider
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 18 pitches
+  4-Seam: 10 (55.6%) velo=99.1 whiff=33.3% csw=40.0% grade=A
+  K-Curve: 4 (22.2%) velo=87.8 whiff=50.0% csw=25.0% grade=A
+  Changeup: 2 (11.1%) velo=92.1 whiff=0.0% csw=0.0% grade=D
+  Slider: 1 (5.6%) velo=92.9 whiff=0% csw=0.0% grade=D
+  Sinker: 1 (5.6%) velo=96.9 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 20 pitches
+  Sinker: 13 (65.0%) velo=83.5 whiff=0.0% csw=23.1% grade=D
+  Slider: 7 (35.0%) velo=73.8 whiff=0.0% csw=14.3% grade=D
+  Line: 0K / 1BB / 0H / 0HR
+
+Mantiply, Joe — 8 pitches
+  Sinker: 4 (50.0%) velo=88.2 whiff=0.0% csw=25.0% grade=D
+  Changeup: 2 (25.0%) velo=79.7 whiff=100.0% csw=50.0% grade=A
+  Curveball: 2 (25.0%) velo=80.2 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Sewald, Paul — 6 pitches
+  Sweeper: 4 (66.7%) velo=82.0 whiff=33.3% csw=25.0% grade=A
+  4-Seam: 2 (33.3%) velo=91.0 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+Lorenzen, Michael — 49 pitches
+  Sinker: 14 (28.6%) velo=93.9 whiff=0.0% csw=21.4% grade=D
+  Cutter: 12 (24.5%) velo=89.8 whiff=0.0% csw=25.0% grade=D
+  Sweeper: 12 (24.5%) velo=83.6 whiff=0.0% csw=16.7% grade=D
+  Changeup: 7 (14.3%) velo=84.8 whiff=0.0% csw=0.0% grade=D
+  Slider: 2 (4.1%) velo=87.9 whiff=50.0% csw=50.0% grade=A
+  4-Seam: 2 (4.1%) velo=93.8 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 1BB / 4H / 1HR
+
+=== SPOTLIGHT PITCHER ===
+Lorenzen, Michael — 49 pitches
+  Sinker: 14 (28.6%) velo=93.9 whiff=0.0% csw=21.4% grade=D
+  Cutter: 12 (24.5%) velo=89.8 whiff=0.0% csw=25.0% grade=D
+  Sweeper: 12 (24.5%) velo=83.6 whiff=0.0% csw=16.7% grade=D
+  Changeup: 7 (14.3%) velo=84.8 whiff=0.0% csw=0.0% grade=D
+  Slider: 2 (4.1%) velo=87.9 whiff=50.0% csw=50.0% grade=A
+  4-Seam: 2 (4.1%) velo=93.8 whiff=0.0% csw=0.0% grade=D
+  Line: 2K / 1BB / 4H / 1HR
+  Overall Whiff: 5.0%
+  Role: CONTACT MANAGER
+
+=== CHARTS SAVED ===
+  movement_2026-09-09.png
+  zone_2026-09-09.png
+  batted_balls_2026-09-09.png
+  velocity_2026-09-09.png
+  release_2026-09-09.png
+  gamescore_2026-09-09.png
+  wpa_2026-09-09.png
+  spray_2026-09-09.png
+  runvalue_2026-09-09.png
+  spotlight_2026-09-09.png
