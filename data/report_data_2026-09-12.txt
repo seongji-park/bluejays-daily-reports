@@ -1,0 +1,185 @@
+=== BLUE JAYS GAME REPORT DATA EXPORT ===
+Date: 2026-09-12
+Opponent: BAL
+Result: W 7-3
+Starter: Miles, Spencer
+Spotlight: Arrighetti, Spencer
+Season Record: 73-74
+Home/Away: HOME
+
+=== DATA SUMMARY ===
+Total pitches in game: 4432
+Blue Jays pitching data: 149 pitches
+Blue Jays batting data: 154 pitches
+Miles, Spencer: 44 pitches
+
+=== All Blue Jays pitchers ===
+  Varland, Louis: 14 pitches
+  Rogers, Tyler: 9 pitches
+  Sewald, Paul: 11 pitches
+  Fluharty, Mason: 12 pitches
+  Arrighetti, Spencer: 51 pitches
+  Mantiply, Joe: 8 pitches
+  Miles, Spencer: 44 pitches
+
+=== STARTER PITCH ARSENAL ===
+Pitch           #   Usage    Velo  Whiff%    CSW%   Chase%   Grade
+----------------------------------------------------------------------
+Sinker         28   63.6%   96.8   30.0%   39.3%     7.7%       A
+Curveball       7   15.9%   81.8   50.0%   42.9%    33.3%       A
+4-Seam          5   11.4%   96.5   50.0%   40.0%    33.3%       A
+Slider          4    9.1%   87.5   50.0%   50.0%    50.0%       A
+
+=== PITCH MOVEMENT (inches) ===
+  Sinker: H=-16.4 V=6.7 (28 pitches)
+  Curveball: H=13.0 V=-10.1 (7 pitches)
+  4-Seam: H=-8.2 V=13.3 (5 pitches)
+  Slider: H=5.2 V=-2.0 (4 pitches)
+
+=== vs LHB/RHB ===
+  L: 27 pitches, avg velo 93.9, 5 swinging strikes, whiff/pitch 18.5%
+  R: 17 pitches, avg velo 93.0, 2 swinging strikes, whiff/pitch 11.8%
+
+=== PITCH SELECTION BY COUNT ===
+  First pitch (0-0) (9 pitches):
+    Sinker: 66.7%
+    Curveball: 33.3%
+  Ahead (12 pitches):
+    Sinker: 66.7%
+    4-Seam: 25.0%
+    Curveball: 8.3%
+  Behind (8 pitches):
+    Sinker: 75.0%
+    4-Seam: 12.5%
+    Slider: 12.5%
+  Even (7 pitches):
+    Sinker: 71.4%
+    Slider: 28.6%
+  Full count (3-2) (8 pitches):
+    Curveball: 37.5%
+    Sinker: 37.5%
+    4-Seam: 12.5%
+    Slider: 12.5%
+
+=== STRIKEOUT PITCHES (5 K's) ===
+  Curveball: 2
+  Sinker: 2
+  4-Seam: 1
+
+=== TOP OPPOSING BATTERS ===
+  alonso, pete: 8 pitches, 0 hits, 0 K, 1 BB, avg EV 85.5
+  henderson, gunnar: 8 pitches, 0 hits, 0 K, 1 BB, avg EV 89.5
+  cowser, colton: 7 pitches, 0 hits, 1 K, 0 BB, avg EV 82.2
+  beavers, dylan: 5 pitches, 0 hits, 1 K, 0 BB, avg EV <NA>
+  encarnacion-strand, christian: 4 pitches, 0 hits, 0 K, 0 BB, avg EV 100.4
+
+=== BATTED BALL SUMMARY ===
+Total BIP: 11
+Avg EV: 88.1 mph
+Avg LA: 23.9
+Hard hit (95+): 3/11 (27%)
+
+=== VELOCITY TREND ===
+  Sinker: 97.1 -> 96.2 mph (-0.9)
+  Curveball: 81.8 -> 81.9 mph (+0.1)
+  4-Seam: 96.6 -> 96.3 mph (-0.3)
+
+=== RELEASE POINT SPREAD ===
+  Sinker: H=1.1in V=0.7in Total=1.3in Tight
+  Curveball: H=0.7in V=0.7in Total=1.0in Tight
+  4-Seam: H=0.8in V=1.2in Total=1.4in Tight
+  Slider: H=0.6in V=1.0in Total=1.2in Tight
+
+=== TUNNELING ANALYSIS ===
+  Curveball/Slider: RelSim=0.2in PlateSep=11.3in Tunnel=46.0 (GREEN) VeloGap=5.7mph
+  Sinker/Curveball: RelSim=2.5in PlateSep=33.8in Tunnel=13.7 (GREEN) VeloGap=15.0mph
+  Sinker/Slider: RelSim=2.2in PlateSep=23.2in Tunnel=10.4 (GREEN) VeloGap=9.3mph
+  Sinker/4-Seam: RelSim=1.0in PlateSep=10.5in Tunnel=10.2 (GREEN) VeloGap=0.3mph
+  Curveball/4-Seam: RelSim=3.5in PlateSep=31.6in Tunnel=9.1 (GREEN) VeloGap=14.7mph
+  4-Seam/Slider: RelSim=3.2in PlateSep=20.3in Tunnel=6.3 (GREEN) VeloGap=9.0mph
+Best Tunnel: Curveball/Slider (score: 46.0)
+
+=== GAME SCORE ===
+Game Score: 53
+K: 0 H: 0 HR: 0 BB/HBP: 2
+
+=== KEY WPA MOMENTS ===
+  UP Inn 4: Singer, Brady — home_run (WP 190.1%)
+  UP Inn 6: Gose, Anthony — double (WP -5.6%)
+  UP Inn 8: Taylor, Grant — home_run (WP 83.7%)
+  DOWN Inn 9: O'Brien, Riley — home_run (WP 51.2%)
+  DOWN Inn 9: Dion, Will — double (WP 219.2%)
+  DOWN Inn 6: Holmes, Clay — home_run (WP 33.1%)
+
+=== SPRAY SUMMARY ===
+Total batted balls: 23
+Hits: 6 (26%)
+Pull: 4 Center: 17 Oppo: 2
+
+=== PITCH RUN VALUE ===
+  Sinker: 0.048 total (0.0017 per pitch, 28 pitches)
+  Curveball: -0.473 total (-0.0676 per pitch, 7 pitches)
+  4-Seam: -0.18 total (-0.036 per pitch, 5 pitches)
+  Slider: 0.004 total (0.001 per pitch, 4 pitches)
+Most Effective: Curveball
+Least Effective: Sinker
+
+=== BULLPEN DETAILED ===
+Varland, Louis — 14 pitches
+  4-Seam: 6 (42.9%) velo=100.0 whiff=33.3% csw=50.0% grade=A
+  Changeup: 5 (35.7%) velo=93.4 whiff=50.0% csw=40.0% grade=A
+  K-Curve: 3 (21.4%) velo=88.1 whiff=50.0% csw=33.3% grade=A
+  Line: 2K / 0BB / 0H / 0HR
+
+Rogers, Tyler — 9 pitches
+  Sinker: 5 (55.6%) velo=82.9 whiff=33.3% csw=40.0% grade=A
+  Slider: 4 (44.4%) velo=73.6 whiff=50.0% csw=75.0% grade=A
+  Line: 1K / 0BB / 0H / 0HR
+
+Sewald, Paul — 11 pitches
+  Sweeper: 8 (72.7%) velo=82.0 whiff=0.0% csw=37.5% grade=D
+  4-Seam: 3 (27.3%) velo=90.8 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 1H / 1HR
+
+Fluharty, Mason — 12 pitches
+  Cutter: 7 (58.3%) velo=90.7 whiff=50.0% csw=42.9% grade=A
+  Changeup: 3 (25.0%) velo=88.1 whiff=0.0% csw=0.0% grade=D
+  Sweeper: 2 (16.7%) velo=81.9 whiff=0% csw=100.0% grade=D
+  Line: 1K / 0BB / 2H / 0HR
+
+Arrighetti, Spencer — 51 pitches
+  Curveball: 23 (45.1%) velo=76.3 whiff=37.5% csw=13.0% grade=A
+  4-Seam: 16 (31.4%) velo=92.2 whiff=14.3% csw=43.8% grade=C
+  Sinker: 5 (9.8%) velo=92.2 whiff=0.0% csw=20.0% grade=D
+  Changeup: 4 (7.8%) velo=84.4 whiff=50.0% csw=25.0% grade=A
+  Sweeper: 2 (3.9%) velo=81.1 whiff=0% csw=50.0% grade=D
+  Line: 2K / 2BB / 2H / 0HR
+
+Mantiply, Joe — 8 pitches
+  Sinker: 4 (50.0%) velo=86.1 whiff=0.0% csw=0.0% grade=D
+  Curveball: 2 (25.0%) velo=77.6 whiff=0% csw=0.0% grade=D
+  Changeup: 2 (25.0%) velo=78.2 whiff=0.0% csw=0.0% grade=D
+  Line: 0K / 0BB / 0H / 0HR
+
+=== SPOTLIGHT PITCHER ===
+Arrighetti, Spencer — 51 pitches
+  Curveball: 23 (45.1%) velo=76.3 whiff=37.5% csw=13.0% grade=A
+  4-Seam: 16 (31.4%) velo=92.2 whiff=14.3% csw=43.8% grade=C
+  Sinker: 5 (9.8%) velo=92.2 whiff=0.0% csw=20.0% grade=D
+  Changeup: 4 (7.8%) velo=84.4 whiff=50.0% csw=25.0% grade=A
+  Sweeper: 2 (3.9%) velo=81.1 whiff=0% csw=50.0% grade=D
+  Line: 2K / 2BB / 2H / 0HR
+  Overall Whiff: 27.8%
+  Role: SOLID RELIEVER
+
+=== CHARTS SAVED ===
+  movement_2026-09-12.png
+  zone_2026-09-12.png
+  batted_balls_2026-09-12.png
+  velocity_2026-09-12.png
+  release_2026-09-12.png
+  gamescore_2026-09-12.png
+  wpa_2026-09-12.png
+  spray_2026-09-12.png
+  runvalue_2026-09-12.png
+  spotlight_2026-09-12.png
